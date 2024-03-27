@@ -1,8 +1,10 @@
 logo: /images/JTM.png
 links:
+  - title: About Us
+    url: /example-page/
+  - title: Courses
+    collection: example-folder
+  - title: Our Training Partners
+    url: /permalink
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
