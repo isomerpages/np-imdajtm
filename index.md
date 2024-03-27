@@ -7,13 +7,13 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
+      title: jtm title
+      subtitle: jtm subtitle
       background: /images/banner.jpg
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
+        - title: highlight A
           description: Important highlight A is important
           url: https://google.com
         - title: Highlight B
