@@ -2,9 +2,13 @@ logo: /images/JTM.png
 links:
   - title: About Us
     url: /example-page/
-  - title: Courses
+  - title: Courses Offered
     collection: example-folder
-  - title: Our Training Partners
+  - title: "Training Partners "
+    url: /permalink
+  - title: Resources
+    collection: example-folder
+  - title: Career Conversion Programme
     url: /permalink
   - title: Contact Us
     url: /contact-us/
