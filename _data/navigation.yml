@@ -4,10 +4,10 @@ links:
     url: /example-page/
   - title: Courses Offered
     collection: example-folder
-  - title: "Training Partners "
+  - title: Training Partners
     url: /permalink
   - title: Resources
-    collection: example-folder
+    collection: events
   - title: Career Conversion Programme
     url: /permalink
   - title: Contact Us
