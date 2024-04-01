@@ -7,7 +7,12 @@ links:
   - title: Training Partners
     url: /permalink
   - title: Resources
-    collection: events
+    url: /permalink
+    sublinks:
+      - title: Events
+        url: /permalink
+      - title: Media Stories
+        url: /permalink
   - title: Career Conversion Programme
     url: /permalink
   - title: Contact Us
