@@ -2,8 +2,8 @@ collections:
   course-levels:
     output: true
     order:
-      - Beginner/Courses.md
-      - Beginner/.keep
+      - Data & AI Programmes/Courses.md
+      - Data & AI Programmes/.keep
       - Intermediate/Courses.md
       - Intermediate/.keep
       - Advance/Courses.md
