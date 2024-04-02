@@ -1,5 +1,4 @@
 collections:
   courses:
     output: true
-    order:
-      - Example Title.md
+    order: []
