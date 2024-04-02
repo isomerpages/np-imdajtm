@@ -1,5 +1,5 @@
 collections:
-  course-levels:
+  courses-offered:
     output: true
     order:
       - Beginner/.keep
