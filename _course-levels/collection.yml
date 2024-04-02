@@ -1,5 +1,5 @@
 collections:
-  courses-level:
+  course-levels:
     output: true
     order:
       - Advance/.keep
