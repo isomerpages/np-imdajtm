@@ -4,7 +4,7 @@ collections:
     order:
       - Beginner/Courses.md
       - Beginner/.keep
-      - Intermediate/Example Title.md
+      - Intermediate/Courses.md
       - Intermediate/.keep
       - Advance/Example Title.md
       - Advance/.keep
