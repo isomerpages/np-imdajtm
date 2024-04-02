@@ -1,0 +1,4 @@
+collections:
+  course-level:
+    output: true
+    order: []
