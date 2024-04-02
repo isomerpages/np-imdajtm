@@ -1,5 +1,5 @@
 collections:
-  course-level:
+  course-levels:
     output: true
     order:
       - Beginner/Example Title.md
