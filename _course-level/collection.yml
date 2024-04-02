@@ -2,4 +2,5 @@ collections:
   course-level:
     output: true
     order:
+      - Intermediate/.keep
       - Advance/.keep
