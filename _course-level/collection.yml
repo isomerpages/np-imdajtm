@@ -1,4 +1,5 @@
 collections:
   course-level:
     output: true
-    order: []
+    order:
+      - Advance/.keep
