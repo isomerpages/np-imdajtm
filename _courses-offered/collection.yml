@@ -1,7 +1,0 @@
-collections:
-  courses-offered:
-    output: true
-    order:
-      - Beginner/.keep
-      - Intermediate/.keep
-      - Advance/.keep
