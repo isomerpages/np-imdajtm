@@ -2,9 +2,9 @@ collections:
   course-levels:
     output: true
     order:
-      - Data & AI Programmes/Courses.md
       - Data & AI Programmes/.keep
-      - Gen AI Programmes/Courses.md
+      - Data & AI Programmes/Courses.md
       - Gen AI Programmes/.keep
-      - Software Engineering Prog/Courses.md
+      - Gen AI Programmes/Courses.md
       - Software Engineering Prog/.keep
+      - Software Engineering Prog/Courses.md
