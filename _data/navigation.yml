@@ -3,7 +3,7 @@ links:
   - title: About Us
     url: /example-page/
   - title: Courses Offered
-    collection: course-levels
+    collection: courses-offered
   - title: Training Partners
     url: /permalink
   - title: Resources
