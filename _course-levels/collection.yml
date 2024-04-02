@@ -2,7 +2,7 @@ collections:
   course-levels:
     output: true
     order:
-      - Beginner/Example Title.md
+      - Beginner/Courses.md
       - Beginner/.keep
       - Intermediate/Example Title.md
       - Intermediate/.keep
