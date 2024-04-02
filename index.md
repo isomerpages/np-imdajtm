@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: highlight A
           description: Important highlight A is important
-          url: https://google.com
+          url: /course-level
         - title: Highlight B
           description: Important highlight B is equally important
           url: https://gmail.com
