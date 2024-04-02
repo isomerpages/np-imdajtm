@@ -2,6 +2,8 @@ logo: /images/JTM.png
 links:
   - title: About Us
     url: /example-page/
+  - title: Courses Offered
+    collection: course-level
   - title: Training Partners
     url: /permalink
   - title: Resources
