@@ -2,9 +2,9 @@ collections:
   course-levels:
     output: true
     order:
-      - Data & AI Programmes/Intermediate.md
-      - Data & AI Programmes/Basic.md
       - Data & AI Programmes/.keep
+      - Data & AI Programmes/Basic.md
+      - Data & AI Programmes/Intermediate.md
       - Data & AI Programmes/Courses.md
       - Gen AI Programmes/Intermidate.md
       - Gen AI Programmes/.keep
