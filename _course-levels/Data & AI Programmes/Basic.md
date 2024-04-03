@@ -9,12 +9,22 @@ third_nav_title: Data & AI Programmes
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><a href="https://www.cet.np.edu.sg/courses/programming-foundations-for-analytics-classroom-synchronous/" rel="noopener noreferrer nofollow" target="_blank">Programming Foundations for Analytics</a>
+<p><strong>Course Title</strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p><strong>Duration</strong>
+</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.cet.np.edu.sg/courses/programming-foundations-for-analytics-classroom-synchronous/" rel="noopener noreferrer nofollow" target="_blank">Programming Foundations for Analytics</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 days</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -22,15 +32,7 @@ third_nav_title: Data & AI Programmes
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>6 days</p>
 </td>
 </tr>
 </tbody>
