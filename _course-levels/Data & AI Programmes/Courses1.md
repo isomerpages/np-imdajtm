@@ -1,7 +1,7 @@
 ---
 title: Courses1
 permalink: /courses1/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: Data & AI Programmes
 ---
@@ -59,9 +59,4 @@ third_nav_title: Data & AI Programmes
 </tr>
 </tbody>
 </table>
-<ol data-tight="true" class="tight">
-<li>
-<p></p>
-</li>
-</ol>
 <p></p>
