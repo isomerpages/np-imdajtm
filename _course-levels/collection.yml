@@ -2,6 +2,7 @@ collections:
   course-levels:
     output: true
     order:
+      - Data & AI Programmes/Basic.md
       - Data & AI Programmes/.keep
       - Data & AI Programmes/Courses.md
       - Gen AI Programmes/.keep
