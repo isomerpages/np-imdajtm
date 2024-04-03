@@ -27,10 +27,10 @@ third_nav_title: Data & AI Programmes
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Basic</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>5 days</p>
 </td>
 </tr>
 <tr>
