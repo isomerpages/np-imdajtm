@@ -29,7 +29,7 @@ third_nav_title: Basic
 <p>SUSS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6 days Weeknights (7pm-10pm)</p>
+<p>6 days (7pm-10pm)</p>
 </td>
 </tr>
 <tr>
