@@ -2,6 +2,6 @@ collections:
   course-levels:
     output: true
     order:
-      - Data & AI Programmes/.keep
+      - Basic/.keep
       - Gen AI Programmes/.keep
       - Software Engineering Prog/.keep
