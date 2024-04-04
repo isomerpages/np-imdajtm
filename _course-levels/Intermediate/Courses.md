@@ -34,6 +34,18 @@ third_nav_title: Intermediate
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2023037260" rel="noopener noreferrer nofollow" target="_blank">Computer Networking</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SUSS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12 days (7pm-10pm)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="Enterprise Systems and Integrated Business Process" rel="noopener noreferrer nofollow" target="_blank">Enterprise Systems and Integrated Business Process</a>
 </p>
 </td>
