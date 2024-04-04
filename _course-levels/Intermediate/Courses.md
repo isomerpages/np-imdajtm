@@ -22,6 +22,18 @@ third_nav_title: Intermediate
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2023037134" rel="noopener noreferrer nofollow" target="_blank">Cloud Computing: Business Case and Technical Models</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SUSS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12 days (7pm-10pm)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2023037104" rel="noopener noreferrer nofollow" target="_blank">Cloud Computing for Managers 2</a>
 </p>
 </td>
