@@ -22,6 +22,18 @@ third_nav_title: Advance
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://www.suss.edu.sg/courses/detail/aib501" rel="noopener noreferrer nofollow" target="_blank">Introduction to AI</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SUSS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 days (7pm-10pm)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://www.cet.np.edu.sg/courses/specialist-diploma-in-applied-generative-ai/" rel="noopener noreferrer nofollow" target="_blank">Specialist Diploma in Applied Generative AI</a>
 </p>
 </td>
