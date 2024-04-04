@@ -4,7 +4,6 @@ collections:
     order:
       - Data & AI Programmes/.keep
       - Gen AI Programmes/.keep
-      - Gen AI Programmes/Basic.md
       - Gen AI Programmes/Intermidate.md
       - Software Engineering Prog/.keep
       - Software Engineering Prog/Courses.md
