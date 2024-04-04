@@ -4,7 +4,7 @@ collections:
     order:
       - Basic/Courses.md
       - Basic/.keep
-      - Intermidate/Courses.md
-      - Intermidate/.keep
+      - Intermediate/Courses.md
+      - Intermediate/.keep
       - Advance/Courses.md
       - Advance/.keep
