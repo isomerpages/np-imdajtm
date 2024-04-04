@@ -86,10 +86,10 @@ third_nav_title: Basic
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>SUSS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1 day (9am-5pm)</p>
 </td>
 </tr>
 <tr>
