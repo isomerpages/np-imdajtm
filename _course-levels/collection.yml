@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Data & AI Programmes/.keep
-      - Data & AI Programmes/Intermediate.md
       - Data & AI Programmes/Courses.md
       - Gen AI Programmes/.keep
       - Gen AI Programmes/Basic.md
