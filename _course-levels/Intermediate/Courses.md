@@ -13,6 +13,9 @@ third_nav_title: Intermediate
 </p>
 </th>
 <th rowspan="1" colspan="1">
+<p>Training Partners</p>
+</th>
+<th rowspan="1" colspan="1">
 <p><strong>Duration</strong>
 </p>
 </th>
@@ -23,6 +26,9 @@ third_nav_title: Intermediate
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p>NP</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>4 days</p>
 </td>
 </tr>
@@ -30,6 +36,9 @@ third_nav_title: Intermediate
 <td rowspan="1" colspan="1">
 <p><a href="https://www.cet.np.edu.sg/courses/specialist-diploma-in-data-analytics/" rel="noopener noreferrer nofollow" target="_blank">Specialist Diploma in Data Analytics</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NP</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>12 months</p>
