@@ -34,6 +34,18 @@ third_nav_title: Intermediate
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2023037338" rel="noopener noreferrer nofollow" target="_blank">Fundamentals of Data Mining</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SUSS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 days (7pm-10pm)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://www.cet.np.edu.sg/courses/generative-artificial-intelligence-ai-for-data-practitioners-classroom-asynchronous-e-learning/" rel="noopener noreferrer nofollow" target="_blank">Generative Artificial Intelligence for Data Practitioners</a>
 </p>
 </td>
