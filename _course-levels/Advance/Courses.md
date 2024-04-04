@@ -58,6 +58,18 @@ third_nav_title: Advance
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="" rel="noopener noreferrer nofollow" target="_blank">Data School</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 - 12 months</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://www.suss.edu.sg/courses/detail/ANL501" rel="noopener noreferrer nofollow" target="_blank">Data Visualisation and Storytelling</a>
 </p>
 </td>
