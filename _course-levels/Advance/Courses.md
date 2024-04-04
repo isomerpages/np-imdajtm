@@ -34,6 +34,18 @@ third_nav_title: Advance
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://www.suss.edu.sg/courses/detail/ANL501" rel="noopener noreferrer nofollow" target="_blank">Data Visualisation and Storytelling</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SUSS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 days (7pm-10pm)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://www.suss.edu.sg/courses/detail/aib502" rel="noopener noreferrer nofollow" target="_blank">Ethics of AI</a>
 </p>
 </td>
