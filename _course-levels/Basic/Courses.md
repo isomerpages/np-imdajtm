@@ -23,7 +23,7 @@ third_nav_title: Basic
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>6 days</p>
 </td>
 </tr>
 <tr>
@@ -32,7 +32,7 @@ third_nav_title: Basic
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>5 days</p>
 </td>
 </tr>
 <tr>
@@ -41,7 +41,7 @@ third_nav_title: Basic
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>30 months</p>
 </td>
 </tr>
 <tr>
@@ -50,7 +50,7 @@ third_nav_title: Basic
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>3 days</p>
 </td>
 </tr>
 <tr>
@@ -59,7 +59,7 @@ third_nav_title: Basic
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2 days</p>
 </td>
 </tr>
 <tr>
@@ -68,7 +68,7 @@ third_nav_title: Basic
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>5 days</p>
 </td>
 </tr>
 <tr>
@@ -77,7 +77,7 @@ third_nav_title: Basic
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2 days</p>
 </td>
 </tr>
 </tbody>
