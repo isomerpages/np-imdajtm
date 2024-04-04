@@ -46,7 +46,7 @@ third_nav_title: Basic
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.cet.np.edu.sg/courses/generative-artificial-intelligence-ai-for-marketing-and-public-relations-professionals/" rel="noopener noreferrer nofollow" target="_blank">Generative Artificial Intelligence for Marketing &amp; Public Relations Professionals </a>
+<p><a href="https://www.cet.np.edu.sg/courses/generative-artificial-intelligence-ai-for-marketing-and-public-relations-professionals/" rel="noopener noreferrer nofollow" target="_blank">Generative Artificial Intelligence for Marketing &amp; Public Relations Professionals</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
