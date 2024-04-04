@@ -13,6 +13,9 @@ third_nav_title: Basic
 </p>
 </th>
 <th rowspan="1" colspan="1">
+<p>Training Partners</p>
+</th>
+<th rowspan="1" colspan="1">
 <p><strong>Duration</strong>
 </p>
 </th>
@@ -21,6 +24,9 @@ third_nav_title: Basic
 <td rowspan="1" colspan="1">
 <p><a href="https://www.cet.np.edu.sg/courses/data-visualisation-primer-classroom-synchronous/" rel="noopener noreferrer nofollow" target="_blank">Data Visualisation Primer</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NP</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6 days</p>
@@ -32,6 +38,9 @@ third_nav_title: Basic
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p>NP</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>5 days</p>
 </td>
 </tr>
@@ -39,6 +48,9 @@ third_nav_title: Basic
 <td rowspan="1" colspan="1">
 <p><a href="https://www.cet.np.edu.sg/courses/diploma-in-full-stack-development/" rel="noopener noreferrer nofollow" target="_blank">Diploma in Full Stack Development</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NP</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>30 months</p>
@@ -50,6 +62,9 @@ third_nav_title: Basic
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p>NP</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>3 days</p>
 </td>
 </tr>
@@ -57,6 +72,9 @@ third_nav_title: Basic
 <td rowspan="1" colspan="1">
 <p><a href="https://www.cet.np.edu.sg/courses/generative-artificial-intelligence-ai-for-productivity-classroom-asynchronous/" rel="noopener noreferrer nofollow" target="_blank">Generative Artificial Intelligence (AI) for Productivity</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NP</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 days</p>
@@ -68,6 +86,9 @@ third_nav_title: Basic
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p>NP</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>5 days</p>
 </td>
 </tr>
@@ -75,6 +96,9 @@ third_nav_title: Basic
 <td rowspan="1" colspan="1">
 <p><a href="https://www.cet.np.edu.sg/courses/querying-data-with-sql/" rel="noopener noreferrer nofollow" target="_blank">Querying Data with SQL</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 days</p>
