@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Basic/.keep
-      - Gen AI Programmes/.keep
+      - Intermidate/.keep
       - Software Engineering Prog/.keep
