@@ -2,7 +2,7 @@ collections:
   course-levels:
     output: true
     order:
-      - Basic/Basic Courses.md
+      - Basic/Courses.md
       - Basic/.keep
       - Intermidate/Courses.md
       - Intermidate/.keep
