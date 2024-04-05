@@ -7,8 +7,8 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: JOBS
-      subtitle: ENABLING
+      title: JOBS TRANSFORMATION MAP
+      subtitle: ENABLING AI WORKFORCE
       background: /images/banner.jpg
       button: Contact Us
       url: /contact-us/
