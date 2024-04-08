@@ -8,7 +8,6 @@ notification: Here's a notification bar you can use!
 sections:
   - hero:
       background: /images/Banner.png
-      button: Contact Us
       url: /contact-us/
       key_highlights:
         - title: highlight A
@@ -20,7 +19,7 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
-      variant: center
+      variant: image
   - infobar:
       title: Infobar title
       subtitle: Subtitle
