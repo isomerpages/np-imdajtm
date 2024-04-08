@@ -20,7 +20,7 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
-      variant: center
+      variant: image
   - infobar:
       title: Infobar title
       subtitle: Subtitle
