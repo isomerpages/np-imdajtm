@@ -1,6 +1,6 @@
 title: Title
 url: https://www.np.edu.sg
-favicon: /images/JTM.png
+favicon: /images/logo.jpg
 colors:
   primary-color: "#6031b6"
   secondary-color: "#4372d6"
@@ -52,7 +52,7 @@ plugins:
 staging: https://staging-lite.d1uc4ikzcve019.amplifyapp.com
 prod: https://master.d35silbw6idiuw.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/JTM.png
+shareicon: /images/logo.jpg
 is_government: false
 google_analytics_ga4: ""
 linkedin-insights: ""
