@@ -40,6 +40,9 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SUSS_Logo_HorA_FullColor_RGB_.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -51,6 +54,9 @@ description: ""
 </tbody>
 </table>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SUSS_Logo_HorA_FullColor_RGB_.png">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TeSA_1_with_an_initiative_of_skillsfuture.jpg">
 </div>
