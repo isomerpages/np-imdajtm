@@ -34,6 +34,30 @@ third_nav_title: Intermediate
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://www.iss.nus.edu.sg/executive-education/course/detail/certified-scrum-product---owner/digital-agility" rel="noopener noreferrer nofollow" target="_blank">Certified Scrum Product Owner</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NUS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 days (9 am - 5:30 pm)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.iss.nus.edu.sg/executive-education/course/detail/certified-scrummaster-/digital-agility" rel="noopener noreferrer nofollow" target="_blank">Certified ScrumMaster</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NUS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 days (9 am - 5:30 pm)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2023037134" rel="noopener noreferrer nofollow" target="_blank">Cloud Computing: Business Case and Technical Models</a>
 </p>
 </td>
