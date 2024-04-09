@@ -130,6 +130,18 @@ third_nav_title: Advanced
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://www.ntuclearninghub.com/en-gb/-/course/deep-learning-models-and-ai-using-python-sf" rel="noopener noreferrer nofollow" target="_blank">DEEP LEARNING MODELS AND AI USING PYTHON (SF)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NTUC LHub</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>16.0 hr(s)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://ace.nus.edu.sg/course/digital-transformation-a-holistic-approach/" rel="noopener noreferrer nofollow" target="_blank">Digital Transformation - A Holistic Approach</a>
 </p>
 </td>
