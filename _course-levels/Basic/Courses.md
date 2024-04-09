@@ -70,6 +70,18 @@ third_nav_title: Basic
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://inetapps.nus.edu.sg/SACS/LifeLongLearning/CourseDetails/COM-AAPM_TGS-2019507053/" rel="noopener noreferrer nofollow" target="_blank">Applied Analytics using Predictive Modelling</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NUS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 days ( 9 am - 5:30 pm)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2023022149" rel="noopener noreferrer nofollow" target="_blank">Cloud Computing for all</a>
 </p>
 </td>
