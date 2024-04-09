@@ -118,6 +118,18 @@ third_nav_title: Advanced
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://ace.nus.edu.sg/course/digital-transformation-a-holistic-approach/" rel="noopener noreferrer nofollow" target="_blank">Digital Transformation - A Holistic Approach</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NUS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 day (9 am - 5:30 pm)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://www.suss.edu.sg/courses/detail/aib502" rel="noopener noreferrer nofollow" target="_blank">Ethics of AI</a>
 </p>
 </td>
