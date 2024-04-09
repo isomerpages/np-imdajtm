@@ -298,6 +298,18 @@ third_nav_title: Basic
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://www.ntuclearninghub.com/en-gb/-/course/programming-in-html5-javascript-and-css3-sf" rel="noopener noreferrer nofollow" target="_blank">PROGRAMMING IN HTML5, JAVASCRIPT AND CSS3 (SF)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NTUC LHub</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>40.0 hr(s)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://inetapps.nus.edu.sg/SACS/LifeLongLearning/CourseDetails/COM-PP_TGS-2022011018/" rel="noopener noreferrer nofollow" target="_blank">Python Programming</a>
 </p>
 </td>
