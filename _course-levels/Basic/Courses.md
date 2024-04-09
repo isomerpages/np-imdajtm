@@ -34,6 +34,18 @@ third_nav_title: Basic
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://inetapps.nus.edu.sg/SACS/LifeLongLearning/CourseDetails/COM-AIAMLBWM_TGS-2020506039/" rel="noopener noreferrer nofollow" target="_blank">AI and Machine Learning Begins With Me</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NUS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 days (9 am - 5 pm)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2023037342" rel="noopener noreferrer nofollow" target="_blank">Analytics for Decision- Making</a>
 </p>
 </td>
@@ -42,6 +54,18 @@ third_nav_title: Basic
 </td>
 <td rowspan="1" colspan="1">
 <p>6 days (7pm-10pm)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://inetapps.nus.edu.sg/SACS/LifeLongLearning/CourseDetails/FOS-AII4.0_TGS-2020513209/" rel="noopener noreferrer nofollow" target="_blank">Analytics in Industry 4.0</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NUS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 days (9 am - 5 pm)</p>
 </td>
 </tr>
 <tr>
