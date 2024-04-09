@@ -82,6 +82,18 @@ third_nav_title: Basic
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://www.ntuclearninghub.com/en-gb/-/course/citizen-development-by-servicenow" rel="noopener noreferrer nofollow" target="_blank">CITIZEN DEVELOPMENT BY SERVICENOW</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NTUC LHub</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20.0 hr(s)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2023022149" rel="noopener noreferrer nofollow" target="_blank">Cloud Computing for all</a>
 </p>
 </td>
