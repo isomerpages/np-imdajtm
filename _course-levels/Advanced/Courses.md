@@ -142,7 +142,7 @@ third_nav_title: Advanced
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.ntuclearninghub.com/en-gb/-/course/devops-leader-dol-sf-" rel="noopener noreferrer nofollow" target="_blank">devops-leader-dol-sf-</a>
+<p><a href="https://www.ntuclearninghub.com/en-gb/-/course/devops-leader-dol-sf-" rel="noopener noreferrer nofollow" target="_blank">DevOps</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
