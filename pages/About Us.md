@@ -4,7 +4,7 @@ permalink: /about-us/
 variant: tiptap
 description: ""
 ---
-<p>About Jobs Transformation Map</p>
+<h2>About Jobs Transformation Map</h2>
 <p>Technology is radically transforming the workforce. To ensure that I&amp;C
 professionals are equipped to take advantage of the opportunities that
 the digital economy brings, the&nbsp;<strong><a href="https://www.wsg.gov.sg/home/employers-industry-partners/jobs-transformation-maps" rel="noopener noreferrer nofollow" target="_blank">I&amp;C Jobs Transformation Map (JTM)</a></strong>&nbsp;was
