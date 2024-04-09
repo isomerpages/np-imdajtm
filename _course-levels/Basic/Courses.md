@@ -274,6 +274,18 @@ third_nav_title: Basic
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://inetapps.nus.edu.sg/SACS/LifeLongLearning/CourseDetails/FOS-QDRB_TGS-2020513884/" rel="noopener noreferrer nofollow" target="_blank">Quantitative Data Reasoning Bootcamp</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NUS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 days (9 am - 5 pm)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://www.cet.np.edu.sg/courses/querying-data-with-sql/" rel="noopener noreferrer nofollow" target="_blank">Querying Data with SQL</a>
 </p>
 </td>
@@ -282,6 +294,18 @@ third_nav_title: Basic
 </td>
 <td rowspan="1" colspan="1">
 <p>2 days</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://inetapps.nus.edu.sg/SACS/LifeLongLearning/CourseDetails/COM-RPABWM_TGS-2020513883/" rel="noopener noreferrer nofollow" target="_blank">Robotics Process Automation Begins With Me</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NUS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 day (9 am - 5 pm)</p>
 </td>
 </tr>
 <tr>
