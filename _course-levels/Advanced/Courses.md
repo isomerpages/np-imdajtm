@@ -142,6 +142,18 @@ third_nav_title: Advanced
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://ace.nus.edu.sg/course/digital-transformation-enablers-talent-and-leadership/" rel="noopener noreferrer nofollow" target="_blank">Digital Transformation - Enablers, Talent and Leadership</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NUS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 days (9 am - 5:30 pm)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://www.suss.edu.sg/courses/detail/aib502" rel="noopener noreferrer nofollow" target="_blank">Ethics of AI</a>
 </p>
 </td>
