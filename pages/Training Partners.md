@@ -48,3 +48,10 @@ description: ""
 </tbody>
 </table>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LHUB_Logo.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT_Logo_Standalone_Colour_NEW_.jpg">
+</div>
+<p></p>
