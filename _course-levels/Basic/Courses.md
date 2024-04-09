@@ -274,6 +274,18 @@ third_nav_title: Basic
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://www.ntuclearninghub.com/en-gb/-/course/javascript-framework-with-reactjs-sf" rel="noopener noreferrer nofollow" target="_blank">JAVASCRIPT FRAMEWORK WITH REACTJS (SF)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NTUC LHub</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>40.0 hr(s)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://www.ntuclearninghub.com/en-gb/-/course/microsoft-azure-ai-fundamentals-sf" rel="noopener noreferrer nofollow" target="_blank">MICROSOFT AZURE AI FUNDAMENTALS (SF)</a>
 </p>
 </td>
