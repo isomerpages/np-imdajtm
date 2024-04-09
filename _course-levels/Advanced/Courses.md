@@ -41,7 +41,7 @@ third_nav_title: Advanced
 <p>NUS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 days (9 AM - 5:30 PM)</p>
+<p>2 days (9 am - 5:30 pm)</p>
 </td>
 </tr>
 <tr>
@@ -102,6 +102,18 @@ third_nav_title: Advanced
 </td>
 <td rowspan="1" colspan="1">
 <p>6 days (7pm-10pm)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://inetapps.nus.edu.sg/SACS/LifeLongLearning/CourseDetails/COM-ADL-E_TGS-2022012789/" rel="noopener noreferrer nofollow" target="_blank">Deep Learning Fundamentals (Synchronous e-learning)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NUS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 days (9 am - 5 pm)</p>
 </td>
 </tr>
 <tr>
