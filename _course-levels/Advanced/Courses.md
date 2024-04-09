@@ -34,6 +34,18 @@ third_nav_title: Advanced
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://ace.nus.edu.sg/course/chat-models-and-natural-language-processing/" rel="noopener noreferrer nofollow" target="_blank">Chat Models and Natural Language Processing</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NUS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 days (9 AM - 5:30 PM)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://www.suss.edu.sg/courses/detail/ANL551" rel="noopener noreferrer nofollow" target="_blank">Data Analytics for Decision Makers</a>
 </p>
 </td>
