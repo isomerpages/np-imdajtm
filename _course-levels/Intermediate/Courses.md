@@ -285,6 +285,18 @@ third_nav_title: Intermediate
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://www.iss.nus.edu.sg/executive-education/course/detail/software-design-patterns" rel="noopener noreferrer nofollow" target="_blank">Software Design Patterns</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NUS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 days (9 am - 5:30 pm)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://www.cet.np.edu.sg/courses/specialist-diploma-in-data-analytics/" rel="noopener noreferrer nofollow" target="_blank">Specialist Diploma in Data Analytics</a>
 </p>
 </td>
