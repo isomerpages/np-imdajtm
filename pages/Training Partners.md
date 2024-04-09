@@ -67,6 +67,9 @@ description: ""
 </table>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NUSICT.jpg">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/RP_Logo_CMYK.jpg">
 </div>
 <div class="isomer-image-wrapper">
