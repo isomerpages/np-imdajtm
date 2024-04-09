@@ -284,6 +284,18 @@ third_nav_title: Advanced
 <p>12 months</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://inetapps.nus.edu.sg/SACS/LifeLongLearning/CourseDetails/COM-UIUXDM_TGS-2022014567/" rel="noopener noreferrer nofollow" target="_blank">User Interface &amp; User Experience Design for the Metaverse</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NUS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 days ( 9 am - 5 pm)</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
