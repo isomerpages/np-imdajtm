@@ -22,6 +22,18 @@ third_nav_title: Basic
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://inetapps.nus.edu.sg/SACS/LifeLongLearning/CourseDetails/COM-5G-MPAJO_TGS-2022012781/" rel="noopener noreferrer nofollow" target="_blank">5G Market Potential and Job Opportunities</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NUS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 day (9 am - 5 pm)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2023037342" rel="noopener noreferrer nofollow" target="_blank">Analytics for Decision- Making</a>
 </p>
 </td>
