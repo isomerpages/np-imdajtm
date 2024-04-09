@@ -106,6 +106,42 @@ third_nav_title: Intermediate
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://inetapps.nus.edu.sg/SACS/LifeLongLearning/CourseDetails/COM-DADS_TGS-2022012370/" rel="noopener noreferrer nofollow" target="_blank">Data and Database Systems</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NUS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 day (9 am - 5:30 pm)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://inetapps.nus.edu.sg/SACS/LifeLongLearning/CourseDetails/ISS-DST-SF_TGS-2023039677/" rel="noopener noreferrer nofollow" target="_blank">Data Storytelling</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NUS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 days (9 am - 5:30 pm)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://inetapps.nus.edu.sg/SACS/LifeLongLearning/CourseDetails/FOS-DVCWM_TGS-2022014088/" rel="noopener noreferrer nofollow" target="_blank">Data Visualization Continues With Me</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NUS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 days (9 am - 5 pm)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="Enterprise Systems and Integrated Business Process" rel="noopener noreferrer nofollow" target="_blank">Enterprise Systems and Integrated Business Process</a>
 </p>
 </td>
