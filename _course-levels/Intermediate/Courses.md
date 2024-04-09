@@ -225,6 +225,30 @@ third_nav_title: Intermediate
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://inetapps.nus.edu.sg/SACS/LifeLongLearning/CourseDetails/COM-MLIP_TGS-2022011025/" rel="noopener noreferrer nofollow" target="_blank">Machine Learning in Python</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NUS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 days (9 am - 5 pm)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://inetapps.nus.edu.sg/SACS/LifeLongLearning/CourseDetails/MR-NF/" rel="noopener noreferrer nofollow" target="_blank">Machine Reasoning</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NUS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 days (9 am - 5:30 pm)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2023037246" rel="noopener noreferrer nofollow" target="_blank">Management Information Systems</a>
 </p>
 </td>
@@ -233,6 +257,18 @@ third_nav_title: Intermediate
 </td>
 <td rowspan="1" colspan="1">
 <p>6 days (7pm-10pm)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.iss.nus.edu.sg/executive-education/course/detail/managing-digital--products/digital-products-platforms" rel="noopener noreferrer nofollow" target="_blank">Managing Digital Products</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NUS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 days (9 am - 5:30 pm)</p>
 </td>
 </tr>
 <tr>
