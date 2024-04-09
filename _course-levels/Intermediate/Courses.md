@@ -142,6 +142,18 @@ third_nav_title: Intermediate
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://inetapps.nus.edu.sg/SACS/LifeLongLearning/CourseDetails/COM-DCMAQWS_TGS-2022012358/" rel="noopener noreferrer nofollow" target="_blank">Database Creation, Manipulation, and Querying with SQL</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NUS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 days (9 am - 5:30 pm)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="Enterprise Systems and Integrated Business Process" rel="noopener noreferrer nofollow" target="_blank">Enterprise Systems and Integrated Business Process</a>
 </p>
 </td>
