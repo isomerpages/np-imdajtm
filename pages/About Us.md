@@ -15,7 +15,6 @@ IMDA’s TechSkills Accelerator (TeSA), is a national initiative that aims
 to equips individuals with the necessary digital skills and stay competitive.
 It also provides employers with guidance in redesigning tech jobs for at-risk
 workers.</p>
-<p>&nbsp;</p>
 <p>In order to scale up reskilling efforts and help existing tech professionals
 stay up to date with the latest technology and changes in their job roles,
 IMDA is working with five Training Partners to scale reskilling and upskilling
