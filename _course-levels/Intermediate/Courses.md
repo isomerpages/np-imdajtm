@@ -154,6 +154,18 @@ third_nav_title: Intermediate
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://www.iss.nus.edu.sg/executive-education/course/detail/devsecops-engineering-and--automation/software-systems" rel="noopener noreferrer nofollow" target="_blank">DevSecOps Engineering and Automation</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NUS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 days (9 am - 5:30 pm)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="Enterprise Systems and Integrated Business Process" rel="noopener noreferrer nofollow" target="_blank">Enterprise Systems and Integrated Business Process</a>
 </p>
 </td>
