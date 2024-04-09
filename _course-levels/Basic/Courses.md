@@ -310,6 +310,18 @@ third_nav_title: Basic
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://inetapps.nus.edu.sg/SACS/LifeLongLearning/CourseDetails/SLE-RPABWM-PAD_TGS-2022011443/" rel="noopener noreferrer nofollow" target="_blank">Robotics Process Automation Begins with Me (Power Automate Desktop)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NUS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 day (9 am - 5 pm)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2024042289" rel="noopener noreferrer nofollow" target="_blank">Technology Risk in Artificial Intelligence</a>
 </p>
 </td>
