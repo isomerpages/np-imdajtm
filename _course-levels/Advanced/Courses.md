@@ -142,6 +142,18 @@ third_nav_title: Advanced
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://www.ntuclearninghub.com/en-gb/-/course/devops-leader-dol-sf-" rel="noopener noreferrer nofollow" target="_blank">devops-leader-dol-sf-</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NTUC LHub</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>N.A.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://ace.nus.edu.sg/course/digital-transformation-a-holistic-approach/" rel="noopener noreferrer nofollow" target="_blank">Digital Transformation - A Holistic Approach</a>
 </p>
 </td>
