@@ -15,6 +15,9 @@ description: ""
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NUS_logo_full_colour.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -26,6 +29,9 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RP_Logo_CMYK.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -57,6 +63,12 @@ description: ""
 </tbody>
 </table>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RP_Logo_CMYK.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NUS_logo_full_colour.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Generation_Logo.png">
 </div>
