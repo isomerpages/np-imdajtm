@@ -370,6 +370,18 @@ third_nav_title: Advanced
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://stms.polite.edu.sg/student/ihlcourse/detail/7730c805-2052-4566-807d-7b28473ed8a8" rel="noopener noreferrer nofollow" target="_blank">Part-Time Diploma in Software Engineering</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TP RP Gen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://inetapps.nus.edu.sg/SACS/LifeLongLearning/CourseDetails/COM-PDSMLS_TGS-2022014570/" rel="noopener noreferrer nofollow" target="_blank">Production, Deployment and Sustainment of Machine Learning Solutions</a>
 </p>
 </td>
