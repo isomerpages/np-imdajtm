@@ -442,7 +442,19 @@ third_nav_title: Advanced
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/part-time-diploma-post-diploma-courses/specialist-diploma-in-business-analytics.html" rel="noopener noreferrer nofollow" target="_blank">Specialist Diploma in Business Analytics</a>
+<p><a href="https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/part-time-diploma-post-diploma-courses/specialist-diploma-in-business-analytics.html" rel="noopener noreferrer nofollow" target="_blank">Specialist Diploma in Business Analytics (TP)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TP RP Gen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://stms.polite.edu.sg/student/ihlcourse/detail/ae2fc277-0589-4b44-a956-426e8822bb48" rel="noopener noreferrer nofollow" target="_blank">Specialist Diploma in Business Analytics (RP)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
