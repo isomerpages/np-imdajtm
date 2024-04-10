@@ -238,10 +238,11 @@ third_nav_title: Intermediate
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://stms.polite.edu.sg/student/ihlcourse/detail/a4efcbea-fa98-4be7-9f0a-4b2f3dc888a9" rel="noopener noreferrer nofollow" target="_blank">Introduction to Low-Code Mobile Apps Development</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>TP RP Gen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
