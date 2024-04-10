@@ -46,6 +46,18 @@ third_nav_title: Advanced
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://stms.polite.edu.sg/student/ihlcourse/detail/0477ce6f-ed8c-4415-953b-92d22a3cc0b5" rel="noopener noreferrer nofollow" target="_blank">Advanced Machine Learning</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TP RP Gen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://ace.nus.edu.sg/course/chat-models-and-natural-language-processing/" rel="noopener noreferrer nofollow" target="_blank">Chat Models and Natural Language Processing</a>
 </p>
 </td>
