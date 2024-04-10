@@ -70,6 +70,18 @@ third_nav_title: Advanced
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://stms.polite.edu.sg/student/ihlcourse/detail/90e3151e-0761-4d1d-a9cb-b33448dac579" rel="noopener noreferrer nofollow" target="_blank">Cisco Network Administration</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TP RP Gen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://www.suss.edu.sg/courses/detail/ANL551" rel="noopener noreferrer nofollow" target="_blank">Data Analytics for Decision Makers</a>
 </p>
 </td>
