@@ -118,6 +118,18 @@ third_nav_title: Basic
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/skillsfuture-series/exe-basicbusinessanalytics.html" rel="noopener noreferrer nofollow" target="_blank">Basic Business Analytics @ Work</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TP RP Gen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://www.ntuclearninghub.com/en-gb/-/course/citizen-development-by-servicenow" rel="noopener noreferrer nofollow" target="_blank">CITIZEN DEVELOPMENT BY SERVICENOW</a>
 </p>
 </td>
