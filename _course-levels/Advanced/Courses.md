@@ -478,7 +478,19 @@ third_nav_title: Advanced
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/part-time-diploma-post-diploma-courses/specialist-diploma-in-devops.html" rel="noopener noreferrer nofollow" target="_blank">Specialist Diploma in DevOps</a>
+<p><a href="https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/part-time-diploma-post-diploma-courses/specialist-diploma-in-devops.html" rel="noopener noreferrer nofollow" target="_blank">Specialist Diploma in DevOps (TP)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TP RP Gen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://stms.polite.edu.sg/student/ihlcourse/detail/a388b863-35a6-411a-b41a-22b534444a55" rel="noopener noreferrer nofollow" target="_blank">Specialist Diploma in DevOps (RP)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
