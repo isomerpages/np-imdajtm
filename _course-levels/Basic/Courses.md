@@ -586,6 +586,18 @@ third_nav_title: Basic
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/skillsfuture-series/robotic-process-automation-for-beginners.html" rel="noopener noreferrer nofollow" target="_blank">Robotic Process Automation for Beginners</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TP RP Gen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://inetapps.nus.edu.sg/SACS/LifeLongLearning/CourseDetails/COM-RPABWM_TGS-2020513883/" rel="noopener noreferrer nofollow" target="_blank">Robotics Process Automation Begins With Me</a>
 </p>
 </td>
