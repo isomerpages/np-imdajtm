@@ -118,6 +118,18 @@ third_nav_title: Advanced
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/skillsfuture-series/data-storytelling.html" rel="noopener noreferrer nofollow" target="_blank">Data Storytelling&nbsp;</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TP RP Gen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://www.suss.edu.sg/courses/detail/ANL501" rel="noopener noreferrer nofollow" target="_blank">Data Visualisation and Storytelling</a>
 </p>
 </td>
