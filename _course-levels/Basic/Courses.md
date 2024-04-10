@@ -622,6 +622,18 @@ third_nav_title: Basic
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/skillsfuture-series/sustainable-cloud-solutions-and-best-practices.html" rel="noopener noreferrer nofollow" target="_blank">Sustainable Cloud Solutions and Best Practices</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TP RP Gen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2024042289" rel="noopener noreferrer nofollow" target="_blank">Technology Risk in Artificial Intelligence</a>
 </p>
 </td>
