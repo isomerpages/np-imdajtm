@@ -418,6 +418,18 @@ third_nav_title: Advanced
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://stms.polite.edu.sg/student/ihlcourse/detail/418ead1c-b1ed-4755-a1ae-6bc51fb66f93" rel="noopener noreferrer nofollow" target="_blank">Specialist Diploma in Applied Artificial Intelligence</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TP RP Gen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://www.cet.np.edu.sg/courses/specialist-diploma-in-applied-generative-ai/" rel="noopener noreferrer nofollow" target="_blank">Specialist Diploma in Applied Generative AI</a>
 </p>
 </td>
