@@ -358,6 +358,18 @@ third_nav_title: Basic
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://stms.polite.edu.sg/student/ihlcourse/detail/7f3933ab-b81c-4679-bb62-0dcaf3553a36" rel="noopener noreferrer nofollow" target="_blank">Fundamentals of Operational Technology (OT) Cybersecurity</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TP RP Gen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://www.cet.np.edu.sg/courses/generative-artificial-intelligence-ai-for-marketing-and-public-relations-professionals/" rel="noopener noreferrer nofollow" target="_blank">Generative Artificial Intelligence for Marketing &amp; Public Relations Professionals</a>
 </p>
 </td>
