@@ -334,6 +334,18 @@ third_nav_title: Intermediate
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://stms.polite.edu.sg/student/ihlcourse/detail/5c4e7f70-f00a-41e5-a58d-582485f8e82d" rel="noopener noreferrer nofollow" target="_blank">Operational Technology (OT) Cybersecurity Operations</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TP RP Gen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://www.iss.nus.edu.sg/executive-education/course/detail/software-design-patterns" rel="noopener noreferrer nofollow" target="_blank">Software Design Patterns</a>
 </p>
 </td>
