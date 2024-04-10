@@ -502,6 +502,18 @@ third_nav_title: Basic
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://stms.polite.edu.sg/student/ihlcourse/detail/a5ed7d11-558d-4b47-ab4f-4d6ba656bfe2" rel="noopener noreferrer nofollow" target="_blank">Mining Data for Insights @ Work</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TP RP Gen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://www.cet.np.edu.sg/courses/programming-foundations-for-analytics-classroom-synchronous/" rel="noopener noreferrer nofollow" target="_blank">Programming Foundations for Analytics</a>
 </p>
 </td>
