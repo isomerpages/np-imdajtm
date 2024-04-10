@@ -478,6 +478,18 @@ third_nav_title: Basic
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://stms.polite.edu.sg/student/ihlcourse/detail/973c73a3-99d1-4472-b164-0f16b5f775bc" rel="noopener noreferrer nofollow" target="_blank">Mastering Prompt Engineering for Generative Artificial Intelligence (AI)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TP RP Gen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://www.ntuclearninghub.com/en-gb/-/course/microsoft-azure-ai-fundamentals-sf" rel="noopener noreferrer nofollow" target="_blank">MICROSOFT AZURE AI FUNDAMENTALS (SF)</a>
 </p>
 </td>
