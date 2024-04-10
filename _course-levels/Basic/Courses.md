@@ -346,6 +346,18 @@ third_nav_title: Basic
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://stms.polite.edu.sg/student/ihlcourse/detail/49cd32f7-e0c6-4f15-a65e-0b0494436cbe" rel="noopener noreferrer nofollow" target="_blank">Fundamentals of Data Wrangling, Analysis and Visualisation</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TP RP Gen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://www.cet.np.edu.sg/courses/generative-artificial-intelligence-ai-for-marketing-and-public-relations-professionals/" rel="noopener noreferrer nofollow" target="_blank">Generative Artificial Intelligence for Marketing &amp; Public Relations Professionals</a>
 </p>
 </td>
