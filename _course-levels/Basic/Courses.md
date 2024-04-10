@@ -94,6 +94,30 @@ third_nav_title: Basic
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://stms.polite.edu.sg/student/ihlcourse/detail/e571be8c-78af-4fe4-b494-eac31ff793b0" rel="noopener noreferrer nofollow" target="_blank">Artificial Intelligence (AI) for Boosting Productivity</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TP RP Gen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://stms.polite.edu.sg/student/ihlcourse/detail/524fc635-9d2d-47e6-82a5-dbf84ba002c1" rel="noopener noreferrer nofollow" target="_blank">Artificial Intelligence for Everyone - A Practical Experience</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TP RP Gen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://www.ntuclearninghub.com/en-gb/-/course/citizen-development-by-servicenow" rel="noopener noreferrer nofollow" target="_blank">CITIZEN DEVELOPMENT BY SERVICENOW</a>
 </p>
 </td>
