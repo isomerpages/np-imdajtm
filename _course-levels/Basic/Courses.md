@@ -70,6 +70,18 @@ third_nav_title: Basic
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://stms.polite.edu.sg/student/ihlcourse/detail/c0f46cd1-33da-4e25-af30-f10fbc93763c" rel="noopener noreferrer nofollow" target="_blank">An Introduction to Code-Free Machine Learning</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TP RP Gen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://inetapps.nus.edu.sg/SACS/LifeLongLearning/CourseDetails/COM-AAPM_TGS-2019507053/" rel="noopener noreferrer nofollow" target="_blank">Applied Analytics using Predictive Modelling</a>
 </p>
 </td>
