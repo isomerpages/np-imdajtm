@@ -310,6 +310,18 @@ third_nav_title: Basic
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/skillsfuture-series/ec-council-certified-ethical-hacker.html" rel="noopener noreferrer nofollow" target="_blank">EC-Council Certified Ethical Hacker (Synchronous E-Learning)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TP RP Gen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://www.ntuclearninghub.com/en-gb/-/course/fundamentals-of-python-programming-sf" rel="noopener noreferrer nofollow" target="_blank">FUNDAMENTALS OF PYTHON PROGRAMMING (SF) (SYNCHRONOUS E-LEARNING)</a>
 </p>
 </td>
