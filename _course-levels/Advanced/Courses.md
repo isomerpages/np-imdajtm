@@ -334,6 +334,18 @@ third_nav_title: Advanced
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://stms.polite.edu.sg/student/ihlcourse/detail/52baedbb-1815-4633-a2c9-3754cd0a1541" rel="noopener noreferrer nofollow" target="_blank">Managing Machine Learning Pipelines</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TP RP Gen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://www.suss.edu.sg/courses/detail/AIB551" rel="noopener noreferrer nofollow" target="_blank">Natural Language Processing</a>
 </p>
 </td>
