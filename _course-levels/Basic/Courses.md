@@ -442,6 +442,18 @@ third_nav_title: Basic
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://stms.polite.edu.sg/student/ihlcourse/detail/80572fab-5ec7-45bd-9d24-9c6b140d9165" rel="noopener noreferrer nofollow" target="_blank">Introduction to Operational Technology (OT) Cybersecurity</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TP RP Gen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://www.ntuclearninghub.com/en-gb/-/course/javascript-framework-with-reactjs-sf" rel="noopener noreferrer nofollow" target="_blank">JAVASCRIPT FRAMEWORK WITH REACTJS (SF)</a>
 </p>
 </td>
