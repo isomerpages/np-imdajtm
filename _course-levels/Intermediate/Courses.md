@@ -262,6 +262,18 @@ third_nav_title: Intermediate
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/skillsfuture-series/machine-learning-in-practice.html" rel="noopener noreferrer nofollow" target="_blank">Machine Learning in Practice</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TP RP Gen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://inetapps.nus.edu.sg/SACS/LifeLongLearning/CourseDetails/COM-MLIP_TGS-2022011025/" rel="noopener noreferrer nofollow" target="_blank">Machine Learning in Python</a>
 </p>
 </td>
