@@ -34,6 +34,18 @@ third_nav_title: Intermediate
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://stms.polite.edu.sg/student/ihlcourse/detail/a2058675-b2e0-4218-ab98-03cec8ea60a7" rel="noopener noreferrer nofollow" target="_blank">An Introduction to DevOps</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TP RP Gen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2023037139" rel="noopener noreferrer nofollow" target="_blank">Big Data Computing in the Cloud</a>
 </p>
 </td>
