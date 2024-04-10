@@ -442,6 +442,18 @@ third_nav_title: Advanced
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/part-time-diploma-post-diploma-courses/specialist-diploma-in-business-analytics.html" rel="noopener noreferrer nofollow" target="_blank">Specialist Diploma in Business Analytics</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TP RP Gen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://inetapps.nus.edu.sg/SACS/LifeLongLearning/CourseDetails/COM-UIUXDM_TGS-2022014567/" rel="noopener noreferrer nofollow" target="_blank">User Interface &amp; User Experience Design for the Metaverse</a>
 </p>
 </td>
