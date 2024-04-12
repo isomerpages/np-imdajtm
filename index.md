@@ -18,7 +18,7 @@ sections:
           url: /events
         - title: Career Conversion Program
           description: CCP for Employers
-          url: /ccp
+          url: /career-conversion-programme/
       variant: image
   - infobar:
       title: Infobar title
