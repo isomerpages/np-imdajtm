@@ -10,7 +10,7 @@ description: ""
 </tbody>
 </table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NP_Logo.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/NP_Logo.jpg">
 </div>
 <hr>
 <div class="isomer-image-wrapper">
