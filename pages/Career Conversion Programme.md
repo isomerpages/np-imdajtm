@@ -24,9 +24,10 @@ jobs roles are emerging or good job opportunities with long-term prospects
 for progression, identified in each sector in response to how the industry
 is expected to transform over time.</p>
 <p></p>
-<p>Under the Jobs Transformation Map, we are mainly helping companies to
-do job redesign and reskilling for their existing employees to take on
-new/redesigned job roles. If you are interested, do contact us.</p>
+<p>Under the Jobs Transformation Map, the Training Partners will help companies
+to do job redesign and reskilling for their existing employees to take
+on new/redesigned job roles. Do contact any of the Training Partners if
+you wish to find out more.</p>
 <p></p>
 <p></p>
 <p>
