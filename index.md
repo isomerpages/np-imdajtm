@@ -10,15 +10,15 @@ sections:
       background: /images/Banner.png
       url: /contact-us/
       key_highlights:
-        - title: highlight A
-          description: Important highlight A is important
+        - title: Top Courses
+          description: By Competency Level
           url: /course-level
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: Events
+          description: Past and Upcoming
+          url: /events
+        - title: Career Conversion Program
+          description: CCP for Employers
+          url: /ccp
       variant: image
   - infobar:
       title: Infobar title
