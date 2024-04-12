@@ -4,18 +4,19 @@ permalink: /training-partners/
 variant: tiptap
 description: ""
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/NUS_ICT_logo.jpg">
+</div>
+<hr>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/NP_Logo.jpg">
+</div>
 <table>
 <tbody>
 <tr></tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/NP_Logo.jpg">
-</div>
 <hr>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/NUS_ICT_logo.jpg">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/LHUB_Logo.png">
