@@ -466,7 +466,7 @@ third_nav_title: Basic
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.ntuclearninghub.com/en-gb/-/course/javascript-framework-with-reactjs-sf" rel="noopener noreferrer nofollow" target="_blank">JAVASCRIPT FRAMEWORK WITH REACTJS (SF)</a>
+<p><a href="https://www.ntuclearninghub.com/en-gb/-/course/javascript-framework-with-reactjs-sf" rel="noopener noreferrer nofollow" target="_blank">Javascript Framework with ReactJS (SF)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -490,7 +490,7 @@ third_nav_title: Basic
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.ntuclearninghub.com/en-gb/-/course/microsoft-azure-ai-fundamentals-sf" rel="noopener noreferrer nofollow" target="_blank">MICROSOFT AZURE AI FUNDAMENTALS (SF)</a>
+<p><a href="https://www.ntuclearninghub.com/en-gb/-/course/microsoft-azure-ai-fundamentals-sf" rel="noopener noreferrer nofollow" target="_blank">Microsoft Azure AI Fundamentals (SF)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -526,7 +526,7 @@ third_nav_title: Basic
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.ntuclearninghub.com/en-gb/-/course/programming-in-html5-javascript-and-css3-sf" rel="noopener noreferrer nofollow" target="_blank">PROGRAMMING IN HTML5, JAVASCRIPT AND CSS3 (SF)</a>
+<p><a href="https://www.ntuclearninghub.com/en-gb/-/course/programming-in-html5-javascript-and-css3-sf" rel="noopener noreferrer nofollow" target="_blank">Programming in HTML5, Javascript and CSS3 (SF)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -562,7 +562,7 @@ third_nav_title: Basic
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.ntuclearninghub.com/en-gb/-/course/querying-data-with-microsoft-transact-sql-sf" rel="noopener noreferrer nofollow" target="_blank">QUERYING DATA WITH MICROSOFT TRANSACT-SQL (SF)</a>
+<p><a href="https://www.ntuclearninghub.com/en-gb/-/course/querying-data-with-microsoft-transact-sql-sf" rel="noopener noreferrer nofollow" target="_blank">Querying Data with Microsoft Transact-SQL (SF)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
