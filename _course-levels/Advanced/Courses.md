@@ -22,7 +22,7 @@ third_nav_title: Advanced
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.ntuclearninghub.com/en-gb/-/course/advanced-analytics-and-machine-learning-using-python-sf" rel="noopener noreferrer nofollow" target="_blank">ADVANCED ANALYTICS AND MACHINE LEARNING USING PYTHON (SF)</a>
+<p><a href="https://www.ntuclearninghub.com/en-gb/-/course/advanced-analytics-and-machine-learning-using-python-sf" rel="noopener noreferrer nofollow" target="_blank">Advanced Analytics  and Machine Learning using Python (SF)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -178,7 +178,7 @@ third_nav_title: Advanced
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.ntuclearninghub.com/en-gb/-/course/deep-learning-models-and-ai-using-python-sf" rel="noopener noreferrer nofollow" target="_blank">DEEP LEARNING MODELS AND AI USING PYTHON (SF)</a>
+<p><a href="https://www.ntuclearninghub.com/en-gb/-/course/deep-learning-models-and-ai-using-python-sf" rel="noopener noreferrer nofollow" target="_blank">Deep Learning Models and AI Using Python (SF)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
