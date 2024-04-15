@@ -22,7 +22,7 @@ third_nav_title: Intermediate
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.ntuclearninghub.com/en-gb/-/course/analyse-business-data-and-create-interactive-dashboards-using-python-sf" rel="noopener noreferrer nofollow" target="_blank">ANALYSE BUSINESS DATA AND CREATE INTERACTIVE DASHBOARDS USING PYTHON (SF)</a>
+<p><a href="https://www.ntuclearninghub.com/en-gb/-/course/analyse-business-data-and-create-interactive-dashboards-using-python-sf" rel="noopener noreferrer nofollow" target="_blank">Analyse Business Data and Create Interactive Dashboards using Pythons (SF)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
