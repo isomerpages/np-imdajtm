@@ -4,10 +4,10 @@ title: Title
 description: An Isomer site of the Singapore Government
 image: /images/I_C_JTM.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
-      background: /images/Banner.png
+      background: /images/Banner.jpg
       url: /contact-us/
       key_highlights:
         - title: Top Courses
