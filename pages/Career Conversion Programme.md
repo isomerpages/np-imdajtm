@@ -26,8 +26,7 @@ is expected to transform over time.</p>
 <p></p>
 <p>Under the Jobs Transformation Map, the Training Partners will help companies
 to do job redesign and reskilling for their existing employees to take
-on new/redesigned job roles. Do contact any of the Training Partners if
-you wish to find out more.</p>
+on new/redesigned job roles. Do contact any of the <a href="/contact-us/" rel="noopener noreferrer nofollow" target="_blank">Training Partners</a> if you wish to find out more.</p>
 <p></p>
 <p></p>
 <p>
