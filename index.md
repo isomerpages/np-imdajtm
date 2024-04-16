@@ -12,13 +12,13 @@ sections:
       variant: image
       key_highlights:
         - title: Courses Offered
-          description: ""
+          description: By Competency Level
           url: /courses1/
         - title: Events
-          description: ""
+          description: Past and Upcoming
           url: /resources/events
         - title: Career Conversion Program
-          description: ""
+          description: for Employers
           url: /career-conversion-programme/
   - infobar:
       title: Infobar title
