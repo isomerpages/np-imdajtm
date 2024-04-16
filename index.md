@@ -11,7 +11,7 @@ sections:
       url: /contact-us/
       variant: image
       key_highlights:
-        - title: Courses Offered
+        - title: Top 10 Courses
           description: By Competency Level
           url: /courses-offered/
         - title: Events
