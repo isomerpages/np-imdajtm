@@ -6,9 +6,9 @@ links:
     collection: course-levels
   - title: Training Partners
     url: /training-partners/
-  - title: Resources
-    resource_room: true
   - title: Career Conversion Programme
     url: /career-conversion-programme/
+  - title: Resources
+    resource_room: true
   - title: Contact Us
     url: /contact-us/
