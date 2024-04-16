@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Banner.jpg
+      background: /images/JTM_banner.jpg
       url: /contact-us/
       key_highlights:
         - title: Top Courses
