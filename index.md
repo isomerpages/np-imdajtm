@@ -11,14 +11,14 @@ sections:
       url: /contact-us/
       variant: image
       key_highlights:
-        - title: Top 10 Courses
-          description: By Competency Level
+        - title: Courses Offered
+          description: ""
           url: /courses-offered/
         - title: Events
-          description: Past and Upcoming
+          description: ""
           url: /events
         - title: Career Conversion Program
-          description: CCP for Employers
+          description: ""
           url: /career-conversion-programme/
   - infobar:
       title: Infobar title
