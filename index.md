@@ -16,7 +16,7 @@ sections:
           url: /courses-offered/
         - title: Events
           description: ""
-          url: /events
+          url: /resources/events
         - title: Career Conversion Program
           description: ""
           url: /career-conversion-programme/
