@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: Courses Offered
           description: ""
-          url: /courses-offered/
+          url: /courses1/
         - title: Events
           description: ""
           url: /resources/events
