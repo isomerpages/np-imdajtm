@@ -10,6 +10,13 @@ sections:
       background: /images/JTM_banner.jpg
       url: /contact-us/
       variant: image
+      key_highlights:
+        - title: Courses Offered
+          description: By Competency Level
+          url: /courses-offered/
+        - title: Events
+          description: Past and Upcoming
+          url: /events
   - infobar:
       title: Infobar title
       subtitle: Subtitle
