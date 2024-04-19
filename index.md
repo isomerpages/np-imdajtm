@@ -7,9 +7,9 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Banner3d.png
+      background: /images/Banner4.png
       url: /contact-us/
-      variant: center
+      variant: image
       key_highlights:
         - title: Curated Courses
           description: By Proficiency
