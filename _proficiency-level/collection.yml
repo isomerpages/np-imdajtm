@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Example Title.md
+      - Basic/Example Title.md
       - Basic/Courses.md
       - Basic/.keep
       - Intermediate/Courses.md
