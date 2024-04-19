@@ -4,71 +4,29 @@ permalink: /training-partners/
 variant: tiptap
 description: ""
 ---
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://scale.nus.edu.sg/programmes/lifelonglearning/ict-academyNUS"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/NUS_ICT_logo.jpg"></a>
-</th>
-<th rowspan="1" colspan="1">
-<p>ask.scale@nus.edu.sg</p>
-</th>
-</tr>
-</tbody>
-</table>
-<hr>
-<table>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.cet.np.edu.sg/tech-skills-advancement-office-np-2/"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/NP_Logo.jpg"></a>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>techskills@np.edu.sg</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table>
-<tbody>
-<tr></tr>
-</tbody>
-</table>
-<table>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.ntuclearninghub.com/"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/LHUB_Logo.png"></a>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>XXXX@XXXX</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<hr>
-<table>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.suss.edu.sg/"><img style="width: 45%;" height="auto" width="100%" alt="" src="/images/SUSS_Logo_HorA_FullColor_RGB_.png"></a>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>ict@suss.edu.sg</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<hr>
-<table>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.tp.edu.sg/ai-empowerment-hub"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/TP_RP_Generation_Logo.jpg"></a>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>iit@tp.edu.sg</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://scale.nus.edu.sg/programmes/lifelonglearning/ict-academyNUS" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="NUS ICT Academy" src="/images/NUS_ICT_logo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">NUS ICT Academy</div><div class="isomer-card-link">Contact us: ask.scale@nus.edu.sg</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.cet.np.edu.sg/tech-skills-advancement-office-np-2/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="NP Tech Skills Advancement Office" src="/images/NP_Logo.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Ngee Ann Polytechnic Tech Skills Advancement Office</div>
+<div class="isomer-card-link">Contact us: techskills@np.edu.sg</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.ntuclearninghub.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="NTUC LHub" src="/images/LHUB_Logo.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">NTUC Learning Hub</div><div class="isomer-card-link">Contact us: XXX @ xxxxx</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.suss.edu.sg/courses" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SUSS" src="/images/SUSS_Logo_HorA_FullColor_RGB_.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Singapore University of Social Sciences</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">Contact us: ict@suss.edu.sg</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.tp.edu.sg/ai-empowerment-hub" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="TP AI Empowerment Hub" src="/images/TP_RP_Generation_Logo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">TP-RP-Generation</div><div class="isomer-card-link">Contact us: iit@tp.edu.sg</div></div></a>
+</div>
 <p></p>
