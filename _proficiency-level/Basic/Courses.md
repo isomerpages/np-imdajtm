@@ -347,7 +347,7 @@ third_nav_title: Basic
 <p>NP</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Data &amp; AI</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6 days</p>
@@ -362,7 +362,7 @@ third_nav_title: Basic
 <p>NP</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Software Engineering</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>5 days</p>
@@ -482,7 +482,7 @@ third_nav_title: Basic
 <p>NP</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Gen AI</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3 days</p>
@@ -497,7 +497,7 @@ third_nav_title: Basic
 <p>NP</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Gen AI</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 days</p>
@@ -647,7 +647,7 @@ third_nav_title: Basic
 <p>NP</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Data &amp; AI</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>5 days</p>
