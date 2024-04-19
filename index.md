@@ -7,9 +7,9 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Banner_Compact.png
+      background: /images/Banner3a.png
       url: /contact-us/
-      variant: image
+      variant: center
       key_highlights:
         - title: Curated Courses
           description: By Proficiency
@@ -20,6 +20,7 @@ sections:
         - title: Career Conversion Program
           description: for Employers
           url: /career-conversion-programme/
+      title: Enabling AI Workforce
   - infobar:
       title: Infobar title
       subtitle: Subtitle
