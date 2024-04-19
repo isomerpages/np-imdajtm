@@ -23,12 +23,11 @@ sections:
       title: Enabling AI Workforce
   - infobar:
       title: Infobar title
-      subtitle: Subtitle
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
   - textcards:
-      title: Specialisations
+      title: Curated Courses
       subtitle: Add informational text
       id: textcards
       description: Explore our curated courses under the different specialisations
