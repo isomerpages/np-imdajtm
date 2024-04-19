@@ -16,6 +16,9 @@ third_nav_title: Basic
 <p>Training Partners</p>
 </th>
 <th rowspan="1" colspan="1">
+<p>Areas</p>
+</th>
+<th rowspan="1" colspan="1">
 <p><strong>Duration</strong>
 </p>
 </th>
@@ -29,7 +32,10 @@ third_nav_title: Basic
 <p>NUS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 day (9 am - 5 pm)</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 day</p>
 </td>
 </tr>
 <tr>
@@ -41,7 +47,10 @@ third_nav_title: Basic
 <p>NUS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 days (9 am - 5 pm)</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 days</p>
 </td>
 </tr>
 <tr>
@@ -53,7 +62,10 @@ third_nav_title: Basic
 <p>SUSS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6 days (7pm-10pm)</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 days</p>
 </td>
 </tr>
 <tr>
@@ -65,7 +77,10 @@ third_nav_title: Basic
 <p>NUS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 days (9 am - 5 pm)</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 days</p>
 </td>
 </tr>
 <tr>
@@ -75,6 +90,9 @@ third_nav_title: Basic
 </td>
 <td rowspan="1" colspan="1">
 <p>TP RP Gen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -89,7 +107,10 @@ third_nav_title: Basic
 <p>NUS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3 days ( 9 am - 5:30 pm)</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 days</p>
 </td>
 </tr>
 <tr>
@@ -99,6 +120,9 @@ third_nav_title: Basic
 </td>
 <td rowspan="1" colspan="1">
 <p>TP RP Gen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -115,6 +139,9 @@ third_nav_title: Basic
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -123,6 +150,9 @@ third_nav_title: Basic
 </td>
 <td rowspan="1" colspan="1">
 <p>TP RP Gen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -137,6 +167,9 @@ third_nav_title: Basic
 <p>NTUC LHub</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>20.0 hr(s)</p>
 </td>
 </tr>
@@ -149,7 +182,10 @@ third_nav_title: Basic
 <p>SUSS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 day (9am-5pm)</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 day</p>
 </td>
 </tr>
 <tr>
@@ -161,7 +197,10 @@ third_nav_title: Basic
 <p>SUSS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 day (9am-5pm)</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 day</p>
 </td>
 </tr>
 <tr>
@@ -171,6 +210,9 @@ third_nav_title: Basic
 </td>
 <td rowspan="1" colspan="1">
 <p>TP RP Gen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -187,6 +229,9 @@ third_nav_title: Basic
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -197,7 +242,10 @@ third_nav_title: Basic
 <p>SUSS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 day (9am-6pm)</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 day</p>
 </td>
 </tr>
 <tr>
@@ -209,7 +257,10 @@ third_nav_title: Basic
 <p>SUSS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 day (9am-5pm)</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 day</p>
 </td>
 </tr>
 <tr>
@@ -219,6 +270,9 @@ third_nav_title: Basic
 </td>
 <td rowspan="1" colspan="1">
 <p>TP RP Gen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -233,7 +287,10 @@ third_nav_title: Basic
 <p>NUS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 day (9 am - 5 pm)</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 day</p>
 </td>
 </tr>
 <tr>
@@ -243,6 +300,9 @@ third_nav_title: Basic
 </td>
 <td rowspan="1" colspan="1">
 <p>TP RP Gen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -259,6 +319,9 @@ third_nav_title: Basic
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -269,7 +332,10 @@ third_nav_title: Basic
 <p>NUS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 day (9 am - 5 pm)</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 day</p>
 </td>
 </tr>
 <tr>
@@ -279,6 +345,9 @@ third_nav_title: Basic
 </td>
 <td rowspan="1" colspan="1">
 <p>NP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6 days</p>
@@ -293,6 +362,9 @@ third_nav_title: Basic
 <p>NP</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>5 days</p>
 </td>
 </tr>
@@ -303,6 +375,9 @@ third_nav_title: Basic
 </td>
 <td rowspan="1" colspan="1">
 <p>NP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>30 months</p>
@@ -319,14 +394,20 @@ third_nav_title: Basic
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.ntuclearninghub.com/en-gb/-/course/fundamentals-of-python-programming-sf" rel="noopener noreferrer nofollow" target="_blank">FUNDAMENTALS OF PYTHON PROGRAMMING (SF) (SYNCHRONOUS E-LEARNING)</a>
+<p><a href="https://www.ntuclearninghub.com/en-gb/-/course/fundamentals-of-python-programming-sf" rel="noopener noreferrer nofollow" target="_blank">Fundamentals of Python Programming  (Synchronous E-Learning)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NTUC LHub</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>24.0 hr(s)</p>
@@ -343,6 +424,9 @@ third_nav_title: Basic
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -351,6 +435,9 @@ third_nav_title: Basic
 </td>
 <td rowspan="1" colspan="1">
 <p>TP RP Gen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -367,6 +454,9 @@ third_nav_title: Basic
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -375,6 +465,9 @@ third_nav_title: Basic
 </td>
 <td rowspan="1" colspan="1">
 <p>TP RP Gen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -389,6 +482,9 @@ third_nav_title: Basic
 <p>NP</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>3 days</p>
 </td>
 </tr>
@@ -399,6 +495,9 @@ third_nav_title: Basic
 </td>
 <td rowspan="1" colspan="1">
 <p>NP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 days</p>
@@ -413,6 +512,9 @@ third_nav_title: Basic
 <p>SUSS</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>2 days (9am-5pm)</p>
 </td>
 </tr>
@@ -425,6 +527,9 @@ third_nav_title: Basic
 <p>SUSS</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>1 day (9am-5pm)</p>
 </td>
 </tr>
@@ -435,6 +540,9 @@ third_nav_title: Basic
 </td>
 <td rowspan="1" colspan="1">
 <p>SUSS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 day (9am-5pm)</p>
@@ -451,6 +559,9 @@ third_nav_title: Basic
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -463,6 +574,9 @@ third_nav_title: Basic
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -471,6 +585,9 @@ third_nav_title: Basic
 </td>
 <td rowspan="1" colspan="1">
 <p>NTUC LHub</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>40.0 hr(s)</p>
@@ -487,6 +604,9 @@ third_nav_title: Basic
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -495,6 +615,9 @@ third_nav_title: Basic
 </td>
 <td rowspan="1" colspan="1">
 <p>NTUC LHub</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8.0 hr(s)</p>
@@ -511,6 +634,9 @@ third_nav_title: Basic
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -519,6 +645,9 @@ third_nav_title: Basic
 </td>
 <td rowspan="1" colspan="1">
 <p>NP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>5 days</p>
@@ -533,6 +662,9 @@ third_nav_title: Basic
 <p>NTUC LHub</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>40.0 hr(s)</p>
 </td>
 </tr>
@@ -543,6 +675,9 @@ third_nav_title: Basic
 </td>
 <td rowspan="1" colspan="1">
 <p>NUS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3 days ( 9 am - 5 pm)</p>
@@ -557,6 +692,9 @@ third_nav_title: Basic
 <p>NUS</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>2 days (9 am - 5 pm)</p>
 </td>
 </tr>
@@ -569,6 +707,9 @@ third_nav_title: Basic
 <p>NTUC LHub</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>24.0 hr(s)</p>
 </td>
 </tr>
@@ -579,6 +720,9 @@ third_nav_title: Basic
 </td>
 <td rowspan="1" colspan="1">
 <p>NP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 days</p>
@@ -595,6 +739,9 @@ third_nav_title: Basic
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -603,6 +750,9 @@ third_nav_title: Basic
 </td>
 <td rowspan="1" colspan="1">
 <p>NUS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 day (9 am - 5 pm)</p>
@@ -615,6 +765,9 @@ third_nav_title: Basic
 </td>
 <td rowspan="1" colspan="1">
 <p>NUS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 day (9 am - 5 pm)</p>
@@ -631,6 +784,9 @@ third_nav_title: Basic
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -639,6 +795,9 @@ third_nav_title: Basic
 </td>
 <td rowspan="1" colspan="1">
 <p>SUSS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 days (9am-5pm)</p>
@@ -651,6 +810,9 @@ third_nav_title: Basic
 </td>
 <td rowspan="1" colspan="1">
 <p>SUSS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 day (9am-5pm)</p>
