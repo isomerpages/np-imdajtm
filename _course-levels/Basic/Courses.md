@@ -130,7 +130,7 @@ third_nav_title: Basic
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.ntuclearninghub.com/en-gb/-/course/citizen-development-by-servicenow" rel="noopener noreferrer nofollow" target="_blank">CITIZEN DEVELOPMENT BY SERVICENOW</a>
+<p><a href="https://www.ntuclearninghub.com/en-gb/-/course/citizen-development-by-servicenow" rel="noopener noreferrer nofollow" target="_blank">Citizen Development By ServiceNow</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
