@@ -20,9 +20,12 @@ sections:
         - title: Career Conversion Program
           description: for Employers
           url: /career-conversion-programme/
+        - title: Title
+          description: Description
+          url: ""
       title: Enabling AI Workforce
   - infobar:
-      button: "Enter to find out "
+      button: Enter to find out
       url: /about-us
   - textcards:
       title: Curated Courses
