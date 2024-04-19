@@ -47,6 +47,6 @@ courses to deeper modules that stack towards professional certification.&nbsp;</
 to reskill their existing employees and assistance will be provided to
 the companies with training, job redesign and redeployment support incentives.</p>
 <p>Through the TeSA framework, the five Training Partners will assist the
-companies with course fee funding provided by SSG and work with programme
+companies with course fee funding provided by <a href="https://www.skillsfuture.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">SSG</a> and work with programme
 partners of WSG’s Career Conversion Programmes to identify their training
 and reskilling needs.</p>
