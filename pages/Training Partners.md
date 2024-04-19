@@ -14,7 +14,6 @@ description: ""
 <a rel="noopener noreferrer nofollow" href="https://www.suss.edu.sg/courses" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Singapore University of Social Sciences</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 <div class="isomer-card-link">Contact us: ict@suss.edu.sg</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.tp.edu.sg/ai-empowerment-hub" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">TP-RP-Generation</div><div class="isomer-card-link">Contact us: iit@tp.edu.sg</div></div></a>
