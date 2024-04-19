@@ -28,10 +28,10 @@ sections:
       button: Button text
       url: /faq/
   - textcards:
-      title: Text Cards
+      title: Specialisations
       subtitle: Add informational text
       id: textcards
-      description: Text card description
+      description: Explore our curated courses under the different specialisations
       cards:
         - title: DATA & ARTIFICAL INTELLIGENCE
           description: ""
