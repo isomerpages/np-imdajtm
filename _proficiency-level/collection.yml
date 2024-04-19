@@ -1,5 +1,5 @@
 collections:
-  course-levels:
+  proficiency-level:
     output: true
     order:
       - Basic/Courses.md
