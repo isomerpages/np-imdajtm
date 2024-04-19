@@ -19,7 +19,7 @@ description: ""
 <table>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.np.edu.sg/"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/NP_Logo.jpg"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.cet.np.edu.sg/tech-skills-advancement-office-np-2/"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/NP_Logo.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>techskills@np.edu.sg</strong>
