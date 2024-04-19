@@ -400,7 +400,7 @@ third_nav_title: Basic
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.ntuclearninghub.com/en-gb/-/course/fundamentals-of-python-programming-sf" rel="noopener noreferrer nofollow" target="_blank">Fundamentals of Python Programming  (Synchronous E-Learning)</a>
+<p><a href="https://www.ntuclearninghub.com/en-gb/-/course/fundamentals-of-python-programming-sf" rel="noopener noreferrer nofollow" target="_blank">Fundamentals of Python Programming (Synchronous E-Learning)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -410,7 +410,7 @@ third_nav_title: Basic
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>24.0 hr(s)</p>
+<p>3 days</p>
 </td>
 </tr>
 <tr>
@@ -530,7 +530,7 @@ third_nav_title: Basic
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 day (9am-5pm)</p>
+<p>1 day</p>
 </td>
 </tr>
 <tr>
@@ -545,7 +545,7 @@ third_nav_title: Basic
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 day (9am-5pm)</p>
+<p>1 day</p>
 </td>
 </tr>
 <tr>
@@ -620,7 +620,7 @@ third_nav_title: Basic
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8.0 hr(s)</p>
+<p>1 day</p>
 </td>
 </tr>
 <tr>
@@ -680,7 +680,7 @@ third_nav_title: Basic
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3 days ( 9 am - 5 pm)</p>
+<p>3 days</p>
 </td>
 </tr>
 <tr>
@@ -695,7 +695,7 @@ third_nav_title: Basic
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 days (9 am - 5 pm)</p>
+<p>2 days</p>
 </td>
 </tr>
 <tr>
@@ -755,7 +755,7 @@ third_nav_title: Basic
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 day (9 am - 5 pm)</p>
+<p>1 day</p>
 </td>
 </tr>
 <tr>
@@ -800,7 +800,7 @@ third_nav_title: Basic
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 days (9am-5pm)</p>
+<p>2 days</p>
 </td>
 </tr>
 <tr>
@@ -815,7 +815,7 @@ third_nav_title: Basic
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 day (9am-5pm)</p>
+<p>1 day</p>
 </td>
 </tr>
 </tbody>
