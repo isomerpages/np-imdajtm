@@ -22,13 +22,10 @@ sections:
           url: /career-conversion-programme/
       title: Enabling AI Workforce
   - infobar:
-      title: Infobar title
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      button: "Enter to find out "
+      url: /about-us
   - textcards:
       title: Curated Courses
-      subtitle: Add informational text
       id: textcards
       description: Explore our curated courses under the different specialisations
       cards:
