@@ -2,8 +2,8 @@ logo: /images/JTM_logo.png
 links:
   - title: About Us
     url: /about-us/
-  - title: Curated Courses
-    collection: course-levels
+  - title: Proficiency Level
+    collection: proficiency-level
   - title: Training Partners
     url: /training-partners/
   - title: Career Conversion Programme
