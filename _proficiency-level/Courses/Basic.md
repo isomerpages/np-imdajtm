@@ -820,4 +820,3 @@ third_nav_title: Courses
 </tr>
 </tbody>
 </table>
-<p></p>
