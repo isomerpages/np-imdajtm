@@ -170,7 +170,7 @@ third_nav_title: Basic
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>20.0 hr(s)</p>
+<p>2.5 days</p>
 </td>
 </tr>
 <tr>
@@ -515,7 +515,7 @@ third_nav_title: Basic
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 days (9am-5pm)</p>
+<p>2 days</p>
 </td>
 </tr>
 <tr>
