@@ -16,6 +16,10 @@ third_nav_title: Intermediate
 <p>Training Partners</p>
 </th>
 <th rowspan="1" colspan="1">
+<p><strong>Areas</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
 <p><strong>Duration</strong>
 </p>
 </th>
@@ -27,6 +31,9 @@ third_nav_title: Intermediate
 </td>
 <td rowspan="1" colspan="1">
 <p>NTUC LHub</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>16.0 hr(s)</p>
@@ -43,6 +50,9 @@ third_nav_title: Intermediate
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -51,6 +61,9 @@ third_nav_title: Intermediate
 </td>
 <td rowspan="1" colspan="1">
 <p>SUSS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>12 days (7pm-10pm)</p>
@@ -65,6 +78,9 @@ third_nav_title: Intermediate
 <p>NUS</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>2 days (9 am - 5:30 pm)</p>
 </td>
 </tr>
@@ -75,6 +91,9 @@ third_nav_title: Intermediate
 </td>
 <td rowspan="1" colspan="1">
 <p>NUS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 days (9 am - 5:30 pm)</p>
@@ -89,6 +108,9 @@ third_nav_title: Intermediate
 <p>SUSS</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>12 days (7pm-10pm)</p>
 </td>
 </tr>
@@ -99,6 +121,9 @@ third_nav_title: Intermediate
 </td>
 <td rowspan="1" colspan="1">
 <p>SUSS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 day (9am-5pm)</p>
@@ -113,6 +138,9 @@ third_nav_title: Intermediate
 <p>SUSS</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>12 days (7pm-10pm)</p>
 </td>
 </tr>
@@ -123,6 +151,9 @@ third_nav_title: Intermediate
 </td>
 <td rowspan="1" colspan="1">
 <p>SUSS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>12 days (7pm-10pm)</p>
@@ -137,6 +168,9 @@ third_nav_title: Intermediate
 <p>NUS</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>1 day (9 am - 5:30 pm)</p>
 </td>
 </tr>
@@ -147,6 +181,9 @@ third_nav_title: Intermediate
 </td>
 <td rowspan="1" colspan="1">
 <p>NUS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3 days (9 am - 5:30 pm)</p>
@@ -161,6 +198,9 @@ third_nav_title: Intermediate
 <p>NUS</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>2 days (9 am - 5 pm)</p>
 </td>
 </tr>
@@ -173,6 +213,9 @@ third_nav_title: Intermediate
 <p>NUS</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>2 days (9 am - 5:30 pm)</p>
 </td>
 </tr>
@@ -183,6 +226,9 @@ third_nav_title: Intermediate
 </td>
 <td rowspan="1" colspan="1">
 <p>NUS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>5 days (9 am - 5:30 pm)</p>
@@ -199,6 +245,9 @@ third_nav_title: Intermediate
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -207,6 +256,9 @@ third_nav_title: Intermediate
 </td>
 <td rowspan="1" colspan="1">
 <p>SUSS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>12 days (7pm-10pm)</p>
@@ -221,6 +273,9 @@ third_nav_title: Intermediate
 <p>SUSS</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>6 days (7pm-10pm)</p>
 </td>
 </tr>
@@ -231,6 +286,9 @@ third_nav_title: Intermediate
 </td>
 <td rowspan="1" colspan="1">
 <p>SUSS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>12 days (7pm-10pm)</p>
@@ -247,6 +305,9 @@ third_nav_title: Intermediate
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -255,6 +316,9 @@ third_nav_title: Intermediate
 </td>
 <td rowspan="1" colspan="1">
 <p>SUSS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>12 days (7pm-10pm)</p>
@@ -271,6 +335,9 @@ third_nav_title: Intermediate
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -279,6 +346,9 @@ third_nav_title: Intermediate
 </td>
 <td rowspan="1" colspan="1">
 <p>NUS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3 days (9 am - 5 pm)</p>
@@ -293,6 +363,9 @@ third_nav_title: Intermediate
 <p>NUS</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>4 days (9 am - 5:30 pm)</p>
 </td>
 </tr>
@@ -303,6 +376,9 @@ third_nav_title: Intermediate
 </td>
 <td rowspan="1" colspan="1">
 <p>SUSS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6 days (7pm-10pm)</p>
@@ -317,6 +393,9 @@ third_nav_title: Intermediate
 <p>NUS</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>4 days (9 am - 5:30 pm)</p>
 </td>
 </tr>
@@ -327,6 +406,9 @@ third_nav_title: Intermediate
 </td>
 <td rowspan="1" colspan="1">
 <p>SUSS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>12 days (7pm-10pm)</p>
@@ -343,6 +425,9 @@ third_nav_title: Intermediate
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -351,6 +436,9 @@ third_nav_title: Intermediate
 </td>
 <td rowspan="1" colspan="1">
 <p>NUS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3 days (9 am - 5:30 pm)</p>
@@ -363,6 +451,9 @@ third_nav_title: Intermediate
 </td>
 <td rowspan="1" colspan="1">
 <p>NP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Data Analytics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>12 months</p>
