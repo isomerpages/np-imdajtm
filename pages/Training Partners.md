@@ -4,6 +4,58 @@ permalink: /training-partners/
 variant: tiptap
 description: ""
 ---
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/NUS_ICT_logo.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/NP_Logo.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/LHUB_Logo.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/SUSS_Logo_HorA_FullColor_RGB_.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TP_RP_Generation_Logo.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://scale.nus.edu.sg/programmes/lifelonglearning/ict-academyNUS" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">NUS ICT Academy</div><div class="isomer-card-link">Contact us: ask.scale@nus.edu.sg</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.cet.np.edu.sg/tech-skills-advancement-office-np-2/" class="isomer-card">
 <div class="isomer-card-body">
