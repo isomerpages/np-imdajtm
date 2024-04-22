@@ -92,7 +92,7 @@ third_nav_title: Basic
 <p>TP RP Gen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>AI</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -122,7 +122,7 @@ third_nav_title: Basic
 <p>TP RP Gen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>AI</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -137,7 +137,7 @@ third_nav_title: Basic
 <p>TP RP Gen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>AI</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -152,7 +152,7 @@ third_nav_title: Basic
 <p>TP RP Gen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Data Analytics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -212,7 +212,7 @@ third_nav_title: Basic
 <p>TP RP Gen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Software Engineering</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -227,7 +227,7 @@ third_nav_title: Basic
 <p>TP RP Gen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Software Engineering</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -272,7 +272,7 @@ third_nav_title: Basic
 <p>TP RP Gen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Cyber Security</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -302,7 +302,7 @@ third_nav_title: Basic
 <p>TP RP Gen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Data Analytics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -317,7 +317,7 @@ third_nav_title: Basic
 <p>TP RP Gen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Data Analytics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -392,7 +392,7 @@ third_nav_title: Basic
 <p>TP RP Gen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Cyber Security</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -422,7 +422,7 @@ third_nav_title: Basic
 <p>TP RP Gen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Cyber Security</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -437,7 +437,7 @@ third_nav_title: Basic
 <p>TP RP Gen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Data Analytics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -452,7 +452,7 @@ third_nav_title: Basic
 <p>TP RP Gen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Cyber Security</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -467,7 +467,7 @@ third_nav_title: Basic
 <p>TP RP Gen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>GenAI</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -557,7 +557,7 @@ third_nav_title: Basic
 <p>TP RP Gen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Cyber Security</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -572,7 +572,7 @@ third_nav_title: Basic
 <p>TP RP Gen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Software Engineering</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -602,7 +602,7 @@ third_nav_title: Basic
 <p>TP RP Gen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>GenAI</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -632,7 +632,7 @@ third_nav_title: Basic
 <p>TP RP Gen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Data Analytics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -737,7 +737,7 @@ third_nav_title: Basic
 <p>TP RP Gen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Project Management</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -782,7 +782,7 @@ third_nav_title: Basic
 <p>TP RP Gen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Cloud</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
