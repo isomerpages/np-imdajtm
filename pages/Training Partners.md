@@ -21,14 +21,14 @@ description: ""
 </td>
 </tr>
 <tr>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.ntuclearninghub.com/"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/LHUB_Logo.png"></a>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.ntuclearninghub.com/"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/LHUB_Logo.png"></a>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="customerservice@ntuclearninghub.com" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">TP-RP-Generation</div><div class="isomer-card-link">Contact us</div></div></a>
 </div>
 <p></p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.suss.edu.sg/courses"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/SUSS_Logo_HorA_FullColor_RGB_.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.suss.edu.sg/courses"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/SUSS_Logo_HorA_FullColor_RGB_.png"></a>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="ict@suss.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Singapore University of Social Sciences</div><div class="isomer-card-link">Contact us</div></div></a>
 </div>
 <p></p>
