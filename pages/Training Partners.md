@@ -16,7 +16,7 @@ description: ""
 </div>
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NP_Logo.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/NP_Logo.jpg">
 </div>
 <div class="isomer-card-grid">
 <div class="isomer-card">
@@ -43,7 +43,7 @@ description: ""
 <table>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.ntuclearninghub.com/"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/LHUB_Logo.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.ntuclearninghub.com/"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/LHUB_Logo.png"></a>
 <p></p>
 </td>
 </tr>
@@ -61,7 +61,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.suss.edu.sg/courses"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/SUSS_Logo_HorA_FullColor_RGB_.png"></a>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.suss.edu.sg/courses"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/SUSS_Logo_HorA_FullColor_RGB_.png"></a>
 <p></p>
 </th>
 </tr>
