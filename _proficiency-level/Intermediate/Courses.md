@@ -36,7 +36,7 @@ third_nav_title: Intermediate
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>16.0 hr(s)</p>
+<p>2 days</p>
 </td>
 </tr>
 <tr>
@@ -66,7 +66,7 @@ third_nav_title: Intermediate
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>12 days (7pm-10pm)</p>
+<p>12 days</p>
 </td>
 </tr>
 <tr>
@@ -81,7 +81,7 @@ third_nav_title: Intermediate
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 days (9 am - 5:30 pm)</p>
+<p>2 days</p>
 </td>
 </tr>
 <tr>
@@ -96,7 +96,7 @@ third_nav_title: Intermediate
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 days (9 am - 5:30 pm)</p>
+<p>2 days</p>
 </td>
 </tr>
 <tr>
@@ -111,7 +111,7 @@ third_nav_title: Intermediate
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>12 days (7pm-10pm)</p>
+<p>12 days</p>
 </td>
 </tr>
 <tr>
@@ -126,7 +126,7 @@ third_nav_title: Intermediate
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 day (9am-5pm)</p>
+<p>1 day</p>
 </td>
 </tr>
 <tr>
@@ -141,7 +141,7 @@ third_nav_title: Intermediate
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>12 days (7pm-10pm)</p>
+<p>12 days</p>
 </td>
 </tr>
 <tr>
@@ -156,7 +156,7 @@ third_nav_title: Intermediate
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>12 days (7pm-10pm)</p>
+<p>12 days</p>
 </td>
 </tr>
 <tr>
@@ -171,7 +171,7 @@ third_nav_title: Intermediate
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 day (9 am - 5:30 pm)</p>
+<p>1 day</p>
 </td>
 </tr>
 <tr>
@@ -186,7 +186,7 @@ third_nav_title: Intermediate
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3 days (9 am - 5:30 pm)</p>
+<p>3 days</p>
 </td>
 </tr>
 <tr>
@@ -201,7 +201,7 @@ third_nav_title: Intermediate
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 days (9 am - 5 pm)</p>
+<p>2 days</p>
 </td>
 </tr>
 <tr>
@@ -216,7 +216,7 @@ third_nav_title: Intermediate
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 days (9 am - 5:30 pm)</p>
+<p>2 days</p>
 </td>
 </tr>
 <tr>
@@ -231,7 +231,7 @@ third_nav_title: Intermediate
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5 days (9 am - 5:30 pm)</p>
+<p>5 days</p>
 </td>
 </tr>
 <tr>
@@ -261,7 +261,7 @@ third_nav_title: Intermediate
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>12 days (7pm-10pm)</p>
+<p>12 days</p>
 </td>
 </tr>
 <tr>
@@ -276,7 +276,7 @@ third_nav_title: Intermediate
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6 days (7pm-10pm)</p>
+<p>6 days</p>
 </td>
 </tr>
 <tr>
@@ -291,7 +291,7 @@ third_nav_title: Intermediate
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>12 days (7pm-10pm)</p>
+<p>12 days</p>
 </td>
 </tr>
 <tr>
@@ -321,7 +321,7 @@ third_nav_title: Intermediate
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>12 days (7pm-10pm)</p>
+<p>12 days</p>
 </td>
 </tr>
 <tr>
@@ -351,7 +351,7 @@ third_nav_title: Intermediate
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3 days (9 am - 5 pm)</p>
+<p>3 days</p>
 </td>
 </tr>
 <tr>
@@ -366,7 +366,7 @@ third_nav_title: Intermediate
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4 days (9 am - 5:30 pm)</p>
+<p>4 days</p>
 </td>
 </tr>
 <tr>
@@ -381,7 +381,7 @@ third_nav_title: Intermediate
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6 days (7pm-10pm)</p>
+<p>6 days</p>
 </td>
 </tr>
 <tr>
@@ -396,7 +396,7 @@ third_nav_title: Intermediate
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4 days (9 am - 5:30 pm)</p>
+<p>4 days</p>
 </td>
 </tr>
 <tr>
@@ -411,7 +411,7 @@ third_nav_title: Intermediate
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>12 days (7pm-10pm)</p>
+<p>12 days</p>
 </td>
 </tr>
 <tr>
@@ -441,7 +441,7 @@ third_nav_title: Intermediate
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3 days (9 am - 5:30 pm)</p>
+<p>3 days</p>
 </td>
 </tr>
 <tr>
