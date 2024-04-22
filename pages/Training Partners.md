@@ -19,9 +19,6 @@ description: ""
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/NP_Logo.jpg">
 </div>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -36,9 +33,6 @@ description: ""
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/SUSS_Logo_HorA_FullColor_RGB_.png">
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -46,9 +40,6 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TP_RP_Generation_Logo.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
