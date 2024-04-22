@@ -590,7 +590,7 @@ third_nav_title: Basic
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>40.0 hr(s)</p>
+<p>5 days</p>
 </td>
 </tr>
 <tr>
@@ -665,7 +665,7 @@ third_nav_title: Basic
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>40.0 hr(s)</p>
+<p>5 days</p>
 </td>
 </tr>
 <tr>
@@ -710,7 +710,7 @@ third_nav_title: Basic
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>24.0 hr(s)</p>
+<p>3 days</p>
 </td>
 </tr>
 <tr>
@@ -770,7 +770,7 @@ third_nav_title: Basic
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 day (9 am - 5 pm)</p>
+<p>1 day</p>
 </td>
 </tr>
 <tr>
