@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/NUS_ICT_logo.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/NUS_ICT_logo.jpg">
 </div>
 <div class="isomer-card-grid">
 <div class="isomer-card">
