@@ -243,7 +243,7 @@ third_nav_title: Courses
 <p>TP RP Gen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>GenAI</p>
+<p>Gen AI</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 day</p>
