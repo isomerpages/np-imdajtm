@@ -44,5 +44,5 @@ sections:
         - title: SOFTWARE ENGINEERING
           description: ""
           linktext: Learn more
-          url: ""
+          url: /software-engineering-courses/
 ---
