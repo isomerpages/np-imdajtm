@@ -306,7 +306,7 @@ third_nav_title: Courses
 <p>Software Engineering</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2 days</p>
 </td>
 </tr>
 <tr>
@@ -336,7 +336,7 @@ third_nav_title: Courses
 <p>AI &amp; Analytics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2 days</p>
 </td>
 </tr>
 <tr>
