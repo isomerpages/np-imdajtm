@@ -95,7 +95,7 @@ third_nav_title: Courses
 <p>AI &amp; Analytics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1 day</p>
 </td>
 </tr>
 <tr>
@@ -125,7 +125,7 @@ third_nav_title: Courses
 <p>AI &amp; Analytics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1 day</p>
 </td>
 </tr>
 <tr>
@@ -182,7 +182,7 @@ third_nav_title: Courses
 <p>SUSS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Cloud &amp; Mobility</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 day</p>
@@ -197,7 +197,7 @@ third_nav_title: Courses
 <p>SUSS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Cloud &amp; Mobility</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 day</p>
@@ -215,7 +215,7 @@ third_nav_title: Courses
 <p>Software Engineering</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2 days</p>
 </td>
 </tr>
 <tr>
@@ -230,7 +230,7 @@ third_nav_title: Courses
 <p>Software Engineering</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2 days</p>
 </td>
 </tr>
 <tr>
@@ -242,7 +242,7 @@ third_nav_title: Courses
 <p>SUSS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Gen AI</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 day</p>
@@ -275,7 +275,7 @@ third_nav_title: Courses
 <p>Cyber Security</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1 day</p>
 </td>
 </tr>
 <tr>
@@ -287,7 +287,7 @@ third_nav_title: Courses
 <p>NUS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>AI &amp; Analytics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 day</p>
@@ -305,7 +305,7 @@ third_nav_title: Courses
 <p>AI &amp; Analytics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2 days</p>
 </td>
 </tr>
 <tr>
@@ -320,7 +320,7 @@ third_nav_title: Courses
 <p>AI &amp; Analytics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1 day</p>
 </td>
 </tr>
 <tr>
@@ -395,7 +395,7 @@ third_nav_title: Courses
 <p>Cyber Security</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>5 days</p>
 </td>
 </tr>
 <tr>
@@ -425,7 +425,7 @@ third_nav_title: Courses
 <p>Cyber Security</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>3 days</p>
 </td>
 </tr>
 <tr>
@@ -455,7 +455,7 @@ third_nav_title: Courses
 <p>Cyber Security</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>3 days</p>
 </td>
 </tr>
 <tr>
@@ -470,7 +470,7 @@ third_nav_title: Courses
 <p>Gen AI</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2 days</p>
 </td>
 </tr>
 <tr>
@@ -575,7 +575,7 @@ third_nav_title: Courses
 <p>Software Engineering</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2 days</p>
 </td>
 </tr>
 <tr>
@@ -605,7 +605,7 @@ third_nav_title: Courses
 <p>GenAI</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1 day</p>
 </td>
 </tr>
 <tr>
@@ -740,7 +740,7 @@ third_nav_title: Courses
 <p>Project Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2 days</p>
 </td>
 </tr>
 <tr>
