@@ -456,7 +456,7 @@ third_nav_title: Courses
 <p>AI &amp; Analytics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>12 months</p>
+<p>1 year (Part-time)</p>
 </td>
 </tr>
 </tbody>
