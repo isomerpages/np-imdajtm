@@ -29,7 +29,7 @@ sections:
       id: textcards
       description: Explore our curated courses under the different specialisations
       cards:
-        - title: DATA & ARTIFICAL INTELLIGENCE
+        - title: AI & ANALYTICS
           description: ""
           linktext: Learn more
           url: ""
