@@ -36,7 +36,7 @@ sections:
         - title: CLOUD & MOBILITY
           description: ""
           linktext: Learn more
-          url: ""
+          url: /cloud-mobility-courses/
         - title: GENERATIVE ARTIFICAL INTELLIGENCE
           description: ""
           linktext: Learn more
