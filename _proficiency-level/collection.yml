@@ -6,8 +6,6 @@ collections:
       - Courses/Basic.md
       - Courses/Intermediate.md
       - Courses/Advanced.md
-      - Basic/Courses.md
-      - Basic/.keep
       - Intermediate/Courses.md
       - Intermediate/.keep
       - Advanced/Courses.md
