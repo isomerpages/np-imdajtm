@@ -138,7 +138,7 @@ third_nav_title: Courses
 <p>NP</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Data Analytics</p>
+<p>AI &amp; Analytics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6 - 12 months</p>
@@ -153,7 +153,7 @@ third_nav_title: Courses
 <p>TP RP Gen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Data Analytics</p>
+<p>AI &amp; Analytics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 day</p>
@@ -168,7 +168,7 @@ third_nav_title: Courses
 <p>TP RP Gen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Data Analytics</p>
+<p>AI &amp; Analytics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 day</p>
