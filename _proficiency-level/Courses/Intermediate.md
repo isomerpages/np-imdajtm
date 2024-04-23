@@ -33,7 +33,7 @@ third_nav_title: Courses
 <p>NTUC LHub</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>AI &amp; Analytics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 days</p>
@@ -63,7 +63,7 @@ third_nav_title: Courses
 <p>SUSS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Cloud &amp; Mobility</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>12 days</p>
@@ -78,7 +78,7 @@ third_nav_title: Courses
 <p>NUS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Software Engineering</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 days</p>
@@ -93,7 +93,7 @@ third_nav_title: Courses
 <p>NUS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Software Engineering</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 days</p>
@@ -108,7 +108,7 @@ third_nav_title: Courses
 <p>SUSS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Cloud &amp; Mobility</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>12 days</p>
@@ -123,7 +123,7 @@ third_nav_title: Courses
 <p>SUSS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Cloud &amp; Mobility</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 day</p>
@@ -138,7 +138,7 @@ third_nav_title: Courses
 <p>SUSS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Software Engineering</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>12 days</p>
@@ -153,7 +153,7 @@ third_nav_title: Courses
 <p>SUSS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Software Engineering</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>12 days</p>
@@ -168,7 +168,7 @@ third_nav_title: Courses
 <p>NUS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>AI &amp; Analytics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 day</p>
@@ -183,7 +183,7 @@ third_nav_title: Courses
 <p>NUS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>AI &amp; Analytics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3 days</p>
@@ -198,7 +198,7 @@ third_nav_title: Courses
 <p>NUS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>AI &amp; Analytics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 days</p>
@@ -213,7 +213,7 @@ third_nav_title: Courses
 <p>NUS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Software Engineering</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 days</p>
@@ -228,7 +228,7 @@ third_nav_title: Courses
 <p>NUS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Software &amp; Engineering</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>5 days</p>
@@ -236,7 +236,7 @@ third_nav_title: Courses
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2023039589" rel="noopener noreferrer nofollow" target="_blank">Empowered with Generative AI – From Enhancing Teaching to Personalised Learning</a>
+<p><a href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2023039589" rel="noopener noreferrer nofollow" target="_blank">EmpowerED with Generative AI – From Enhancing Teaching to Personalised Learning</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -246,7 +246,7 @@ third_nav_title: Courses
 <p>GenAI</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1 day</p>
 </td>
 </tr>
 <tr>
@@ -258,7 +258,7 @@ third_nav_title: Courses
 <p>SUSS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Software Engineering</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>12 days</p>
@@ -273,7 +273,7 @@ third_nav_title: Courses
 <p>SUSS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>AI &amp; Analytics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6 days</p>
@@ -333,7 +333,7 @@ third_nav_title: Courses
 <p>TP RP Gen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AI</p>
+<p>AI &amp; Analytics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -348,7 +348,7 @@ third_nav_title: Courses
 <p>NUS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Software Engineering</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3 days</p>
@@ -378,7 +378,7 @@ third_nav_title: Courses
 <p>SUSS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Software Engineering</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6 days</p>
@@ -408,7 +408,7 @@ third_nav_title: Courses
 <p>SUSS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Software Engineering</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>12 days</p>
@@ -426,7 +426,7 @@ third_nav_title: Courses
 <p>Cyber Security</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>3 days</p>
 </td>
 </tr>
 <tr>
@@ -438,7 +438,7 @@ third_nav_title: Courses
 <p>NUS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Software Engineering</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3 days</p>
@@ -453,7 +453,7 @@ third_nav_title: Courses
 <p>NP</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Data Analytics</p>
+<p>AI &amp; Analytics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>12 months</p>
@@ -461,3 +461,4 @@ third_nav_title: Courses
 </tr>
 </tbody>
 </table>
+<p></p>
