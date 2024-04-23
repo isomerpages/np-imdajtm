@@ -33,15 +33,15 @@ sections:
           description: ""
           linktext: Learn more
           url: ""
+        - title: CLOUD & MOBILITY
+          description: ""
+          linktext: Learn more
+          url: ""
         - title: GENERATIVE ARTIFICAL INTELLIGENCE
           description: ""
           linktext: Learn more
           url: ""
         - title: SOFTWARE ENGINEERING
-          description: ""
-          linktext: Learn more
-          url: ""
-        - title: CLOUD & MOBILITY
           description: ""
           linktext: Learn more
           url: ""
