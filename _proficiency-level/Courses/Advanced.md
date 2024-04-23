@@ -543,7 +543,7 @@ third_nav_title: Courses
 <p>NP</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>GenAI</p>
+<p>Gen AI</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 year (Part-time)</p>
