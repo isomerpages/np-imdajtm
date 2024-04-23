@@ -93,7 +93,7 @@ third_nav_title: Courses
 <p>TP RP Gen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Cloud</p>
+<p>Cloud &amp; Mobility</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -333,7 +333,7 @@ third_nav_title: Courses
 <p>TP RP Gen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AI</p>
+<p>AI &amp; Analytics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2.5years (Part-time)</p>
