@@ -15,17 +15,6 @@ description: ""
 </div>
 </div>
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/NP_Logo.jpg">
-</div>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">NP Tech Skills Advancement Office</div>
-<div class="isomer-card-description">techskills@np.edu.sg</div>
-</div>
-</div>
-</div>
 <table>
 <tbody>
 <tr>
@@ -43,12 +32,23 @@ description: ""
 <table>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.ntuclearninghub.com/"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/LHUB_Logo.png"></a>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/NP_Logo.jpg">
+</div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">NP Tech Skills Advancement Office</div>
+<div class="isomer-card-description">techskills@np.edu.sg</div>
+</div>
+</div>
+</div>
 <p></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.ntuclearninghub.com/"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/LHUB_Logo.png"></a>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
@@ -62,11 +62,6 @@ description: ""
 </tr>
 <tr>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.suss.edu.sg/courses"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/SUSS_Logo_HorA_FullColor_RGB_.png"></a>
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
@@ -75,8 +70,7 @@ description: ""
 </div>
 </div>
 </div>
-<p></p>
-</td>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.tp.edu.sg/ai-empowerment-hub"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/TP_RP_Generation_Logo.jpg"></a>
@@ -88,6 +82,11 @@ description: ""
 </div>
 </div>
 </div>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
