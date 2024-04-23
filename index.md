@@ -40,7 +40,7 @@ sections:
         - title: GENERATIVE ARTIFICAL INTELLIGENCE
           description: ""
           linktext: Learn more
-          url: ""
+          url: /genai-courses/
         - title: SOFTWARE ENGINEERING
           description: ""
           linktext: Learn more
