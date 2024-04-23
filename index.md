@@ -32,7 +32,7 @@ sections:
         - title: AI & ANALYTICS
           description: ""
           linktext: Learn more
-          url: ""
+          url: /analytics-courses/
         - title: CLOUD & MOBILITY
           description: ""
           linktext: Learn more
