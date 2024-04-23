@@ -7,7 +7,7 @@ description: ""
 <h2>About Jobs Transformation Map</h2>
 <p>Technology is radically transforming the workforce. To ensure that I&amp;C
 professionals are equipped to take advantage of the opportunities that
-the digital economy brings, the&nbsp;<strong><a href="https://www.wsg.gov.sg/home/employers-industry-partners/jobs-transformation-maps" rel="noopener noreferrer nofollow" target="_blank">I&amp;C Jobs Transformation Map (JTM)</a></strong>&nbsp;was
+the digital economy brings, the&nbsp;<a href="https://www.wsg.gov.sg/home/employers-industry-partners/jobs-transformation-maps/jobs-transformation-map-ict-and-media-jobs-in-singapore" rel="noopener noreferrer nofollow" target="_blank">I&amp;C Jobs Transformation Map (JTM)</a>&nbsp;was
 published to provide insights into the technologies that are changing the
 future of tech jobs and how workers and employers can successfully navigate
 these changes through job redesign and reskilling I&amp;C professionals.
