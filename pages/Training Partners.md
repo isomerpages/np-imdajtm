@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <a class="isomer-image-wrapper" href="https://scale.nus.edu.sg/programmes/lifelonglearning/ict-academyNUS"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/NUS_ICT_logo.jpg"></a>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="mailto:techskills@np.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">NP Tech Skills Advancement Office</div><div class="isomer-card-link">Contact us</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="mailto:ask.scale@nus.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">NUS ICT Academy</div><div class="isomer-card-link">Contact us</div></div></a>
 </div>
 <table>
 <tbody>
