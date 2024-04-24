@@ -54,7 +54,8 @@ and reskilling needs.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>An initiative of:</p>
+<p><em>An initiative of:</em>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/imda_SSG_WSG_logo.png">
 </div>
