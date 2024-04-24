@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/artscimuseum_singapore_landscape.jpg
+      background: /images/internet_web_3_0_in_singapore_landscape__1_.jpg
       url: /contact-us/
       variant: center
       key_highlights:
