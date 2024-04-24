@@ -7,9 +7,9 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Banner4a.png
+      background: /images/artscimuseum_singapore_landscape.jpg
       url: /contact-us/
-      variant: image
+      variant: center
       key_highlights:
         - title: Curated Courses
           description: By Proficiency
