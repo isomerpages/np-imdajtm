@@ -39,6 +39,43 @@ in-demand areas – Software Engineering and Cloud and Mobility.</p>
 <p>Temasek Polytechnic-Republic Polytechnic-Generation Singapore (TP-RP-Gen).</p>
 </li>
 </ul>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>&nbsp;IMDA will work with the five Training Partners to develop a comprehensive
 suite of reskilling courses with relevant and practical training interventions.
 The programmes will cater to learners of varying needs, ranging from short-duration
