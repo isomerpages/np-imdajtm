@@ -11,8 +11,8 @@ the digital economy brings, the&nbsp;<a href="https://www.wsg.gov.sg/home/employ
 published to provide insights into the technologies that are changing the
 future of tech jobs and how workers and employers can successfully navigate
 these changes through job redesign and reskilling I&amp;C professionals.
-IMDA’s TechSkills Accelerator (TeSA), is a national initiative that aims
-to equips individuals with the necessary digital skills and stay competitive.
+<a href="https://www.imda.gov.sg/how-we-can-help/techskills-accelerator-tesa" rel="noopener noreferrer nofollow" target="_blank">IMDA’s TechSkills Accelerator (TeSA)</a>, is a national initiative that
+aims to equips individuals with the necessary digital skills and stay competitive.
 It also provides employers with guidance in redesigning tech jobs for at-risk
 workers.</p>
 <p>In order to scale up reskilling efforts and help existing tech professionals
@@ -38,8 +38,7 @@ in-demand areas – Software Engineering and Cloud and Mobility.</p>
 <p>Temasek Polytechnic-Republic Polytechnic-Generation Singapore (TP-RP-Gen).</p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<p>IMDA will work with the five Training Partners to develop a comprehensive
+<p>&nbsp;IMDA will work with the five Training Partners to develop a comprehensive
 suite of reskilling courses with relevant and practical training interventions.
 The programmes will cater to learners of varying needs, ranging from short-duration
 courses to deeper modules that stack towards professional certification.&nbsp;</p>
