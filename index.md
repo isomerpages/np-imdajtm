@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: Curated Courses
           description: By Proficiency
-          url: /proficiency-levels/
+          url: /proficiency-level/
         - title: Events
           description: Past and Upcoming
           url: /resources/events
