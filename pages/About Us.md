@@ -15,6 +15,7 @@ these changes through job redesign and reskilling I&amp;C professionals.
 aims to equips individuals with the necessary digital skills and stay competitive.
 It also provides employers with guidance in redesigning tech jobs for at-risk
 workers.</p>
+<p></p>
 <p>In order to scale up reskilling efforts and help existing tech professionals
 stay up to date with the latest technology and changes in their job roles,
 IMDA is working with five Training Partners to scale reskilling and upskilling
@@ -49,3 +50,21 @@ the companies with training, job redesign and redeployment support incentives.</
 companies with course fee funding provided by <a href="https://www.skillsfuture.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">SSG</a> and work with programme
 partners of WSG’s Career Conversion Programmes to identify their training
 and reskilling needs.</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>An initiative of:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/imda_SSG_WSG_logo.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
