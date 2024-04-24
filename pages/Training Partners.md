@@ -8,8 +8,8 @@ description: ""
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">NUS ICT Academy</div>
-<div class="isomer-card-description">ask.scale@nus.edu.sg</div>
+<div class="isomer-card-title">TP-RP-Generation</div>
+<div class="isomer-card-description">iit@tp.edu.sg</div>
 </div>
 </div>
 </div>
