@@ -43,40 +43,16 @@ in-demand areas – Software Engineering and Cloud and Mobility.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<p><strong><em>Key partners for I&amp;C Jobs Transformation Map (JTM):</em></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/key_TPs_logos.jpg">
+</div>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;IMDA will work with the five Training Partners to develop a comprehensive
+<p>IMDA will work with the five Training Partners to develop a comprehensive
 suite of reskilling courses with relevant and practical training interventions.
 The programmes will cater to learners of varying needs, ranging from short-duration
 courses to deeper modules that stack towards professional certification.&nbsp;</p>
