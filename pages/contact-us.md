@@ -8,6 +8,6 @@ contacts:
       - phone: ""
       - email: jsd@imda.gov.sg
       - other: ""
-    title: IMDA JSD
+    title: Jobs & Skills Division
 feedback: ""
 ---
