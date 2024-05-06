@@ -17,7 +17,7 @@ sections:
         - title: Events
           description: Past and Upcoming
           url: /resources/events
-        - title: Career Conversion Program
+        - title: Career Conversion Programme
           description: for Employers
           url: /career-conversion-programme/
       title: Enabling AI Workforce
