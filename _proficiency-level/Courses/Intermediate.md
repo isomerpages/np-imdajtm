@@ -32,6 +32,21 @@ third_nav_title: Courses
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2024041440" rel="noopener noreferrer nofollow" target="_blank">AI tools &amp; techniques for cybersecurity</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AI &amp; Analytics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5.5 days</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://www.ntuclearninghub.com/en-gb/-/course/analyse-business-data-and-create-interactive-dashboards-using-python-sf" rel="noopener noreferrer nofollow" target="_blank">Analyse Business Data and Create Interactive Dashboards using Pythons (SF)</a>
 </p>
 </td>
