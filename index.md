@@ -20,7 +20,7 @@ sections:
         - title: Career Conversion Programme
           description: for Employers
           url: /career-conversion-programme/
-      title: Enabling AI Workforce
+      title: Enabling an AI-ready Workforce
   - infobar:
       button: Enter to find out
       url: /about-us
