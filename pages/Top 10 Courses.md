@@ -5,9 +5,8 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<table style="minWidth: 125px">
+<table style="minWidth: 100px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -26,124 +25,13 @@ description: ""
 <p>Training Partners</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Areas</p>
-</th>
-<th rowspan="1" colspan="1">
 <p><strong>Duration</strong>
 </p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.ntuclearninghub.com/en-gb/-/course/microsoft-azure-ai-fundamentals-sf" rel="noopener noreferrer nofollow" target="_blank">Microsoft Azure AI Fundamentals</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Basic</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NTUC LHub</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AI &amp; Analytics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 day</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.ntuclearninghub.com/en-gb/-/course/ai-innovation-unleashed-navigating-the-terrain-of-prompt-engineering" rel="noopener noreferrer nofollow" target="_blank">AI Innovation Unleashed: Navigating the Terrain of Prompt Engineering</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Basic</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NTUC LHub</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AI &amp; Analytics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 days</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.suss.edu.sg/courses/short-course/detail/introduction-to-generative-artificial-intelligence-(ai)" rel="noopener noreferrer nofollow" target="_blank">Introduction to Generative Artificial Intelligence (AI)</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Basic</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SUSS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AI &amp; Analytics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 days</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.suss.edu.sg/courses/short-course/detail/technology-risk-in-artificial-intelligence" rel="noopener noreferrer nofollow" target="_blank">Technology Risk in Artificial Intelligence</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Basic</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SUSS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AI &amp; Analytics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 day</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.cet.np.edu.sg/courses/generative-artificial-intelligence-ai-for-productivity-classroom-asynchronous/" rel="noopener noreferrer nofollow" target="_blank">Generative Artificial Intelligence (AI) for Productivity</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Basic</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NP</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AI &amp; Analytics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 days</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.cet.np.edu.sg/courses/specialist-diploma-in-applied-generative-ai/" rel="noopener noreferrer nofollow" target="_blank">Specialist Diploma in Applied Generative AI</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Advanced</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NP</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AI &amp; Analytics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 year</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://ace.nus.edu.sg/course/ai-and-machine-learning-begins-with-me/" rel="noopener noreferrer nofollow" target="_blank">AI and MachineLearning Begins with Me</a>
+<p><a href="https://ace.nus.edu.sg/course/ai-and-machine-learning-begins-with-me/" rel="noopener noreferrer nofollow" target="_blank">AI and Machine Learning Begins with Me</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -151,9 +39,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>NUS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AI &amp; Analytics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 days</p>
@@ -171,7 +56,94 @@ description: ""
 <p>NUS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AI &amp; Analytics</p>
+<p>1 day</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.cet.np.edu.sg/courses/generative-artificial-intelligence-ai-for-productivity-classroom-asynchronous/" rel="noopener noreferrer nofollow" target="_blank">Generative Artificial Intelligence (AI) for Productivity</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Basic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 days</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.cet.np.edu.sg/courses/specialist-diploma-in-applied-generative-ai/" rel="noopener noreferrer nofollow" target="_blank">Specialist Diploma in Applied Generative AI</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Advanced</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 year</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.ntuclearninghub.com/en-gb/-/course/microsoft-azure-ai-fundamentals-sf" rel="noopener noreferrer nofollow" target="_blank">Microsoft Azure AI Fundamentals</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Basic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NTUC LHub</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 day</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.ntuclearninghub.com/en-gb/-/course/ai-innovation-unleashed-navigating-the-terrain-of-prompt-engineering" rel="noopener noreferrer nofollow" target="_blank">AI Innovation Unleashed: Navigating the Terrain of Prompt Engineering</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Basic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NTUC LHub</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 days</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.suss.edu.sg/courses/short-course/detail/introduction-to-generative-artificial-intelligence-(ai)" rel="noopener noreferrer nofollow" target="_blank">Introduction to Generative Artificial Intelligence (AI)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Basic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SUSS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 days</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.suss.edu.sg/courses/short-course/detail/technology-risk-in-artificial-intelligence" rel="noopener noreferrer nofollow" target="_blank">Technology Risk in Artificial Intelligence</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Basic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SUSS</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 day</p>
@@ -183,13 +155,10 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Advanced</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>TP RP Gen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AI &amp; Analytics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3 months</p>
@@ -201,101 +170,13 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Advanced</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>TP RP Gen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AI &amp; Analytics</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>3 months</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
