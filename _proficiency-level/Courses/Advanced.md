@@ -5,7 +5,13 @@ variant: tiptap
 description: ""
 third_nav_title: Courses
 ---
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -251,81 +257,6 @@ third_nav_title: Courses
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://ace.nus.edu.sg/course/digital-transformation-a-holistic-approach/" rel="noopener noreferrer nofollow" target="_blank">Digital Transformation - A Holistic Approach</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NUS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AI &amp; Analytics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 day</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://ace.nus.edu.sg/course/digital-transformation-customer-value-and-business-model/" rel="noopener noreferrer nofollow" target="_blank">Digital Transformation - Customer Value and Business Model</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NUS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AI &amp; Analytics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3 days</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://ace.nus.edu.sg/course/digital-transformation-enablers-talent-and-leadership/" rel="noopener noreferrer nofollow" target="_blank">Digital Transformation - Enablers, Talent and Leadership</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NUS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AI &amp; Analytics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3 days</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://ace.nus.edu.sg/course/digital-transformation-leadership-and-agility/" rel="noopener noreferrer nofollow" target="_blank">Digital Transformation - Leadership and Agility</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NUS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AI &amp; Analytics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 days</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://ace.nus.edu.sg/course/digital-transformation-user-case-generation-selection-and-prioritization/" rel="noopener noreferrer nofollow" target="_blank">Digital Transformation - User Case Generation, Selection, and Prioritization</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NUS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AI &amp; Analytics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 days</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/part-time-diploma-post-diploma-courses/diploma-in-infocomm-digital-media-applied-artificial-intelligence.html" rel="noopener noreferrer nofollow" target="_blank">Diploma in Applied AI</a>
 </p>
 </td>
@@ -401,21 +332,6 @@ third_nav_title: Courses
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://inetapps.nus.edu.sg/SACS/LifeLongLearning/CourseDetails/CC-3002_TGS-2020503232/" rel="noopener noreferrer nofollow" target="_blank">Longitudinal Data Analysis</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NUS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AI &amp; Analytics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 days</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="https://www.suss.edu.sg/courses/detail/aib504" rel="noopener noreferrer nofollow" target="_blank">Machine Learning in Business</a>
 </p>
 </td>
@@ -472,21 +388,6 @@ third_nav_title: Courses
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://inetapps.nus.edu.sg/SACS/LifeLongLearning/CourseDetails/COM-PDSMLS_TGS-2022014570/" rel="noopener noreferrer nofollow" target="_blank">Production, Deployment and Sustainment of Machine Learning Solutions</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NUS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AI &amp; Analytics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3 days</p>
 </td>
 </tr>
 <tr>
@@ -637,21 +538,6 @@ third_nav_title: Courses
 </td>
 <td rowspan="1" colspan="1">
 <p>1 year (Part-time)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://inetapps.nus.edu.sg/SACS/LifeLongLearning/CourseDetails/COM-UIUXDM_TGS-2022014567/" rel="noopener noreferrer nofollow" target="_blank">User Interface &amp; User Experience Design for the Metaverse</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NUS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Software Engineering</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3 days</p>
 </td>
 </tr>
 </tbody>
