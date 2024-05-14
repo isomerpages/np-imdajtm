@@ -24,6 +24,7 @@ sections:
   - infobar:
       button: Enter to find out
       url: /about-us
+      title: Top 10 Courses
   - textcards:
       title: Curated Courses
       id: textcards
