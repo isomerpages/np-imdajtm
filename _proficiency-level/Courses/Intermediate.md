@@ -5,7 +5,13 @@ variant: tiptap
 description: ""
 third_nav_title: Courses
 ---
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -71,36 +77,6 @@ third_nav_title: Courses
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.iss.nus.edu.sg/executive-education/course/detail/certified-scrum-product---owner/digital-agility" rel="noopener noreferrer nofollow" target="_blank">Certified Scrum Product Owner</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NUS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Software Engineering</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 days</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.iss.nus.edu.sg/executive-education/course/detail/certified-scrummaster-/digital-agility" rel="noopener noreferrer nofollow" target="_blank">Certified ScrumMaster</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NUS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Software Engineering</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 days</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2023037134" rel="noopener noreferrer nofollow" target="_blank">Cloud Computing: Business Case and Technical Models</a>
 </p>
 </td>
@@ -161,51 +137,6 @@ third_nav_title: Courses
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://inetapps.nus.edu.sg/SACS/LifeLongLearning/CourseDetails/COM-DADS_TGS-2022012370/" rel="noopener noreferrer nofollow" target="_blank">Data and Database Systems</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NUS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AI &amp; Analytics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 day</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://inetapps.nus.edu.sg/SACS/LifeLongLearning/CourseDetails/ISS-DST-SF_TGS-2023039677/" rel="noopener noreferrer nofollow" target="_blank">Data Storytelling</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NUS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AI &amp; Analytics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3 days</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://inetapps.nus.edu.sg/SACS/LifeLongLearning/CourseDetails/FOS-DVCWM_TGS-2022014088/" rel="noopener noreferrer nofollow" target="_blank">Data Visualization Continues With Me</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NUS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AI &amp; Analytics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 days</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="https://inetapps.nus.edu.sg/SACS/LifeLongLearning/CourseDetails/COM-DCMAQWS_TGS-2022012358/" rel="noopener noreferrer nofollow" target="_blank">Database Creation, Manipulation, and Querying with SQL</a>
 </p>
 </td>
@@ -217,21 +148,6 @@ third_nav_title: Courses
 </td>
 <td rowspan="1" colspan="1">
 <p>2 days</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.iss.nus.edu.sg/executive-education/course/detail/devsecops-engineering-and--automation/software-systems" rel="noopener noreferrer nofollow" target="_blank">DevSecOps Engineering and Automation</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NUS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Software &amp; Engineering</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5 days</p>
 </td>
 </tr>
 <tr>
@@ -356,21 +272,6 @@ third_nav_title: Courses
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://inetapps.nus.edu.sg/SACS/LifeLongLearning/CourseDetails/MR-NF/" rel="noopener noreferrer nofollow" target="_blank">Machine Reasoning</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NUS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4 days</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2023037246" rel="noopener noreferrer nofollow" target="_blank">Management Information Systems</a>
 </p>
 </td>
@@ -382,21 +283,6 @@ third_nav_title: Courses
 </td>
 <td rowspan="1" colspan="1">
 <p>6 days</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.iss.nus.edu.sg/executive-education/course/detail/managing-digital--products/digital-products-platforms" rel="noopener noreferrer nofollow" target="_blank">Managing Digital Products</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NUS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4 days</p>
 </td>
 </tr>
 <tr>
@@ -424,21 +310,6 @@ third_nav_title: Courses
 </td>
 <td rowspan="1" colspan="1">
 <p>Cyber Security</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3 days</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.iss.nus.edu.sg/executive-education/course/detail/software-design-patterns" rel="noopener noreferrer nofollow" target="_blank">Software Design Patterns</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NUS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Software Engineering</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3 days</p>
