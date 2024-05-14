@@ -23,7 +23,7 @@ sections:
       title: Enabling an AI-ready Workforce
   - infobar:
       button: Enter to find out
-      url: /about-us
+      url: /top-10-courses/
       title: Top 10 Courses
   - textcards:
       title: Curated Courses
