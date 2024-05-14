@@ -82,7 +82,7 @@ identify their training and reskilling needs.</p>
 <p><em>Supported by:</em>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/SkillsfutureSG.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/SSG_logo.jpg">
 </div>
 </td>
 </tr>
