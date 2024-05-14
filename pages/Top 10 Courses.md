@@ -35,10 +35,25 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Basic</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NUS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 days</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.ntuclearninghub.com/en-gb/-/course/ai-innovation-unleashed-navigating-the-terrain-of-prompt-engineering" rel="noopener noreferrer nofollow" target="_blank">AI Innovation Unleashed: Navigating the Terrain of Prompt Engineering</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Basic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NTUC LHub</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 days</p>
@@ -50,7 +65,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Basic</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NUS</p>
@@ -76,17 +91,17 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.cet.np.edu.sg/courses/specialist-diploma-in-applied-generative-ai/" rel="noopener noreferrer nofollow" target="_blank">Specialist Diploma in Applied Generative AI</a>
+<p><a href="https://www.suss.edu.sg/courses/short-course/detail/introduction-to-generative-artificial-intelligence-(ai)" rel="noopener noreferrer nofollow" target="_blank">Introduction to Generative Artificial Intelligence (AI)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Advanced</p>
+<p>Basic</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NP</p>
+<p>SUSS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 year</p>
+<p>2 days</p>
 </td>
 </tr>
 <tr>
@@ -102,36 +117,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>1 day</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.ntuclearninghub.com/en-gb/-/course/ai-innovation-unleashed-navigating-the-terrain-of-prompt-engineering" rel="noopener noreferrer nofollow" target="_blank">AI Innovation Unleashed: Navigating the Terrain of Prompt Engineering</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Basic</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NTUC LHub</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 days</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.suss.edu.sg/courses/short-course/detail/introduction-to-generative-artificial-intelligence-(ai)" rel="noopener noreferrer nofollow" target="_blank">Introduction to Generative Artificial Intelligence (AI)</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Basic</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SUSS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 days</p>
 </td>
 </tr>
 <tr>
@@ -177,6 +162,21 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>3 months</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.cet.np.edu.sg/courses/specialist-diploma-in-applied-generative-ai/" rel="noopener noreferrer nofollow" target="_blank">Specialist Diploma in Applied Generative AI</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Advanced</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 year</p>
 </td>
 </tr>
 </tbody>
