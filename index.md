@@ -25,7 +25,7 @@ sections:
       button: Enter to find out
       url: /top-10-courses/
       title: Top 10  Courses
-      subtitle: "Featuring the AI-centric "
+      subtitle: Featuring the AI-centric
   - textcards:
       title: Curated Courses
       id: textcards
