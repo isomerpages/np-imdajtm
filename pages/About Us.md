@@ -13,7 +13,9 @@ partnership with <a href="https://www.wsg.gov.sg/" rel="noopener noreferrer nofo
 launched the Jobs Transformation Map (JTM) for the I&amp;C workforce in
 October 2022. The JTM guides employer and tech professionals in navigating
 these changes through job redesign and reskilling, to take advantage of
-the opportunities.</p>
+the opportunities. presented by AI and automation. The JTM equips them
+with the skills and knowledge to adapt to evolving job requirements and
+thrive in the future of work.</p>
 <p>To scale up reskilling efforts and help existing tech professionals stay
 up to date with the latest technology and changes in their job roles, IMDA
 is working with five Training Partners to scale reskilling and upskilling
@@ -54,8 +56,8 @@ in-demand areas – Software Engineering and Cloud and Mobility.</p>
 </tr>
 </tbody>
 </table>
-<p>IMDA will work with the five Training Partners to develop a comprehensive
-suite of reskilling courses with relevant and practical training interventions.
+<p>IMDA will work with the Training Partners to develop a comprehensive suite
+of reskilling courses with relevant and practical training interventions.
 The programmes will cater to learners of varying needs, ranging from short-duration
 courses to deeper modules that stack towards professional certification.&nbsp;</p>
 <p>Companies are invited to come forward to work with the Training Partners
@@ -63,9 +65,9 @@ to reskill their existing employees</p>
 <p>Through the <a href="https://www.imda.gov.sg/how-we-can-help/techskills-accelerator-tesa" rel="noopener noreferrer nofollow" target="_blank">TechSkills Accelerator (TeSA)</a>,
 a national initiative that aims to equip individuals with the necessary
 digital skills and stay competitive, the Training Partners will assist
-the companies with course fee funding provided by <a href="https://www.skillsfuture.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">SkillsFuture Singapore</a> through
-<a href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-landing.html" rel="noopener noreferrer nofollow" target="_blank">My SkillsFuture Training Exchange</a>and work with programme partners
-of WSG’s <a href="https://www.wsg.gov.sg/home/employers-industry-partners" rel="noopener noreferrer nofollow" target="_blank">Career Conversion Programmes</a> to
+the companies with course fee funding provided by SkillsFuture Singapore
+through <a href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-landing.html" rel="noopener noreferrer nofollow" target="_blank">My SkillsFuture Training Exchange </a>and
+work with programme partners of WSG’s <a href="https://www.wsg.gov.sg/home/employers-industry-partners" rel="noopener noreferrer nofollow" target="_blank">Career Conversion Programmes</a> to
 identify their training and reskilling needs.</p>
 <table style="minWidth: 25px">
 <colgroup>
