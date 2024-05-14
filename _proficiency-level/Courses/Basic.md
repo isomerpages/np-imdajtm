@@ -5,7 +5,13 @@ variant: tiptap
 description: ""
 third_nav_title: Courses
 ---
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -22,21 +28,6 @@ third_nav_title: Courses
 <p><strong>Duration</strong>
 </p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://inetapps.nus.edu.sg/SACS/LifeLongLearning/CourseDetails/COM-5G-MPAJO_TGS-2022012781/" rel="noopener noreferrer nofollow" target="_blank">5G Market Potential and Job Opportunities</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NUS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 day</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -280,21 +271,6 @@ third_nav_title: Courses
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://inetapps.nus.edu.sg/SACS/LifeLongLearning/CourseDetails/FOS-DABWM_TGS-2020506065/" rel="noopener noreferrer nofollow" target="_blank">Data Analytics Begins With Me</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NUS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AI &amp; Analytics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 day</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="https://stms.polite.edu.sg/student/ihlcourse/detail/873c2b59-00cf-48c9-bc68-5987506f7bd0" rel="noopener noreferrer nofollow" target="_blank">Data Analytics with Power BI</a>
 </p>
 </td>
@@ -315,21 +291,6 @@ third_nav_title: Courses
 </td>
 <td rowspan="1" colspan="1">
 <p>TP RP Gen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AI &amp; Analytics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 day</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://inetapps.nus.edu.sg/SACS/LifeLongLearning/CourseDetails/FOS-DVBWM_TGS-2020513790/" rel="noopener noreferrer nofollow" target="_blank">Data Visualization Begins With Me</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NUS</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>AI &amp; Analytics</p>
@@ -741,36 +702,6 @@ third_nav_title: Courses
 </td>
 <td rowspan="1" colspan="1">
 <p>2 days</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://inetapps.nus.edu.sg/SACS/LifeLongLearning/CourseDetails/COM-RPABWM_TGS-2020513883/" rel="noopener noreferrer nofollow" target="_blank">Robotics Process Automation Begins With Me</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NUS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 day</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://inetapps.nus.edu.sg/SACS/LifeLongLearning/CourseDetails/SLE-RPABWM-PAD_TGS-2022011443/" rel="noopener noreferrer nofollow" target="_blank">Robotics Process Automation Begins with Me (Power Automate Desktop)</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NUS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 day</p>
 </td>
 </tr>
 <tr>
