@@ -421,6 +421,21 @@ third_nav_title: Courses
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://www.cet.np.edu.sg/courses/generative-ai-driven-storytelling-mastering-content-creation-tools/" rel="noopener noreferrer nofollow" target="_blank">Generative AI Driven Storytelling- Mastering Content Creation Tools</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gen AI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 days</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/skillsfuture-series/generative-ai-prompt-engineering-for-skills-and-productivity-enhancement.html" rel="noopener noreferrer nofollow" target="_blank">Generative AI Prompt Engineering for Skills &amp; Productivity Enhancement</a>
 </p>
 </td>
