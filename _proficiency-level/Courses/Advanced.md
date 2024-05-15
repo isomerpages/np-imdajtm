@@ -251,7 +251,7 @@ soon)</p>
 <p>Gen AI</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 year (Part-time)</p>
+<p>1 year</p>
 </td>
 </tr>
 </tbody>
