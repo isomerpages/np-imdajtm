@@ -61,7 +61,7 @@ third_nav_title: Courses
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.ntuclearninghub.com/en-gb/-/course/ai-tools-for-creative-professionals" rel="noopener noreferrer nofollow" target="_blank">AI TOOLS FOR CREATIVE PROFESSIONALS</a>
+<p><a href="https://www.ntuclearninghub.com/en-gb/-/course/ai-tools-for-creative-professionals" rel="noopener noreferrer nofollow" target="_blank">AI Tools for Creative Professionals</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -196,7 +196,7 @@ third_nav_title: Courses
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.ntuclearninghub.com/en-gb/-/course/fundamentals-of-python-programming-sf" rel="noopener noreferrer nofollow" target="_blank">Fundamentals of Python Programming (Synchronous E-Learning)</a>
+<p><a href="https://www.ntuclearninghub.com/en-gb/-/course/fundamentals-of-python-programming-sf" rel="noopener noreferrer nofollow" target="_blank">Fundamentals of Python Programming </a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -346,7 +346,7 @@ third_nav_title: Courses
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.ntuclearninghub.com/en-gb/-/course/querying-data-with-microsoft-transact-sql-sf" rel="noopener noreferrer nofollow" target="_blank">Querying Data with Microsoft Transact-SQL (SF)</a>
+<p><a href="https://www.ntuclearninghub.com/en-gb/-/course/querying-data-with-microsoft-transact-sql-sf" rel="noopener noreferrer nofollow" target="_blank">Querying Data with Microsoft Transact-SQL </a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
