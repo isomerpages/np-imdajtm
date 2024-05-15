@@ -43,7 +43,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.ntuclearninghub.com/en-gb/-/course/fundamentals-of-python-programming-sf" rel="noopener noreferrer nofollow" target="_blank">Fundamentals of Python Programming (Synchronous E-Learning)</a>
+<p><a href="https://www.ntuclearninghub.com/en-gb/-/course/fundamentals-of-python-programming-sf" rel="noopener noreferrer nofollow" target="_blank">Fundamentals of Python Programming </a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
