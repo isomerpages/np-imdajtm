@@ -151,6 +151,21 @@ third_nav_title: Courses
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://ace.nus.edu.sg/course/chatbot-development-begins-with-me/" rel="noopener noreferrer nofollow" target="_blank">Chatbot Development Begins with Me</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NUS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AI &amp; Analytics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 day</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://www.ntuclearninghub.com/en-gb/-/course/citizen-development-by-servicenow" rel="noopener noreferrer nofollow" target="_blank">Citizen Development By ServiceNow</a>
 </p>
 </td>
