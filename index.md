@@ -22,10 +22,10 @@ sections:
           url: /career-conversion-programme/
       title: Enabling an AI-ready Workforce
   - infobar:
-      button: Enter to find out
+      button: Click here
       url: /top-10-courses/
-      title: Top 10  Courses
-      subtitle: Featuring the AI-centric
+      title: Top AI Courses
+      subtitle: "Featuring our "
   - textcards:
       title: Curated Courses
       id: textcards
