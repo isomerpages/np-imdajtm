@@ -196,21 +196,6 @@ third_nav_title: Courses
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.cet.np.edu.sg/courses/diploma-in-full-stack-development/" rel="noopener noreferrer nofollow" target="_blank">Diploma in Full Stack Development</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NP</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Software Engineering</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>30 months</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="https://www.ntuclearninghub.com/en-gb/-/course/fundamentals-of-python-programming-sf" rel="noopener noreferrer nofollow" target="_blank">Fundamentals of Python Programming (Synchronous E-Learning)</a>
 </p>
 </td>
@@ -237,21 +222,6 @@ third_nav_title: Courses
 </td>
 <td rowspan="1" colspan="1">
 <p>2 days</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.cet.np.edu.sg/courses/generative-artificial-intelligence-ai-for-marketing-and-public-relations-professionals/" rel="noopener noreferrer nofollow" target="_blank">Generative Artificial Intelligence for Marketing &amp; Public Relations Professionals</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NP</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Gen AI</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3 days</p>
 </td>
 </tr>
 <tr>
