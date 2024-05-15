@@ -79,7 +79,7 @@ identify their training and reskilling needs.</p>
 <p><em>An initiative of:</em>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/imda_SSG_WSG_logo.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/imda_WSG_logo.jpg">
 </div>
 <p><em>Supported by:</em>
 </p>
