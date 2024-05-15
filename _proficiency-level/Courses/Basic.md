@@ -391,5 +391,5 @@ third_nav_title: Courses
 </tr>
 </tbody>
 </table>
-<p><em>The list of courses is not exhaustive. For more courses, please visit the respective training partners' website.</em>
+<p><em>The list of courses is not exhaustive. For detailed course listing, please visit the respective training partner's website.</em>
 </p>
