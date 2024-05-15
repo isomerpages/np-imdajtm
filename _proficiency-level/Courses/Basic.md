@@ -526,6 +526,21 @@ third_nav_title: Courses
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://www.ntuclearninghub.com/en-gb/-/course/introduction-to-cloud-computing-powered-by-aws" rel="noopener noreferrer nofollow" target="_blank">Introduction to Cloud Computing &nbsp;(Powered by AWS)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NTUC LHub</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cloud &amp; Mobility&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 day</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2023022148" rel="noopener noreferrer nofollow" target="_blank">Introduction to Cybersecurity</a>
 </p>
 </td>
