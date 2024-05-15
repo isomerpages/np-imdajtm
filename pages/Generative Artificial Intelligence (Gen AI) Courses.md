@@ -88,4 +88,5 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><em>The list of courses is not exhaustive. For detailed course listing, please visit the respective training partner's website.</em>
+</p>
