@@ -77,6 +77,21 @@ third_nav_title: Courses
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://www.ntuclearninghub.com/en-gb/-/course/aws-cloud-practitioner-essentials-sf" rel="noopener noreferrer nofollow" target="_blank">AWS CLOUD PRACTITIONER ESSENTIALS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NTUC LHub</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cloud &amp; Mobility&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 day</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2023037139" rel="noopener noreferrer nofollow" target="_blank">Big Data Computing in the Cloud</a>
 </p>
 </td>
