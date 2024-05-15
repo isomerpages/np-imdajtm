@@ -8,14 +8,14 @@ description: ""
 <p>Technology is radically transforming the workforce.</p>
 <p>To prepare the Information and Communications (I&amp;C) workforce for
 increasing digitalisation in our economy, and emerging tech trends that
-will transform jobs, the Infocomm Media Development Authority (IMDA) in
-partnership with <a href="https://www.wsg.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Workforce Singapore</a>,
-launched the Jobs Transformation Map (JTM) for the I&amp;C workforce in
-October 2022. The JTM guides employer and tech professionals in navigating
-these changes through job redesign and reskilling, to take advantage of
-the opportunities. presented by AI and automation. The JTM equips them
-with the skills and knowledge to adapt to evolving job requirements and
-thrive in the future of work.</p>
+will transform jobs, the <a href="https://www.imda.gov.sg/business" rel="noopener noreferrer nofollow" target="_blank">Infocomm Media Development Authority</a> (IMDA)
+in partnership with <a href="https://www.wsg.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Workforce Singapore</a>, launched the
+<a href="https://www.imda.gov.sg/https:/www.imda.gov.sg/how-we-can-help/techskills-accelerator-tesa/jobs-transformation-map" rel="noopener noreferrer nofollow" target="_blank">Jobs Transformation Map</a>(JTM) for the I&amp;C workforce in October
+2022. The JTM guides employer and tech professionals in navigating these
+changes through job redesign and reskilling, to take advantage of the opportunities.
+presented by AI and automation. The JTM equips them with the skills and
+knowledge to adapt to evolving job requirements and thrive in the future
+of work.</p>
 <p>To scale up reskilling efforts and help existing tech professionals stay
 up to date with the latest technology and changes in their job roles, IMDA
 is working with five Training Partners to scale reskilling and upskilling
@@ -25,19 +25,20 @@ in-demand areas – Software Engineering and Cloud and Mobility.</p>
 <p>The Training Partners are:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>National University of Singapore (NUS),</p>
+<p><a href="https://scale.nus.edu.sg/programmes/lifelonglearning/ict-academyNUS" rel="noopener noreferrer nofollow" target="_blank">National University of Singapore</a> (NUS),</p>
 </li>
 <li>
-<p>Ngee Ann Polytechnic (NP),</p>
+<p><a href="https://www.cet.np.edu.sg/tech-skills-advancement-office-np-2/" rel="noopener noreferrer nofollow" target="_blank">Ngee Ann Polytechnic</a>,</p>
 </li>
 <li>
-<p>NTUC LearningHub (LHub),</p>
+<p><a href="https://scale.nus.edu.sg/programmes/lifelonglearning/ict-academyNUS" rel="noopener noreferrer nofollow" target="_blank">NTUC LearningHub</a> (LHub),</p>
 </li>
 <li>
-<p>Singapore University of Social Sciences (SUSS) and</p>
+<p><a href="https://www.suss.edu.sg/courses" rel="noopener noreferrer nofollow" target="_blank">Singapore University of Social Sciences</a> (SUSS)
+and</p>
 </li>
 <li>
-<p>Temasek Polytechnic-Republic Polytechnic-Generation Singapore (TP-RP-Gen).</p>
+<p><a href="https://www.tp.edu.sg/ai-empowerment-hub" rel="noopener noreferrer nofollow" target="_blank">Temasek Polytechnic -Republic Polytechnic - Generation Singapore</a>(TP-RP-Gen).</p>
 </li>
 </ul>
 <table style="minWidth: 25px">
