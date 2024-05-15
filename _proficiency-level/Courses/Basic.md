@@ -46,6 +46,21 @@ third_nav_title: Courses
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://www.ntuclearninghub.com/en-gb/-/course/ai-innovation-unleashed-navigating-the-terrain-of-prompt-engineering" rel="noopener noreferrer nofollow" target="_blank">AI Innovation Unleashed: Navigating the Terrain of Prompt Engineering</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NTUC LHub</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;AI &amp; Analytics&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 days</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2023037342" rel="noopener noreferrer nofollow" target="_blank">Analytics for Decision- Making</a>
 </p>
 </td>
@@ -162,21 +177,6 @@ third_nav_title: Courses
 </td>
 <td rowspan="1" colspan="1">
 <p>1 day</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.ntuclearninghub.com/en-gb/-/course/citizen-development-by-servicenow" rel="noopener noreferrer nofollow" target="_blank">Citizen Development By ServiceNow</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NTUC LHub</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Software Engineering</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2.5 days</p>
 </td>
 </tr>
 <tr>
