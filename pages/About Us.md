@@ -10,7 +10,7 @@ description: ""
 increasing digitalisation in our economy, and emerging tech trends that
 will transform jobs, the <a href="https://www.imda.gov.sg/business" rel="noopener noreferrer nofollow" target="_blank">Infocomm Media Development Authority</a> (IMDA)
 in partnership with <a href="https://www.wsg.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Workforce Singapore</a>, launched the
-<a href="https://www.imda.gov.sg/https:/www.imda.gov.sg/how-we-can-help/techskills-accelerator-tesa/jobs-transformation-map" rel="noopener noreferrer nofollow" target="_blank">Jobs Transformation Map</a>(JTM) for the I&amp;C workforce in October
+<a href="https:/www.imda.gov.sg/how-we-can-help/techskills-accelerator-tesa/jobs-transformation-map" rel="noopener noreferrer nofollow" target="_blank">Jobs Transformation Map</a>(JTM) for the I&amp;C workforce in October
 2022. The JTM guides employer and tech professionals in navigating these
 changes through job redesign and reskilling, to take advantage of the opportunities.
 presented by AI and automation. The JTM equips them with the skills and
