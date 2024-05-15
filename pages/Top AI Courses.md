@@ -106,21 +106,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://ace.nus.edu.sg/course/machine-learning-in-python/" rel="noopener noreferrer nofollow" target="_blank">Machine Learning in Python</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Intermediate</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NUS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3 days</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="https://www.suss.edu.sg/courses/detail/ict302" rel="noopener noreferrer nofollow" target="_blank">Generative AI: Theory and Practice</a>
 </p>
 </td>
@@ -132,6 +117,21 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>6 months</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://ace.nus.edu.sg/course/machine-learning-in-python/" rel="noopener noreferrer nofollow" target="_blank">Machine Learning in Python</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Intermediate</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NUS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 days</p>
 </td>
 </tr>
 <tr>
