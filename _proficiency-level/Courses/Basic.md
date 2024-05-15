@@ -76,21 +76,6 @@ third_nav_title: Courses
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2023037342" rel="noopener noreferrer nofollow" target="_blank">Analytics for Decision- Making</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SUSS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AI &amp; Analytics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6 days</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="https://inetapps.nus.edu.sg/SACS/LifeLongLearning/CourseDetails/FOS-AII4.0_TGS-2020513209/" rel="noopener noreferrer nofollow" target="_blank">Analytics in Industry 4.0</a>
 </p>
 </td>
@@ -166,161 +151,11 @@ third_nav_title: Courses
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/skillsfuture-series/exe-basicbusinessanalytics.html" rel="noopener noreferrer nofollow" target="_blank">Basic Business Analytics @ Work</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TP RP Gen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AI &amp; Analytics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 day</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="https://ace.nus.edu.sg/course/chatbot-development-begins-with-me/" rel="noopener noreferrer nofollow" target="_blank">Chatbot Development Begins with Me</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NUS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AI &amp; Analytics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 day</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2023022149" rel="noopener noreferrer nofollow" target="_blank">Cloud Computing for all</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SUSS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Cloud &amp; Mobility</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 day</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2023020773" rel="noopener noreferrer nofollow" target="_blank">Cloud Computing for Managers 1</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SUSS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Cloud &amp; Mobility</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 day</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/skillsfuture-series/coding-for-all.html" rel="noopener noreferrer nofollow" target="_blank">Coding for All</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TP RP Gen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Software Engineering</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 days</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/skillsfuture-series/coding-without-code-app-creation-for-non-developers.html" rel="noopener noreferrer nofollow" target="_blank">Coding Without Code – App Creation for Non-Developers</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TP RP Gen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Software Engineering</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 days</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2023039709" rel="noopener noreferrer nofollow" target="_blank">Content Creation &amp; Storytelling using Generative AI</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SUSS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Gen AI</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 day</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2023022150" rel="noopener noreferrer nofollow" target="_blank">Cybersecurity - Application security by design</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SUSS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 day</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://stms.polite.edu.sg/student/ihlcourse/detail/9890fa00-1387-4c08-ba16-e947d46ce18c" rel="noopener noreferrer nofollow" target="_blank">Cyber Security Essentials</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TP RP Gen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Cyber Security</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 day</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://stms.polite.edu.sg/student/ihlcourse/detail/873c2b59-00cf-48c9-bc68-5987506f7bd0" rel="noopener noreferrer nofollow" target="_blank">Data Analytics with Power BI</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TP RP Gen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AI &amp; Analytics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 days</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/skillsfuture-series/data-science-essentials.html" rel="noopener noreferrer nofollow" target="_blank">Data Science Essentials</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TP RP Gen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>AI &amp; Analytics</p>
@@ -376,21 +211,6 @@ third_nav_title: Courses
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/skillsfuture-series/ec-council-certified-ethical-hacker.html" rel="noopener noreferrer nofollow" target="_blank">EC-Council Certified Ethical Hacker (Synchronous E-Learning)</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TP RP Gen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Cyber Security</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5 days</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="https://www.ntuclearninghub.com/en-gb/-/course/fundamentals-of-python-programming-sf" rel="noopener noreferrer nofollow" target="_blank">Fundamentals of Python Programming (Synchronous E-Learning)</a>
 </p>
 </td>
@@ -406,71 +226,11 @@ third_nav_title: Courses
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/skillsfuture-series/fundamentals-of-cyber-security.html" rel="noopener noreferrer nofollow" target="_blank">Fundamentals of Cyber Security</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TP RP Gen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Cyber Security</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3 days</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://stms.polite.edu.sg/student/ihlcourse/detail/49cd32f7-e0c6-4f15-a65e-0b0494436cbe" rel="noopener noreferrer nofollow" target="_blank">Fundamentals of Data Wrangling, Analysis and Visualisation</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TP RP Gen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AI &amp; Analytics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://stms.polite.edu.sg/student/ihlcourse/detail/7f3933ab-b81c-4679-bb62-0dcaf3553a36" rel="noopener noreferrer nofollow" target="_blank">Fundamentals of Operational Technology (OT) Cybersecurity</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TP RP Gen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Cyber Security</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3 days</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="https://www.cet.np.edu.sg/courses/generative-ai-driven-storytelling-mastering-content-creation-tools/" rel="noopener noreferrer nofollow" target="_blank">Generative AI Driven Storytelling- Mastering Content Creation Tools</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NP</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Gen AI</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 days</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/skillsfuture-series/generative-ai-prompt-engineering-for-skills-and-productivity-enhancement.html" rel="noopener noreferrer nofollow" target="_blank">Generative AI Prompt Engineering for Skills &amp; Productivity Enhancement</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TP RP Gen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Gen AI</p>
@@ -511,21 +271,6 @@ third_nav_title: Courses
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2023038868" rel="noopener noreferrer nofollow" target="_blank">Generative Artificial Intelligence (AI) in Finance</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SUSS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 days</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="https://www.ntuclearninghub.com/en-gb/-/course/introduction-to-cloud-computing-powered-by-aws" rel="noopener noreferrer nofollow" target="_blank">Introduction to Cloud Computing &nbsp;(Powered by AWS)</a>
 </p>
 </td>
@@ -534,21 +279,6 @@ third_nav_title: Courses
 </td>
 <td rowspan="1" colspan="1">
 <p>Cloud &amp; Mobility&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 day</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2023022148" rel="noopener noreferrer nofollow" target="_blank">Introduction to Cybersecurity</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SUSS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 day</p>
@@ -571,21 +301,6 @@ third_nav_title: Courses
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://stms.polite.edu.sg/student/ihlcourse/detail/80572fab-5ec7-45bd-9d24-9c6b140d9165" rel="noopener noreferrer nofollow" target="_blank">Introduction to Operational Technology (OT) Cybersecurity</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TP RP Gen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Cyber Security</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="https://stms.polite.edu.sg/student/ihlcourse/detail/5740bd25-4287-4403-bfe4-0e3dc5cd5dfb" rel="noopener noreferrer nofollow" target="_blank">Introductory Programming using Python</a>
 </p>
 </td>
@@ -601,21 +316,6 @@ third_nav_title: Courses
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://stms.polite.edu.sg/student/ihlcourse/detail/973c73a3-99d1-4472-b164-0f16b5f775bc" rel="noopener noreferrer nofollow" target="_blank">Mastering Prompt Engineering for Generative Artificial Intelligence (AI)</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TP RP Gen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Gen AI</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 day</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="https://www.ntuclearninghub.com/en-gb/-/course/microsoft-azure-ai-fundamentals-sf" rel="noopener noreferrer nofollow" target="_blank">Microsoft Azure AI Fundamentals (SF)</a>
 </p>
 </td>
@@ -627,21 +327,6 @@ third_nav_title: Courses
 </td>
 <td rowspan="1" colspan="1">
 <p>1 day</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://stms.polite.edu.sg/student/ihlcourse/detail/a5ed7d11-558d-4b47-ab4f-4d6ba656bfe2" rel="noopener noreferrer nofollow" target="_blank">Mining Data for Insights @ Work</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TP RP Gen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AI &amp; Analytics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -721,36 +406,6 @@ third_nav_title: Courses
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/skillsfuture-series/robotic-process-automation-for-beginners.html" rel="noopener noreferrer nofollow" target="_blank">Robotic Process Automation for Beginners</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TP RP Gen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Project Management</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 days</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/skillsfuture-series/sustainable-cloud-solutions-and-best-practices.html" rel="noopener noreferrer nofollow" target="_blank">Sustainable Cloud Solutions and Best Practices</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TP RP Gen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Cloud &amp; Mobility</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 days</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2024042289" rel="noopener noreferrer nofollow" target="_blank">Technology Risk in Artificial Intelligence</a>
 </p>
 </td>
@@ -762,21 +417,6 @@ third_nav_title: Courses
 </td>
 <td rowspan="1" colspan="1">
 <p>2 days</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2023020764" rel="noopener noreferrer nofollow" target="_blank">Visualisation for Decision Making</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SUSS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AI &amp; Analytics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 day</p>
 </td>
 </tr>
 </tbody>
