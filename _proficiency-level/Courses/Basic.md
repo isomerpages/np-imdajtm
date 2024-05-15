@@ -53,10 +53,25 @@ third_nav_title: Courses
 <p>NTUC LHub</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;AI &amp; Analytics&nbsp;</p>
+<p>AI &amp; Analytics&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 days</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.ntuclearninghub.com/en-gb/-/course/ai-tools-for-creative-professionals" rel="noopener noreferrer nofollow" target="_blank">AI TOOLS FOR CREATIVE PROFESSIONALS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NTUC LHub</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AI &amp; Analytics&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 days</p>
 </td>
 </tr>
 <tr>
@@ -571,21 +586,6 @@ third_nav_title: Courses
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.ntuclearninghub.com/en-gb/-/course/javascript-framework-with-reactjs-sf" rel="noopener noreferrer nofollow" target="_blank">Javascript Framework with ReactJS (SF)</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NTUC LHub</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Software Engineering</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5 days</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="https://stms.polite.edu.sg/student/ihlcourse/detail/973c73a3-99d1-4472-b164-0f16b5f775bc" rel="noopener noreferrer nofollow" target="_blank">Mastering Prompt Engineering for Generative Artificial Intelligence (AI)</a>
 </p>
 </td>
@@ -639,21 +639,6 @@ third_nav_title: Courses
 </td>
 <td rowspan="1" colspan="1">
 <p>AI &amp; Analytics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5 days</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.ntuclearninghub.com/en-gb/-/course/programming-in-html5-javascript-and-css3-sf" rel="noopener noreferrer nofollow" target="_blank">Programming in HTML5, Javascript and CSS3 (SF)</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NTUC LHub</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Software Engineering</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>5 days</p>
