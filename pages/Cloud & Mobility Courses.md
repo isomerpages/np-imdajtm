@@ -4,7 +4,13 @@ permalink: /cloud-mobility-courses/
 variant: tiptap
 description: ""
 ---
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -22,11 +28,11 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2023022149" rel="noopener noreferrer nofollow" target="_blank">Cloud Computing for all</a>
+<p><a href="https://www.ntuclearninghub.com/en-gb/-/course/introduction-to-cloud-computing-powered-by-aws" rel="noopener noreferrer nofollow" target="_blank">Introduction to Cloud Computing (Powered by AWS)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SUSS</p>
+<p>NTUC LHub</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 day</p>
@@ -37,107 +43,17 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2023020773" rel="noopener noreferrer nofollow" target="_blank">Cloud Computing for   Managers 1</a>
+<p><a href="https://www.ntuclearninghub.com/en-gb/-/course/aws-cloud-practitioner-essentials-sf?utm_term=aws%20cloud%20practitioner%20essentials&amp;utm_campaign=Core-ICT_ITT_AWS-Cloud-Practitioner-Essentials_Jul2023_IT19A27_PhraseMatch_Tier1&amp;utm_source=adwords&amp;utm_medium=ppc&amp;hsa_acc=4133532023&amp;hsa_cam=20363733550&amp;hsa_grp=150727427946&amp;hsa_ad=665322502720&amp;hsa_src=g&amp;hsa_tgt=kwd-560711175279&amp;hsa_kw=aws%20cloud%20practitioner%20essentials&amp;hsa_mt=p&amp;hsa_net=adwords&amp;hsa_ver=3&amp;gad_source=1&amp;gclid=CjwKCAjwupGyBhBBEiwA0UcqaOK1cOYi3Q0mDJ1agO1trxFSFNL-NzVMp7GPENhRHp2vafLI0_2UshoCBFoQAvD_BwE" rel="noopener noreferrer nofollow" target="_blank">AWS Cloud Practitioner Essentials</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SUSS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 day</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Basic</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/skillsfuture-series/sustainable-cloud-solutions-and-best-practices.html" rel="noopener noreferrer nofollow" target="_blank">Sustainable Cloud   Solutions and Best Practices</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TP RP Gen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 days</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Basic</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2023037139" rel="noopener noreferrer nofollow" target="_blank">Big Data Computing in the   Cloud</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SUSS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>12 days</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Intermediate</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2023037134" rel="noopener noreferrer nofollow" target="_blank">Cloud Computing: Business   Case and Technical Models</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SUSS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>12 days</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Intermediate</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2023037104" rel="noopener noreferrer nofollow" target="_blank">Cloud Computing for   Managers 2</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SUSS</p>
+<p>NTUC LHub</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 day</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Intermediate</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://stms.polite.edu.sg/student/ihlcourse/detail/90e3151e-0761-4d1d-a9cb-b33448dac579" rel="noopener noreferrer nofollow" target="_blank">Cisco Network   Administration</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TP RP Gen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Advanced</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://stms.polite.edu.sg/student/ihlcourse/detail/73640b64-e8c5-4aa8-bbf0-df3eb4806db3" rel="noopener noreferrer nofollow" target="_blank">Specialist Diploma in   Cloud Architecting &amp; Management</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TP RP Gen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 year (Part-time)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Advanced</p>
 </td>
 </tr>
 </tbody>
