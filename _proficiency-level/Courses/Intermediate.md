@@ -32,7 +32,7 @@ third_nav_title: Courses
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2024041440" rel="noopener noreferrer nofollow" target="_blank">AI tools &amp; techniques for cybersecurity</a>
+<p><a href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2024041440" rel="noopener noreferrer nofollow" target="_blank">AI tools &amp; techniques for Cybersecurity</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -47,7 +47,7 @@ third_nav_title: Courses
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.ntuclearninghub.com/en-gb/-/course/analyse-business-data-and-create-interactive-dashboards-using-python-sf" rel="noopener noreferrer nofollow" target="_blank">Analyse Business Data and Create Interactive Dashboards using Pythons (SF)</a>
+<p><a href="https://www.ntuclearninghub.com/en-gb/-/course/analyse-business-data-and-create-interactive-dashboards-using-python-sf" rel="noopener noreferrer nofollow" target="_blank">Analyse Business Data and Create Interactive Dashboards using Pythons</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -77,7 +77,7 @@ third_nav_title: Courses
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.ntuclearninghub.com/en-gb/-/course/aws-cloud-practitioner-essentials-sf" rel="noopener noreferrer nofollow" target="_blank">AWS CLOUD PRACTITIONER ESSENTIALS</a>
+<p><a href="https://www.ntuclearninghub.com/en-gb/-/course/aws-cloud-practitioner-essentials-sf" rel="noopener noreferrer nofollow" target="_blank">AWS Cloud Practitioner Essentials</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -192,7 +192,7 @@ third_nav_title: Courses
 <p>AI &amp; Analytics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 year (Part-time)</p>
+<p>1 year</p>
 </td>
 </tr>
 </tbody>
