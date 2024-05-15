@@ -78,14 +78,34 @@ identify their training and reskilling needs.</p>
 <td rowspan="1" colspan="1">
 <p><em>An initiative of:</em>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/imda_WSG_H_logo.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/IMDA_TeSA.png">
 </div>
 <p><em>Supported by:</em>
 </p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/SSG_logo.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SkillsfutureSG.jpg">
 </div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WSG_Horizontal_Identity_RGB.png">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 </td>
 </tr>
 </tbody>
