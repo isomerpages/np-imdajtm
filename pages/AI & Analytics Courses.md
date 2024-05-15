@@ -128,7 +128,7 @@ description: ""
 <p>1 day</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>B</p>
+<p>Basic</p>
 </td>
 </tr>
 <tr>
