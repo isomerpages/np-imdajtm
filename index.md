@@ -23,9 +23,9 @@ sections:
       title: Enabling an AI-ready Workforce
   - infobar:
       button: Click here
-      url: /top-10-courses/
+      url: /top-ai-courses/
       title: Top AI Courses
-      subtitle: "Featuring our "
+      subtitle: Featuring our
   - textcards:
       title: Curated Courses
       id: textcards
