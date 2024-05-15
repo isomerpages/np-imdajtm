@@ -106,7 +106,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.suss.edu.sg/courses/detail/ict302" rel="noopener noreferrer nofollow" target="_blank">Generative AI: Theory and Practice</a>
+<p><a href="https://www.suss.edu.sg/courses/detail/anl303" rel="noopener noreferrer nofollow" target="_blank">Fundamentals of Data Mining</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
