@@ -18,8 +18,8 @@ knowledge to adapt to evolving job requirements and thrive in the future
 of work.</p>
 <p>To help existing tech professionals stay up to date with the latest technology
 and changes in their job roles, IMDA is working with five Training Partners
-to scale reskilling and upskilling efforts in AI and Analytics with an
-emphasis on Generative AI and two other in-demand areas – Software Engineering
+to scale up reskilling and upskilling efforts in AI and Analytics with
+an emphasis on Generative AI and two other in-demand areas – Software Engineering
 and Cloud and Mobility.</p>
 <h2>Jobs Transformation Map Training Partners</h2>
 <p>The Training Partners are:</p>
