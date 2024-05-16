@@ -4,5 +4,4 @@ collections:
     order:
       - Basic.md
       - Courses/.keep
-      - Courses/Intermediate.md
       - Courses/Advanced.md
