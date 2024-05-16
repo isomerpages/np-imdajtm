@@ -27,7 +27,7 @@ sections:
       title: Top AI Courses
       subtitle: Featuring our
   - textcards:
-      title: Curated Courses
+      title: Featured Courses
       id: textcards
       description: Explore our curated courses under the different specialisations
       cards:
