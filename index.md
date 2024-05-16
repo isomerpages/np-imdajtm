@@ -29,7 +29,7 @@ sections:
   - textcards:
       title: Featured Courses
       id: textcards
-      description: Explore our curated courses under the different specialisations
+      description: Explore our recommended courses in  different specialisations
       cards:
         - title: AI & ANALYTICS
           description: ""
