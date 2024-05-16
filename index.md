@@ -11,7 +11,7 @@ sections:
       url: /contact-us/
       variant: center
       key_highlights:
-        - title: Curated Courses
+        - title: Featured Courses
           description: By Proficiency
           url: /basic/
         - title: Events
