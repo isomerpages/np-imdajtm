@@ -2,7 +2,7 @@ collections:
   proficiency-level:
     output: true
     order:
-      - Advanced.md
-      - Intermediate.md
       - Basic.md
+      - Intermediate.md
+      - Advanced.md
       - Courses/.keep
