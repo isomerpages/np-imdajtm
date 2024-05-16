@@ -1,5 +1,5 @@
 collections:
-  proficiency-level:
+  featured-courses:
     output: true
     order:
       - Basic.md
