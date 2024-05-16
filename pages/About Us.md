@@ -38,7 +38,7 @@ and Cloud and Mobility.</p>
 and</p>
 </li>
 <li>
-<p><a href="https://www.tp.edu.sg/ai-empowerment-hub" rel="noopener noreferrer nofollow" target="_blank">Temasek Polytechnic -Republic Polytechnic - Generation Singapore</a>(TP-RP-Gen).</p>
+<p><a href="https://www.tp.edu.sg/ai-empowerment-hub" rel="noopener noreferrer nofollow" target="_blank">Temasek Polytechnic -Republic Polytechnic - Generation Singapore </a>(TP-RP-Gen).</p>
 </li>
 </ul>
 <table style="minWidth: 25px">
