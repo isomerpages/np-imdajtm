@@ -2,7 +2,7 @@ collections:
   featured-courses:
     output: true
     order:
-      - Top AI Courses.md
       - Basic.md
       - Intermediate.md
       - Advanced.md
+      - Top AI Courses.md
