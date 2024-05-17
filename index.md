@@ -23,7 +23,7 @@ sections:
       title: Enabling an AI-ready Workforce
   - infobar:
       button: Click here
-      url: /proficiency-level/top-ai-courses/
+      url: /top-ai-courses/
       title: Top AI Courses
       subtitle: Featuring our
   - textcards:
