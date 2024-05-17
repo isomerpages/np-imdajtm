@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: Featured Courses
           description: By Proficiency
-          url: /basic/
+          url: /proficiency-level/
         - title: Events
           description: Past and Upcoming
           url: /resources/events
@@ -23,7 +23,7 @@ sections:
       title: Enabling an AI-ready Workforce
   - infobar:
       button: Click here
-      url: /top-ai-courses/
+      url: /proficiency-level/top-ai-courses/
       title: Top AI Courses
       subtitle: Featuring our
   - textcards:
