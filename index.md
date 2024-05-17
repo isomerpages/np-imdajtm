@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: Featured Courses
           description: By Proficiency
-          url: /proficiency-level/
+          url: /proficiency-level/top-ai-courses/
         - title: Events
           description: Past and Upcoming
           url: /resources/events
