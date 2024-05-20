@@ -30,12 +30,14 @@ of the digital service.</p>
 <p>a) Where appropriate, we may share necessary data with other Government
 agencies, so as to improve the discharge of public functions, and to serve
 you in the most efficient and effective way unless such sharing is prohibited
-by law.</p>
-<p>b) We may share your personal data with non-Government entities that have
+by law.
+<br>
+<br>b) We may share your personal data with non-Government entities that have
 been authorised to carry out specific Government services. We will NOT
 share your personal data with other non-Government entities without your
-consent except where such sharing complies with the law.</p>
-<p>c) For your convenience, we may also display to you data you had previously
+consent except where such sharing complies with the law.
+<br>
+<br>c) For your convenience, we may also display to you data you had previously
 supplied us or other Government agencies. This will speed up the transaction
 and save you the trouble of repeating previous submissions. Should the
 data be out-of-date, please supply us the latest data. *</p>
@@ -59,8 +61,8 @@ services.</p>
 <ol start="7">
 <li>
 <p>Please contact Ngee Ann Polytechnic at 6466 6555 or email&nbsp;<a href="mailto:askNP@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">askNP@np.edu.sg</a>&nbsp;if
-you:</p>
-<p>a) have any enquiries or feedback on our data protection policies and
+you:
+<br>a) have any enquiries or feedback on our data protection policies and
 procedures, or</p>
 <p>b) need more information on or access to the data which you have provided
 directly to us in the past.</p>
