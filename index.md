@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/internet_web_3_0_in_singapore_landscape__1_.jpg
+      background: /images/JTM__1_.png
       url: /contact-us/
       variant: center
       key_highlights:
