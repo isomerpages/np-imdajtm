@@ -9,13 +9,14 @@ description: ""
 <p>To prepare the Information and Communications (I&amp;C) workforce for
 increasing digitalisation in our economy and emerging tech trends that
 will transform jobs, the <a href="https://www.imda.gov.sg/business" rel="noopener noreferrer nofollow" target="_blank">Infocomm Media Development Authority</a> (IMDA)
-in partnership with <a href="https://www.wsg.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Workforce Singapore</a>, launched the
-<a href="https://www.imda.gov.sg/how-we-can-help/techskills-accelerator-tesa/jobs-transformation-map" rel="noopener noreferrer nofollow" target="_blank">Jobs Transformation Map</a>(JTM) for the I&amp;C workforce in October
-2022. The JTM guides employers and tech professionals in navigating these
-changes through job redesign and reskilling, to take advantage of the opportunities
-presented by AI and automation. The JTM equips them with the skills and
-knowledge to adapt to evolving job requirements and thrive in the future
-of work.</p>
+supported by <a href="https://www.wsg.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Workforce Singapore</a> (WSG)
+and <a href="https://www.skillsfuture.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">SkillsFuture Singapore</a> (SSG),
+launched the <a href="https://www.imda.gov.sg/how-we-can-help/techskills-accelerator-tesa/jobs-transformation-map" rel="noopener noreferrer nofollow" target="_blank">Jobs Transformation Map</a>(JTM)
+for the I&amp;C workforce in October 2022. The JTM guides employers and
+tech professionals in navigating these changes through job redesign and
+reskilling, to take advantage of the opportunities presented by AI and
+automation. The JTM equips them with the skills and knowledge to adapt
+to evolving job requirements and thrive in the future of work.</p>
 <p>To help existing tech professionals stay up to date with the latest technology
 and changes in their job roles, IMDA is working with five Training Partners
 to scale up reskilling and upskilling efforts in AI and Analytics with
