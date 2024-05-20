@@ -11,6 +11,8 @@ links:
   - title: Events
     url: /resources/events
   - title: Resources
+    url: /resources/news
+  - title: Resources
     resource_room: true
   - title: Contact Us
     url: /contact-us/
