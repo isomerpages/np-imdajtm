@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/landscape_banner.jpg
       url: /contact-us/
-      variant: side
+      variant: center
       key_highlights:
         - title: Featured Courses
           description: By Proficiency
