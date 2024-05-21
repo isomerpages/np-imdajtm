@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/landscape_banner.jpg
+      background: /images/JTM_4.png
       url: /contact-us/
       variant: center
       key_highlights:
@@ -21,7 +21,6 @@ sections:
           description: for Employers
           url: /career-conversion-programme/
       title: Enabling an AI-ready Workforce
-      subtitle: An initiative of Infocomm Media Development Authority
   - infobar:
       button: Click here
       url: /top-ai-courses/
