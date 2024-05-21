@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/landscape_banner.jpg
+      background: /images/JTM__2_.png
       url: /contact-us/
       variant: center
       key_highlights:
@@ -21,8 +21,6 @@ sections:
           description: for Employers
           url: /career-conversion-programme/
       title: Enabling an AI-ready Workforce
-      subtitle: An initiative brought to you by IMDA TeSA, Skillsfuture
-        Singapore  (SSG) and Workforce Singapore(WSG)
   - infobar:
       button: Click here
       url: /top-ai-courses/
