@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/landscape_banner.jpg
       url: /contact-us/
-      variant: center
+      variant: floating
       key_highlights:
         - title: Featured Courses
           description: By Proficiency
@@ -21,7 +21,7 @@ sections:
           description: for Employers
           url: /career-conversion-programme/
       title: Enabling an AI-ready Workforce
-      subtitle: "An initiative of Infocomm Media Development Authority "
+      subtitle: An initiative of Infocomm Media Development Authority
   - infobar:
       button: Click here
       url: /top-ai-courses/
