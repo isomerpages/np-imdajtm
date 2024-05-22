@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/jtm3.png
+      background: /images/newbanner.png
       url: /contact-us/
       variant: center
       key_highlights:
