@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/AI_banner.png
+      background: /images/newbanner__4_.png
       url: /contact-us/
       variant: image
       key_highlights:
