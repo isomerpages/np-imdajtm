@@ -7,9 +7,9 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/JTM_6.png
+      background: /images/AIbanner.png
       url: /contact-us/
-      variant: center
+      variant: image
       key_highlights:
         - title: Featured Courses
           description: By Proficiency
@@ -20,7 +20,6 @@ sections:
         - title: Career Conversion Programme
           description: for Employers
           url: /career-conversion-programme/
-      title: Enabling an AI-ready Workforce
   - infobar:
       button: Click here
       url: /top-ai-courses/
