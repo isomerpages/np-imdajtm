@@ -80,9 +80,6 @@ identify their training and reskilling needs.</p>
 <td rowspan="1" colspan="1">
 <p><em>An initiative of:</em>
 </p>
-<p></p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMDA_TeSA_logo_colour.jpg">
 </div>
