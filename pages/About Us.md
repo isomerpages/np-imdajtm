@@ -35,7 +35,7 @@ and Cloud and Mobility.</p>
 <p><a href="https://www.ntuclearninghub.com/" rel="noopener noreferrer nofollow" target="_blank">NTUC LearningHub</a> (LHub),</p>
 </li>
 <li>
-<p><a href="https://www.suss.edu.sg/courses" rel="noopener noreferrer nofollow" target="_blank">Singapore University of Social Sciences</a> (SUSS)
+<p><a href="https://www.suss.edu.sg/courses/types/certificate/certificate-in-information-and-communication-technology" rel="noopener noreferrer nofollow" target="_blank">Singapore University of Social Sciences</a> (SUSS)
 and</p>
 </li>
 <li>
