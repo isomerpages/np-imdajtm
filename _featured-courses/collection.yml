@@ -1,0 +1,8 @@
+collections:
+  featured-courses:
+    output: true
+    order:
+      - Basic.md
+      - Intermediate.md
+      - Advanced.md
+      - Top AI Courses.md

@@ -1,15 +1,16 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/JTM_logo_new_font.jpg
 links:
+  - title: About Us
+    url: /about-us/
+  - title: Featured Courses
+    collection: featured-courses
+  - title: Training Partners
+    url: /training-partners/
+  - title: Career Conversion Programme
+    url: /career-conversion-programme/
+  - title: Events
+    url: /resources/events
+  - title: Related News
+    url: /resources/related-news
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder

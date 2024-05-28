@@ -1,32 +1,49 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Jobs Transformation Map
+description: An Isomer site of the Singapore Government
+image: /images/JTM_logo_edited.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      background: /images/AI_Banner__15_.png
+      url: /contact-us/
+      variant: image
+      key_highlights:
+        - title: Featured Courses
+          description: By Proficiency
+          url: /basic/
+        - title: Events
+          description: Past and Upcoming
+          url: /resources/events
+        - title: Career Conversion Programme
+          description: for Employers
+          url: /career-conversion-programme/
+  - infobar:
+      button: Click here
+      url: /top-ai-courses/
+      title: Top AI Courses
+      subtitle: Featuring our
+  - textcards:
+      title: Featured Courses
+      id: textcards
+      description: Explore our recommended courses in  different specialisations
+      cards:
+        - title: AI & ANALYTICS
+          description: ""
+          linktext: Learn more
+          url: /analytics-courses/
+        - title: CLOUD & MOBILITY
+          description: ""
+          linktext: Learn more
+          url: /cloud-mobility-courses/
+        - title: GENERATIVE ARTIFICAL INTELLIGENCE
+          description: ""
+          linktext: Learn more
+          url: /genai-courses/
+        - title: SOFTWARE ENGINEERING
+          description: ""
+          linktext: Learn more
+          url: /software-engineering-courses/
 ---
-
