@@ -67,7 +67,7 @@ to reskill their existing employees.</p>
 <p>Through the <a href="https://www.imda.gov.sg/how-we-can-help/techskills-accelerator-tesa" rel="noopener noreferrer nofollow" target="_blank">TechSkills Accelerator (TeSA)</a>,
 a national initiative that aims to equip individuals with the necessary
 digital skills and stay competitive, the Training Partners will assist
-the companies with course fee funding provided by Skillsfuture Singapore
+the companies with course fee funding provided by SkillsFuture Singapore
 through <a href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-landing.html" rel="noopener noreferrer nofollow" target="_blank">My SkillsFuture Training Exchange </a>and
 work with programme partners of WSG’s <a href="https://www.wsg.gov.sg/home/employers-industry-partners" rel="noopener noreferrer nofollow" target="_blank">Career Conversion Programmes</a> to
 identify their training and reskilling needs.</p>
