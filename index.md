@@ -2,7 +2,7 @@
 layout: homepage
 title: Jobs Transformation Map
 description: An Isomer site of the Singapore Government
-image: /images/JTM_logo_edited.png
+image: /images/jtm_blue_logo.png
 permalink: /
 notification: ""
 sections:
