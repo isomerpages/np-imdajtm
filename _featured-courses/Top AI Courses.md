@@ -106,7 +106,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.suss.edu.sg/courses/detail/anl303" rel="noopener noreferrer nofollow" target="_blank">Fundamentals of Data Mining</a>
+<p><a href="https://www.suss.edu.sg/courses/detail/eng335" rel="noopener noreferrer nofollow" target="_blank">Machine Learning</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
