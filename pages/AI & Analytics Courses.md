@@ -313,14 +313,14 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2023037338" rel="noopener noreferrer nofollow" target="_blank">Fundamentals of Data Mining</a>
+<p><a href="https://www.suss.edu.sg/courses/detail/eng335" rel="noopener noreferrer nofollow" target="_blank">Machine Learning</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SUSS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6 days</p>
+<p>6 months</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Intermediate</p>
