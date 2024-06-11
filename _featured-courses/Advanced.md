@@ -121,7 +121,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="" rel="noopener noreferrer nofollow" target="_blank">Data School</a>
+<p><a href="https://www.cet.np.edu.sg/courses/data-school/" rel="noopener noreferrer nofollow" target="_blank">Data School</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">

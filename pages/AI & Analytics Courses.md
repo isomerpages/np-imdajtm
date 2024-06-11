@@ -313,21 +313,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2023037338" rel="noopener noreferrer nofollow" target="_blank">Fundamentals of Data Mining</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SUSS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6 days</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Intermediate</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="https://www.suss.edu.sg/courses/detail/ict302" rel="noopener noreferrer nofollow" target="_blank">Generative AI: Theory and Practice</a>
 </p>
 </td>
@@ -478,7 +463,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="" rel="noopener noreferrer nofollow" target="_blank">Data School</a>
+<p><a href="https://www.cet.np.edu.sg/courses/data-school/" rel="noopener noreferrer nofollow" target="_blank">Data School</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
