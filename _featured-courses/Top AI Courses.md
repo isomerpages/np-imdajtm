@@ -151,7 +151,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/online-learning/nanodegree-programme/data-analyst.html" rel="noopener noreferrer nofollow" target="_blank">Data Analyst (NanoDegree) </a>
+<p><a href="https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/online-learning/nanodegree-programme/data-analyst.html" rel="noopener noreferrer nofollow" target="_blank">Data Analyst (NanoDegree)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
