@@ -522,8 +522,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Introduction to Machine Learning with TensorFlow (website to be updated
-soon)</p>
+<p><a href="https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/online-learning/nanodegree-programme/introduction-to-machine-learning-with-tensorflow.html" rel="noopener noreferrer nofollow" target="_blank">Introduction to Machine Learning with TensorFlow</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>TP RP Gen</p>
