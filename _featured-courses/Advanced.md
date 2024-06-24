@@ -46,7 +46,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/online-learning/nanodegree-programme/ai-programming-with-python.html" rel="noopener noreferrer nofollow" target="_blank">AI Programming with Python</a>
+<p><a href="https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/online-learning/nanodegree-programme/ai-programming-with-python.html" rel="noopener noreferrer nofollow" target="_blank">AI Programming with Python (NanoDegree)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -106,7 +106,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/online-learning/nanodegree-programme/data-analyst.html" rel="noopener noreferrer nofollow" target="_blank">Data Analyst</a>
+<p><a href="https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/online-learning/nanodegree-programme/data-analyst.html" rel="noopener noreferrer nofollow" target="_blank">Data Analyst (NanoDegree)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -196,7 +196,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/online-learning/nanodegree-programme/generative-ai.html" rel="noopener noreferrer nofollow" target="_blank">Generative AI for Software Developers</a>
+<p><a href="https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/online-learning/nanodegree-programme/generative-ai.html" rel="noopener noreferrer nofollow" target="_blank">Generative AI for Software Developers (NanoDegree)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -211,7 +211,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/online-learning/nanodegree-programme/introduction-to-machine-learning-with-tensorflow.html" rel="noopener noreferrer nofollow" target="_blank">Introduction to Machine Learning with TensorFlow</a>
+<p><a href="https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/online-learning/nanodegree-programme/introduction-to-machine-learning-with-tensorflow.html" rel="noopener noreferrer nofollow" target="_blank">Introduction to Machine Learning with TensorFlow (NanoDegree)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
