@@ -43,6 +43,21 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/skillsfuture-series/generative-ai-prompt-engineering-for-skills-and-productivity-enhancement.html" rel="noopener noreferrer nofollow" target="_blank">Generative AI Prompt Engineering for Skills &amp; Productivity Enhancement</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TP RP Gen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 days</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Basic</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://www.cet.np.edu.sg/courses/generative-artificial-intelligence-ai-for-productivity-classroom-asynchronous/" rel="noopener noreferrer nofollow" target="_blank">Generative Artificial Intelligence (AI) for Productivity</a>
 </p>
 </td>
