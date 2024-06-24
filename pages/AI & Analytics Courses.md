@@ -388,7 +388,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/online-learning/nanodegree-programme/ai-programming-with-python.html" rel="noopener noreferrer nofollow" target="_blank">AI Programming with Python</a>
+<p><a href="https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/online-learning/nanodegree-programme/ai-programming-with-python.html" rel="noopener noreferrer nofollow" target="_blank">AI Programming with Python (NanoDegree)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -448,7 +448,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/online-learning/nanodegree-programme/data-analyst.html" rel="noopener noreferrer nofollow" target="_blank">Data Analyst</a>
+<p><a href="https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/online-learning/nanodegree-programme/data-analyst.html" rel="noopener noreferrer nofollow" target="_blank">Data Analyst (Nanodegree)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -508,22 +508,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Generative AI for Software Developers (pending SSG's approval)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TP RP Gen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4 months</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Advanced</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Introduction to Machine Learning with TensorFlow (website to be updated
-soon)</p>
+<p><a href="https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/online-learning/nanodegree-programme/introduction-to-machine-learning-with-tensorflow.html" rel="noopener noreferrer nofollow" target="_blank">Introduction to Machine Learning with TensorFlow (NanoDegree)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>TP RP Gen</p>
