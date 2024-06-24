@@ -58,7 +58,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/skillsfuture-series/generative-ai-prompt-engineering-for-skills-and-productivity-enhancement.html" rel="noopener noreferrer nofollow" target="_blank">Generative AI Prompt Engineering for Skills &amp; Productivity Enhancement</a>
+<p><a href="https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/skillsfuture-series/generative-ai-prompt-engineering-for-skills-and-productivity-enhancement.html" rel="noopener noreferrer nofollow" target="_blank">Generative AI Prompt Engineering for Skills &amp; Productivity Enhancement </a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
