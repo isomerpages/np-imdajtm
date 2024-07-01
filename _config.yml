@@ -1,6 +1,6 @@
 title: Jobs Transformation Map
 url: https://www.np.edu.sg
-favicon: /images/tesa_jtm_blue_logo.jpg
+favicon: /images/jtm_blue_logo_copy.jpg
 colors:
   primary-color: "#6031b6"
   secondary-color: "#4372d6"
@@ -52,7 +52,7 @@ plugins:
 staging: https://staging-lite.d1uc4ikzcve019.amplifyapp.com
 prod: https://master.d35silbw6idiuw.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/tesa_jtm_blue_logo.jpg
+shareicon: /images/jtm_blue_logo_copy.jpg
 is_government: false
 google_analytics_ga4: ""
 linkedin-insights: ""
