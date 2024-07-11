@@ -35,7 +35,7 @@ description: ""
 <p>NTUC LHub</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AI &amp; Analytics</p>
+<p>2 days</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Advanced</p>
@@ -80,7 +80,7 @@ description: ""
 <p>NTUC LHub</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AI &amp; Analytics</p>
+<p>2 days</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Intermediate</p>
@@ -95,7 +95,7 @@ description: ""
 <p>NUS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AI &amp; Analytics</p>
+<p>1 day</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Basic</p>
@@ -110,7 +110,7 @@ description: ""
 <p>NUS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AI &amp; Analytics</p>
+<p>2 days</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Advanced</p>
@@ -125,7 +125,7 @@ description: ""
 <p>NTUC LHub</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Software Engineering</p>
+<p>2 days</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Advanced</p>
@@ -200,7 +200,7 @@ description: ""
 <p>SUSS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AI &amp; Analytics</p>
+<p>6 days</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Advanced</p>
@@ -230,7 +230,7 @@ description: ""
 <p>NTUC LHub</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AI &amp; Analytics</p>
+<p>1 day</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Basic</p>
@@ -245,7 +245,7 @@ description: ""
 <p>NTUC LHub</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AI &amp; Analytics</p>
+<p>3 days</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Basic</p>
