@@ -268,6 +268,5 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p><em>The list of courses is not exhaustive. For detailed course listing, please visit the respective </em>
-<a href="https://imda-jtm.np.edu.sg/training-partners/" rel="noopener noreferrer nofollow" target="_blank">training partner's website</a><em>.</em>
+<p><em>The list of courses is not exhaustive. For detailed course listing, please visit the respective <a href="https://imda-jtm.np.edu.sg/training-partners/" rel="noopener noreferrer nofollow" target="_blank">training partner's website</a>.</em>
 </p>
