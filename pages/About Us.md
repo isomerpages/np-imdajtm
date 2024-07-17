@@ -29,7 +29,7 @@ and Cloud and Mobility.</p>
 <p><a href="https://scale.nus.edu.sg/programmes/lifelonglearning/ict-academyNUS" rel="noopener noreferrer nofollow" target="_blank">National University of Singapore</a> (NUS),</p>
 </li>
 <li>
-<p><a href="https://www.cet.np.edu.sg/tech-skills-advancement-office-np-2/" rel="noopener noreferrer nofollow" target="_blank">Ngee Ann Polytechnic </a>(NP),</p>
+<p><a href="https://www.cet.np.edu.sg/tech-skills-advancement-office-np/" rel="noopener noreferrer nofollow" target="_blank">Ngee Ann Polytechnic </a>(NP),</p>
 </li>
 <li>
 <p><a href="https://www.ntuclearninghub.com/" rel="noopener noreferrer nofollow" target="_blank">NTUC LearningHub</a> (LHub),</p>
