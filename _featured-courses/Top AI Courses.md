@@ -71,7 +71,7 @@ description: ""
 <p>NP</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2 days</p>
 </td>
 </tr>
 <tr>
