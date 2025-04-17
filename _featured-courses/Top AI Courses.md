@@ -31,21 +31,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://ace.nus.edu.sg/course/ai-and-machine-learning-begins-with-me/" rel="noopener noreferrer nofollow" target="_blank">AI and Machine Learning Begins with Me</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Basic</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NUS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 days</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="https://www.ntuclearninghub.com/en-gb/-/course/ai-innovation-unleashed-navigating-the-terrain-of-prompt-engineering" rel="noopener noreferrer nofollow" target="_blank">AI Innovation Unleashed: Navigating the Terrain of Prompt Engineering</a>
 </p>
 </td>
@@ -57,6 +42,21 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>2 days</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2024049683" rel="noopener noreferrer nofollow" target="_blank">Empowering Your Workforce with Generative Artificial Intelligence (AI)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Basic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -76,7 +76,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.suss.edu.sg/courses/short-course/detail/introduction-to-generative-artificial-intelligence-(ai)" rel="noopener noreferrer nofollow" target="_blank">Introduction to Generative Artificial Intelligence (AI)</a>
+<p><a href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2024049585" rel="noopener noreferrer nofollow" target="_blank">Integrating Artificial Intelligence (AI) and Robotic Process Automation (RPA) in Work Tasks</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -86,7 +86,7 @@ description: ""
 <p>SUSS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 days</p>
+<p>1 day</p>
 </td>
 </tr>
 <tr>
@@ -106,22 +106,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.suss.edu.sg/courses/detail/eng335" rel="noopener noreferrer nofollow" target="_blank">Machine Learning</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Intermediate</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SUSS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6 months</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://ace.nus.edu.sg/course/machine-learning-in-python/" rel="noopener noreferrer nofollow" target="_blank">Machine Learning in Python</a>
+<p><a href="https://www.iss.nus.edu.sg/executive-education/course/detail/essential-practices-for-agile-teams-/digital-agility" rel="noopener noreferrer nofollow" target="_blank">Essential Practices for Agile Teams</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -132,6 +117,21 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>3 days</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2023037338" rel="noopener noreferrer nofollow" target="_blank">Fundamentals of Data Mining</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Intermediate</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SUSS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 days</p>
 </td>
 </tr>
 <tr>
