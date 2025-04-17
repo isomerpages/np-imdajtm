@@ -30,21 +30,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://inetapps.nus.edu.sg/SACS/LifeLongLearning/CourseDetails/COM-AIAMLBWM_TGS-2020506039/" rel="noopener noreferrer nofollow" target="_blank">AI and Machine Learning Begins With Me</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NUS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AI &amp; Analytics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 days</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="https://www.ntuclearninghub.com/en-gb/-/course/ai-innovation-unleashed-navigating-the-terrain-of-prompt-engineering" rel="noopener noreferrer nofollow" target="_blank">AI Innovation Unleashed: Navigating the Terrain of Prompt Engineering</a>
 </p>
 </td>
@@ -75,21 +60,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://inetapps.nus.edu.sg/SACS/LifeLongLearning/CourseDetails/FOS-AII4.0_TGS-2020513209/" rel="noopener noreferrer nofollow" target="_blank">Analytics in Industry 4.0</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NUS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AI &amp; Analytics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 days</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="https://stms.polite.edu.sg/student/ihlcourse/detail/c0f46cd1-33da-4e25-af30-f10fbc93763c" rel="noopener noreferrer nofollow" target="_blank">An Introduction to Code-Free Machine Learning</a>
 </p>
 </td>
@@ -105,17 +75,17 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://inetapps.nus.edu.sg/SACS/LifeLongLearning/CourseDetails/COM-AAPM_TGS-2019507053/" rel="noopener noreferrer nofollow" target="_blank">Applied Analytics using Predictive Modelling</a>
+<p><a href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2023037342" rel="noopener noreferrer nofollow" target="_blank">Analytics for Decision-Making</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NUS</p>
+<p>SUSS</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>AI &amp; Analytics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3 days</p>
+<p>6 months</p>
 </td>
 </tr>
 <tr>
@@ -150,7 +120,37 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://ace.nus.edu.sg/course/chatbot-development-begins-with-me/" rel="noopener noreferrer nofollow" target="_blank">Chatbot Development Begins with Me</a>
+<p><a href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2024049582" rel="noopener noreferrer nofollow" target="_blank">ChatBot Customisation</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SUSS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gen AI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 days</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://ace.nus.edu.sg/course/ChatGPT-and-its-Applications" rel="noopener noreferrer nofollow" target="_blank">ChatGPT and its Applications</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NUS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gen AI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 days</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.stat.nus.edu.sg/Data-Analytics-Begins-With-Me" rel="noopener noreferrer nofollow" target="_blank">Data Analytics Begins With Me</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -161,6 +161,20 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>1 day</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Data Visualisation in Tableau</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AI &amp; Analytics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.5 days</p>
 </td>
 </tr>
 <tr>
@@ -180,7 +194,22 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.cet.np.edu.sg/courses/deep-dive-into-python/" rel="noopener noreferrer nofollow" target="_blank">Deep Dive into Python</a>
+<p><a href="https://www.stat.nus.edu.sg/Data-Visualization-Begins-With-Me" rel="noopener noreferrer nofollow" target="_blank">Data Visualization Begins With Me</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NUS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AI &amp; Analytics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 day</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.cet.np.edu.sg/courses/development-security-and-operations-devsecops-foundation-classroom-asynchronous-e-learning/" rel="noopener noreferrer nofollow" target="_blank">Development, Security, and Operations (DevSecOps) Foundation (Classroom &amp; Asynchronous e-learning)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -190,7 +219,22 @@ description: ""
 <p>Software Engineering</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5 days</p>
+<p>3 days</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2024049683" rel="noopener noreferrer nofollow" target="_blank">Empowering Your Workforce with Generative Artificial Intelligence (AI)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gen AI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 days</p>
 </td>
 </tr>
 <tr>
@@ -255,6 +299,21 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2024049585" rel="noopener noreferrer nofollow" target="_blank">Integrating Artificial Intelligence (AI) and Robotic Process Automation (RPA) in Work Tasks</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SUSS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AI &amp; Analytics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 day</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://www.ntuclearninghub.com/en-gb/-/course/introduction-to-cloud-computing-powered-by-aws" rel="noopener noreferrer nofollow" target="_blank">Introduction to Cloud Computing &nbsp;(Powered by AWS)</a>
 </p>
 </td>
@@ -263,21 +322,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Cloud &amp; Mobility&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 day</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2023021538" rel="noopener noreferrer nofollow" target="_blank">Introduction to Generative Artificial Intelligence (AI)</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SUSS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Gen AI</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 day</p>
@@ -311,36 +355,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>5 days</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://inetapps.nus.edu.sg/SACS/LifeLongLearning/CourseDetails/COM-PP_TGS-2022011018/" rel="noopener noreferrer nofollow" target="_blank">Python Programming</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NUS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Software Engineering</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3 days</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://inetapps.nus.edu.sg/SACS/LifeLongLearning/CourseDetails/FOS-QDRB_TGS-2020513884/" rel="noopener noreferrer nofollow" target="_blank">Quantitative Data Reasoning Bootcamp</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NUS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AI &amp; Analytics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 days</p>
 </td>
 </tr>
 <tr>
@@ -386,6 +400,21 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>2 days</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2023020764" rel="noopener noreferrer nofollow" target="_blank">Visualisation for Decision Making</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SUSS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AI &amp; Analytics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 day</p>
 </td>
 </tr>
 </tbody>
