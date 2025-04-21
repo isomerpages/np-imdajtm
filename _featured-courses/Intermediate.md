@@ -31,21 +31,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2024041440" rel="noopener noreferrer nofollow" target="_blank">AI tools &amp; techniques for Cybersecurity</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NP</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AI &amp; Analytics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5.5 days</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="https://www.ntuclearninghub.com/en-gb/-/course/analyse-business-data-and-create-interactive-dashboards-using-python-sf" rel="noopener noreferrer nofollow" target="_blank">Analyse Business Data and Create Interactive Dashboards using Pythons</a>
 </p>
 </td>
@@ -57,21 +42,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>2 days</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.suss.edu.sg/courses/detail/bus375" rel="noopener noreferrer nofollow" target="_blank">Artificial Intelligence for Social Good</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SUSS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AI &amp; Analytics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6 months</p>
 </td>
 </tr>
 <tr>
@@ -91,7 +61,22 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://inetapps.nus.edu.sg/SACS/LifeLongLearning/CourseDetails/COM-DCMAQWS_TGS-2022012358/" rel="noopener noreferrer nofollow" target="_blank">Database Creation, Manipulation, and Querying with SQL</a>
+<p><a href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2023037351" rel="noopener nofollow" target="_blank">Business Forecasting</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SUSS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Software Engineering</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 months</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.iss.nus.edu.sg/executive-education/course/detail/certified-scrum-product---owner/digital-agility" rel="noopener nofollow" target="_blank">Certified Scrum Product Owner</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -102,6 +87,81 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>2 days</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.iss.nus.edu.sg/executive-education/course/detail/certified-scrummaster-/digital-agility" rel="noopener nofollow" target="_blank">Certified ScrumMaster</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NUS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Software Engineering</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 days</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2023037134" rel="noopener nofollow" target="_blank">Cloud Computing: Business Case and Technical Models</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SUSS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cloud &amp; Mobility</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 months</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2023037315" rel="noopener noreferrer nofollow" target="_blank">Database Management Systems</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SUSS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AI &amp; Analytics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 months</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.iss.nus.edu.sg/executive-education/course/detail/devsecops-engineering-and--automation/software-systems" rel="noopener noreferrer nofollow" target="_blank">DevSecOpsEngineering and Automation</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NUS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Software Engineering</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 days</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.iss.nus.edu.sg/executive-education/course/detail/essential-practices-for-agile-teams-/digital-agility" rel="noopener noreferrer nofollow" target="_blank">Essential Practices for Agile Teams</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NUS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cloud &amp; Mobility</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 days</p>
 </td>
 </tr>
 <tr>
@@ -136,17 +196,32 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.suss.edu.sg/courses/detail/eng335" rel="noopener noreferrer nofollow" target="_blank">Machine Learning</a>
+<p><a href="https://ace.nus.edu.sg/course/Generative-Artificial-Intelligence" rel="noopener noreferrer nofollow" target="_blank">Generative Artificial Intelligence</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SUSS</p>
+<p>NUS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AI &amp; Analytics</p>
+<p>Gen AI</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6 months</p>
+<p>2 days</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.iss.nus.edu.sg/executive-education/course/detail/(isc)2-cissp-cbk-training-seminar-(sf)/cybersecurity" rel="noopener noreferrer nofollow" target="_blank">ISC2 Certified Information Systems Security Professional Common Body of Knowledge (CISSP CBK) Training Seminar</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NUS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cloud &amp; Mobility</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 days</p>
 </td>
 </tr>
 <tr>
@@ -166,7 +241,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://inetapps.nus.edu.sg/SACS/LifeLongLearning/CourseDetails/COM-MLIP_TGS-2022011025/" rel="noopener noreferrer nofollow" target="_blank">Machine Learning in Python</a>
+<p><a href="https://www.iss.nus.edu.sg/executive-education/course/detail/managing-digital--products/digital-products-platforms" rel="noopener noreferrer nofollow" target="_blank">Managing Digital Products</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -176,7 +251,7 @@ description: ""
 <p>Software Engineering</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3 days</p>
+<p>4 days</p>
 </td>
 </tr>
 <tr>

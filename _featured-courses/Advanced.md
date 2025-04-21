@@ -76,36 +76,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.suss.edu.sg/courses/detail/ait503?urlname=graduate-diploma-in-artificial-intelligence-of-things" rel="noopener noreferrer nofollow" target="_blank">Artificial Intelligence 101</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SUSS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AI &amp; Analytics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6 months</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://ace.nus.edu.sg/course/chat-models-and-natural-language-processing/" rel="noopener noreferrer nofollow" target="_blank">Chat Models and Natural Language Processing</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NUS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AI &amp; Analytics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 days</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/online-learning/nanodegree-programme/data-analyst.html" rel="noopener noreferrer nofollow" target="_blank">Data Analyst (NanoDegree)</a>
 </p>
 </td>
@@ -121,32 +91,17 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.cet.np.edu.sg/courses/data-school/" rel="noopener noreferrer nofollow" target="_blank">Data School</a>
+<p><a href="https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=TGS-2023037324" rel="noopener nofollow" target="_blank">Data Wrangling</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NP</p>
+<p>SUSS</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>AI &amp; Analytics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6 - 12 months</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://inetapps.nus.edu.sg/SACS/LifeLongLearning/CourseDetails/COM-ADL-E_TGS-2022012789/" rel="noopener noreferrer nofollow" target="_blank">Deep Learning Fundamentals (Synchronous e-learning)</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NUS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Software Engineering</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 days</p>
+<p>6 months</p>
 </td>
 </tr>
 <tr>
@@ -162,36 +117,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>2 days</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.suss.edu.sg/courses/detail/aib502" rel="noopener noreferrer nofollow" target="_blank">Ethics of AI</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SUSS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AI &amp; Analytics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3 days</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.suss.edu.sg/courses/detail/aib503" rel="noopener noreferrer nofollow" target="_blank">Foundation to Python for AI</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SUSS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AI &amp; Analytics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6 days</p>
 </td>
 </tr>
 <tr>
@@ -222,21 +147,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>2 months</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.suss.edu.sg/courses/detail/AIB551" rel="noopener noreferrer nofollow" target="_blank">Natural Language Processing</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SUSS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AI &amp; Analytics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6 days</p>
 </td>
 </tr>
 <tr>
