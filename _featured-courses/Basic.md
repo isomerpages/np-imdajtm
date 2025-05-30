@@ -60,7 +60,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.ntuclearninghub.com/en-gb/-/course/ai-tools-for-creative-professionals" rel="noopener noreferrer nofollow" target="_blank">AI Tools for Creative Professionals</a>
+<p><a href="https://www.ntuclearninghub.com/en-gb/-/course/analyzing-and-visualizing-data-with-power-bi-sf" rel="noopener nofollow" target="_blank">Analyzing and Visualizing Data with Power BI</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -239,14 +239,14 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.ntuclearninghub.com/en-gb/-/course/fundamentals-of-python-programming-sf" rel="noopener noreferrer nofollow" target="_blank">Fundamentals of Python Programming</a>
+<p><a href="https://www.ntuclearninghub.com/en-gb/-/course/fundamentals-of-the-personal-data-protection-act-pdpa-1" rel="noopener nofollow" target="_blank">Fundamentals of the Personal Data Protection Act (PDPA)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NTUC LHub</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Software Engineering</p>
+<p>AI &amp; Analytics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3 days</p>
@@ -344,17 +344,32 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.ntuclearninghub.com/en-gb/-/course/microsoft-azure-ai-fundamentals-sf" rel="noopener noreferrer nofollow" target="_blank">Microsoft Azure AI Fundamentals (SF)</a>
+<p><a href="https://www.ntuclearninghub.com/en-gb/-/course/nicf-certified-associate-in-project-management-capm-sf" rel="noopener nofollow" target="_blank">NICF Certified Associate in Project Management (CAPM)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NTUC LHub</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AI &amp; Analytics</p>
+<p>Software Engineering</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 day</p>
+<p>3 days</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.ntuclearninghub.com/en-gb/-/course/nicf-managing-projects-with-microsoft-project-sf" rel="noopener nofollow" target="_blank">NICF Managing Projects with Microsoft Project</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NTUC LHub</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Software Engineering</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 days</p>
 </td>
 </tr>
 <tr>
@@ -374,21 +389,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.ntuclearninghub.com/en-gb/-/course/querying-data-with-microsoft-transact-sql-sf" rel="noopener noreferrer nofollow" target="_blank">Querying Data with Microsoft Transact-SQL</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NTUC LHub</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AI &amp; Analytics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3 days</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="https://www.cet.np.edu.sg/courses/querying-data-with-sql/" rel="noopener noreferrer nofollow" target="_blank">Querying Data with SQL</a>
 </p>
 </td>
@@ -397,6 +397,21 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>AI &amp; Analytics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 days</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.ntuclearninghub.com/en-gb/-/course/site-reliability-engineering-foundation-sf" rel="noopener nofollow" target="_blank">Site Reliability Engineering Foundation</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NTUC LHub</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Software Engineering</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 days</p>
