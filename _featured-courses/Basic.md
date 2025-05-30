@@ -30,6 +30,21 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://stms.polite.edu.sg/student/ihlcourse/detail/8463f29d-81d2-4007-bfd0-04089d97193d" rel="noopener nofollow" target="_blank">AI Ethics: Navigating the Future of Responsible Technology (MLC)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TP RP Gen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AI &amp; Analytics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>0.5 day</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://www.ntuclearninghub.com/en-gb/-/course/ai-innovation-unleashed-navigating-the-terrain-of-prompt-engineering" rel="noopener noreferrer nofollow" target="_blank">AI Innovation Unleashed: Navigating the Terrain of Prompt Engineering</a>
 </p>
 </td>
@@ -86,21 +101,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>6 months</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://stms.polite.edu.sg/student/ihlcourse/detail/e571be8c-78af-4fe4-b494-eac31ff793b0" rel="noopener noreferrer nofollow" target="_blank">Artificial Intelligence (AI) for Boosting Productivity</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TP RP Gen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AI &amp; Analytics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 day</p>
 </td>
 </tr>
 <tr>
@@ -325,6 +325,21 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>1 day</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://stms.polite.edu.sg/student/ihlcourse/detail/b249a1e5-5c07-4703-8347-ed45d2daefeb" rel="noopener noreferrer nofollow" target="_blank">Machine Learning in Practice</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TP RP Gen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AI &amp; Analytics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 days</p>
 </td>
 </tr>
 <tr>
