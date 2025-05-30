@@ -31,6 +31,36 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://stms.polite.edu.sg/student/ihlcourse/detail/f812f8d6-7b4b-4f14-bd89-4ab908f35e74" rel="noopener noreferrer nofollow" target="_blank">AI Programming with Python (NanoDegree)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TP RP Gen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AI &amp; Analytics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 months</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://stms.polite.edu.sg/student/ihlcourse/detail/0477ce6f-ed8c-4415-953b-92d22a3cc0b5" rel="noopener noreferrer nofollow" target="_blank">Advanced Machine Learning</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TP RP Gen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AI &amp; Analytics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 days</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://www.ntuclearninghub.com/en-gb/-/course/analyse-business-data-and-create-interactive-dashboards-using-python-sf" rel="noopener noreferrer nofollow" target="_blank">Analyse Business Data and Create Interactive Dashboards using Pythons</a>
 </p>
 </td>
@@ -117,6 +147,21 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>6 months</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://stms.polite.edu.sg/student/ihlcourse/detail/4cbf9662-08d5-4c4e-8331-a7599ce6df08" rel="noopener noreferrer nofollow" target="_blank">Data Analyst (NanoDegree)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TP RP Gen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AI &amp; Analytics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 months</p>
 </td>
 </tr>
 <tr>
@@ -211,6 +256,36 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://stms.polite.edu.sg/student/ihlcourse/detail/3218fee6-2dd4-4883-8967-b91180cd5aba" rel="noopener nofollow" target="_blank">Generative AI (NanoDegree)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TP RP Gen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gen AI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 months</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://stms.polite.edu.sg/student/ihlcourse/detail/591988c9-a8d1-432b-aa0a-5cbfced95b9a" rel="noopener nofollow" target="_blank">Introduction to Machine Learning with TensorFlow (NanoDegree)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TP RP Gen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AI &amp; Analytics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 months</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://www.iss.nus.edu.sg/executive-education/course/detail/(isc)2-cissp-cbk-training-seminar-(sf)/cybersecurity" rel="noopener noreferrer nofollow" target="_blank">ISC2 Certified Information Systems Security Professional Common Body of Knowledge (CISSP CBK) Training Seminar</a>
 </p>
 </td>
@@ -222,21 +297,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>5 days</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/skillsfuture-series/machine-learning-in-practice.html" rel="noopener noreferrer nofollow" target="_blank">Machine Learning in Practice</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TP RP Gen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AI &amp; Analytics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 days</p>
 </td>
 </tr>
 <tr>
