@@ -31,21 +31,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://stms.polite.edu.sg/student/ihlcourse/detail/f812f8d6-7b4b-4f14-bd89-4ab908f35e74" rel="noopener noreferrer nofollow" target="_blank">AI Programming with Python (NanoDegree)</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TP RP Gen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AI &amp; Analytics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3 months</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="https://stms.polite.edu.sg/student/ihlcourse/detail/0477ce6f-ed8c-4415-953b-92d22a3cc0b5" rel="noopener noreferrer nofollow" target="_blank">Advanced Machine Learning</a>
 </p>
 </td>
@@ -61,32 +46,17 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.ntuclearninghub.com/en-gb/-/course/analyse-business-data-and-create-interactive-dashboards-using-python-sf" rel="noopener noreferrer nofollow" target="_blank">Analyse Business Data and Create Interactive Dashboards using Pythons</a>
+<p><a href="https://stms.polite.edu.sg/student/ihlcourse/detail/f812f8d6-7b4b-4f14-bd89-4ab908f35e74" rel="noopener noreferrer nofollow" target="_blank">AI Programming with Python (NanoDegree)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NTUC LHub</p>
+<p>TP RP Gen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>AI &amp; Analytics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 days</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.ntuclearninghub.com/en-gb/-/course/aws-cloud-practitioner-essentials-sf" rel="noopener noreferrer nofollow" target="_blank">AWS Cloud Practitioner Essentials</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NTUC LHub</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Cloud &amp; Mobility&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 day</p>
+<p>3 months</p>
 </td>
 </tr>
 <tr>
